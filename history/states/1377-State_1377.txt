@@ -6,13 +6,13 @@ state={
 		8603 8673 8751 8781 8901 8902 8903 8934 8935 8984 9150 9183 9295 9323 9443 9563 
 	}
 	history={
-	victory_points = { 9563 1 }#Белембе
-	victory_points = { 9295 1 }#Терней
-	victory_points = { 8935 1 }#Пластун
-	victory_points = { 8902 1 }#Тайга
-	victory_points = { 8903 1 }#Тетюхе
-	victory_points = { 8781 1 }#Кавелерово
-	victory_points = { 8673 1 }#Чугуевка
+	victory_points = { 9563 3 }#Белембе
+	victory_points = { 9295 12 }#Терней
+	victory_points = { 8935 11 }#Пластун
+	victory_points = { 8902 10 }#Тайга
+	victory_points = { 8903 17 }#Тетюхе
+	victory_points = { 8781 16 }#Кавелерово
+	victory_points = { 8673 15 }#Чугуевка
 		owner = YRU
 		add_core_of = YRU
 	}

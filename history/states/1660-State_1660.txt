@@ -5,12 +5,12 @@ state={
 		8654 8655 8715 8750 8819 8845 8846 8983 9053 21614 
 	}
 	history={
-	victory_points = { 8819 1 }#Спасский
-	victory_points = { 8654 1 }#Яковлевка
-	victory_points = { 8655 1 }#Арсеньев
-	victory_points = { 8983 1 }#Донск
-	victory_points = { 8845 1 }#Успенка
-	victory_points = { 8846 1 }#Озёрное
+	victory_points = { 8819 16 }#Спасский
+	victory_points = { 8654 2 }#Яковлевка
+	victory_points = { 8655 4 }#Арсеньев
+	victory_points = { 8983 5 }#Донск
+	victory_points = { 8845 10 }#Успенка
+	victory_points = { 8846 3 }#Озёрное
 		owner = YRU
 		add_core_of = YRU
 	}

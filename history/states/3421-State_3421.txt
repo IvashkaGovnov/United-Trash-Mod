@@ -5,7 +5,7 @@ state={
 		6939 6967 7021 7029 7046 7059 7186 7221 7229 7318 7331 7348 7368 
 	}
 	history={
-	victory_points = { 7331 1 }#Чжанъу
+	victory_points = { 7331 75 }#Чжанъу
 		owner = YRU
 		add_core_of = YRU
 	}

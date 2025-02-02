@@ -5,14 +5,14 @@ state={
 		8091 8102 8142 8205 8206 8227 8287 8335 8355 8454 8455 8514 
 	}
 	history={
-	victory_points = { 8335 1 }#Ольга
-	victory_points = { 8227 1 }#Малоградово
-	victory_points = { 8142 1 }#Владимиро-Александровское
-	victory_points = { 8091 1 }#Сталиноморск
-	victory_points = { 8206 1 }#Сучан
-	victory_points = { 8287 1 }#Артём
-	victory_points = { 8205 1 }#Большой Камень
-	victory_points = { 8454 1 }#Великоудобное
+	victory_points = { 8335 5 }#Ольга 3000
+	victory_points = { 8227 3 }#Малоградово
+	victory_points = { 8142 11 }#Владимиро-Александровское
+	victory_points = { 8091 30 }#Сталиноморск
+	victory_points = { 8206 15 }#Сучан
+	victory_points = { 8287 25 }#Артём
+	victory_points = { 8205 16 }#Большой Камень
+	victory_points = { 8454 10 }#Великоудобное
 		owner = YRU
 		add_core_of = YRU
 	}
