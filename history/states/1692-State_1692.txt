@@ -5,14 +5,14 @@ state={
 		8204 8286 8309 8372 8384 8419 8453 8545 8571 8572 8573 8574 8672 8714 
 	}
 	history={
-	victory_points = { 8572 1 }#Никольск
-	victory_points = { 8573 1 }#Черниговка
-	victory_points = { 8574 1 }#Ширяевка
-	victory_points = { 8672 1 }#Хорол
-	victory_points = { 8714 1 }#Ново-Качалинск
-	victory_points = { 8571 1 }#Гродеково
-	victory_points = { 8309 1 }#Раздольное
-	victory_points = { 8204 1 }#Тавричанка
+	victory_points = { 8572 25 }#Никольск
+	victory_points = { 8573 10 }#Черниговка
+	victory_points = { 8574 5 }#Ширяевка
+	victory_points = { 8672 9 }#Хороль
+	victory_points = { 8714 4 }#Ново-Качалинск
+	victory_points = { 8571 3 }#Гродеково
+	victory_points = { 8309 7 }#Раздольное
+	victory_points = { 8204 6 }#Тавричанка
 		owner = YRU
 		add_core_of = YRU
 	}

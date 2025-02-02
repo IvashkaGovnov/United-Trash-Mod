@@ -5,16 +5,16 @@ state={
 		9264 9294 9322 9365 9442 9482 9503 9504 9525 9615 9652 9715 9732 9757 9772 9812 9985 10004 10005 10176 
 	}
 	history={
-	victory_points = { 10004 1 }#Лучегорск
-	victory_points = { 9525 1 }#Усть-Иман
-	victory_points = { 9264 1 }#Лазо
-	victory_points = { 9652 1 }#Черная Речка
-	victory_points = { 9503 1 }#Пожарное
-	victory_points = { 9322 1 }#Орехово
-	victory_points = { 9772 1 }#Ново-Покровка
-	victory_points = { 10005 1 }#Боец
-	victory_points = { 9715 1 }#Благодатный
-	victory_points = { 9482 1 }#Сидатун
+	victory_points = { 10004 15 }#Лучегорск
+	victory_points = { 9442 16 }#Усть-Иман
+	victory_points = { 9264 12 }#Лазо
+	victory_points = { 9652 2 }#Черная Речка
+	victory_points = { 9503 11 }#Пожарное
+	victory_points = { 9322 3 }#Орехово
+	victory_points = { 9772 10 }#Ново-Покровка
+	victory_points = { 10005 4 }#Боец
+	victory_points = { 9715 6 }#Благодатный
+	victory_points = { 9482 5 }#Сидатун
 		owner = YRU
 		add_core_of = YRU
 	}

@@ -5,12 +5,12 @@ state={
 		8955 9132 9133 9149 9201 9321 9345 9421 9459 9546 9547 9613 9614 9672 9697 9848 10003 
 	}
 	history={
-	victory_points = { 9614 1 }#Баоцин
-	victory_points = { 10003 1 }#Чемер
-	victory_points = { 9848 1 }#Синьсин
-	victory_points = { 9459 1 }#Хулинь
-	victory_points = { 9149 1 }#Мишань
-	victory_points = { 8955 1 }#Турий Рог
+	victory_points = { 9614 27 }#Баоцин
+	victory_points = { 10003 9 }#Чемер
+	victory_points = { 9848 25 }#Синьсин
+	victory_points = { 9459 26 }#Хулинь
+	victory_points = { 9149 24 }#Мишань
+	victory_points = { 8955 3 }#Турий Рог
 		owner = YRU
 		add_core_of = YRU
 	}

@@ -5,11 +5,11 @@ state={
 		8712 8817 8818 8829 8899 8900 8954 8982 9016 9052 9111 9200 9226 9243 9293 9320 9363 9364 9399 9481 9578 9696 
 	}
 	history={
-	victory_points = { 9364 1 }#Новый Киев
-	victory_points = { 8954 1 }#Сейхуа
-	victory_points = { 9841 1 }#Южногорск
-	victory_points = { 8829 1 }#Таньюань
-	victory_points = { 9016 1 }#Ланьзин
+	victory_points = { 9364 41 }#Ичунь
+	victory_points = { 8954 40 }#Сейхуа
+	victory_points = { 9481 16 }#Южногорск
+	victory_points = { 8829 17 }#Таньюань
+	victory_points = { 9016 15 }#Ланьзин
 
 		owner = YRU
 		add_core_of = YRU

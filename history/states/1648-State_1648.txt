@@ -5,14 +5,14 @@ state={
 		7920 8029 8047 8203 8217 8236 8269 8333 8334 8405 8462 8463 8530 8570 8586 8653 8764 8798 8916 9077 9078 
 	}
 	history={
-	victory_points = { 8334 1 }#Чернодрагонск
-	victory_points = { 8029 1 }#Нингута
-	victory_points = { 7920 1 }#Солдатская
-	victory_points = { 8570 1 }#Саньсин
-	victory_points = { 9077 1 }#Дунзин
-	victory_points = { 8463 1 }#Боли
-	victory_points = { 8462 1 }#Линск
-	victory_points = { 8236 1 }#Мулин
+	victory_points = { 8334 75 }#Муданьцзян
+	victory_points = { 8029 26 }#Нингута
+	victory_points = { 7920 15 }#Солдатская
+	victory_points = { 8570 25 }#Саньсин
+	victory_points = { 9077 11 }#Дунзин
+	victory_points = { 8463 24 }#Боли
+	victory_points = { 8462 12 }#Линск
+	victory_points = { 8236 9 }#Мулин
 		owner = YRU
 		add_core_of = YRU
 	}

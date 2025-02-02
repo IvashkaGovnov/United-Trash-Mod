@@ -5,7 +5,7 @@ state={
 		8187 
 	}
 	history={
-	victory_points = { 8187 1 }#Владивлавосток
+	victory_points = { 8187 50 }#Владивосток
 		owner = YRU
 		add_core_of = YRU
 	}

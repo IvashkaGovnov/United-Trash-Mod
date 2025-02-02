@@ -8,12 +8,12 @@ state={
 		9813 10051 10069 10070 10277 10365 10544 10703 10871 11072 11266 11321 11322 
 	}
 	history={
-	victory_points = { 11322 1 }#Самарга
-	victory_points = { 11072 1 }#Перетычиха
+	victory_points = { 11322 2 }#Самарга
+	victory_points = { 11072 4 }#Перетычиха
 	victory_points = { 10871 1 }#Единка
-	victory_points = { 10051 1 }#Светлая
-	victory_points = { 10070 1 }#Верхотуровка
-	victory_points = { 9814 1 }#Великая Кема
+	victory_points = { 10051 6 }#Светлая
+	victory_points = { 10070 3 }#Верхотуровка
+	victory_points = { 9814 5 }#Великая Кема
 		owner = YRU
 		add_core_of = YRU
 	}
