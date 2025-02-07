@@ -5,6 +5,7 @@ state={
 		11231 
 	}
 	history={
+		victory_points = { 11231 32 }#Благовещинск
 		owner = ZKL
 		add_core_of = ZKL
 	}

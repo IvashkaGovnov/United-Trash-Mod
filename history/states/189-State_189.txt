@@ -5,6 +5,7 @@ state={
 		18383 18496 18542 18575 18594 18634 18648 18655 18848 
 	}
 	history={
+		victory_points = { 18594 24 }#Магадан
 		owner = MGD
 		add_core_of = MGD
 	}

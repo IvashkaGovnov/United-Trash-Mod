@@ -5,6 +5,7 @@ state={
 		12826 13207 13341 13372 13388 13489 13761 13832 14089 
 	}
 	history={
+		victory_points = { 13372 20 }#Зажопинск
 		owner = MHS
 		add_core_of = MHS
 	}
