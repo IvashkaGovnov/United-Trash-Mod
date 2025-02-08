@@ -2,7 +2,7 @@ autonomy_state = {
 	id = autonomy_satellite
 	
 	min_freedom_level = 0.80
-	
+	use_overlord_color = yes
 	manpower_influence = 0.5
 	
 	rule = {
@@ -21,6 +21,7 @@ autonomy_state = {
 		license_subject_master_purchase_cost = -1
 		autonomy_gain_global_factor = -0.3
 		peace_score_ratio_transferred_to_overlord = 0.1
+		lend_lease_tension_with_overlord = 0.-30
 	}
 	
 	ai_subject_wants_higher = {
@@ -36,15 +37,16 @@ autonomy_state = {
 	}
 
 	allowed = {
-		OR = {
-			has_dlc = "Death or Dishonor"
-			AND = {
-				OR = {
-				has_dlc = "No Step Back"
-			}
-		}
-		has_government = bidlo
-		if = {
-		}
+		
+		OVERLORD = { has_government = fascism }
+		
+	}
+	
+	can_take_level = {
+		#trigger here
+	}
+
+	can_lose_level = {
+		#trigger here
 	}
 }

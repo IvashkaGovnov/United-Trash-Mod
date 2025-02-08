@@ -4,7 +4,7 @@ autonomy_state = {
 	min_freedom_level = 0.75
 
 	peace_conference_initial_freedom = 0.001
-	
+	use_overlord_color = yes
 	manpower_influence = 0.2
 	
 	rule = {
@@ -23,6 +23,7 @@ autonomy_state = {
 		autonomy_gain = 2
 		master_ideology_drift = 0.3
 		peace_score_ratio_transferred_to_overlord = 0.15
+		lend_lease_tension_with_overlord = -0.20
 	}
 	
 	ai_subject_wants_higher = {
@@ -38,11 +39,10 @@ autonomy_state = {
 	}
 
 	allowed = {
-		has_dlc = "Man the Guns"
-		OR = {
+		
 			is_subject = no
 			has_autonomy_state = autonomy_supervised_state
-		}
+		
 	}
 
 	allowed_levels_filter = {
@@ -54,9 +54,9 @@ autonomy_state = {
 		base = 0
 		modifier = {
 			add = 5
-			has_dlc = "Man the Guns"
+			
 			FROM = {
-				has_government = burjuism 
+				has_government = burjuism  
 			}
 		}
 	}

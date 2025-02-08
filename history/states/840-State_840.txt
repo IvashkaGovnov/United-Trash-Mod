@@ -5,6 +5,10 @@ state={
 	provinces={
 		15092 15118 15214 15463 
 	}
+	history = {
+		owner = SWI
+		add_core_of = SWI
+	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural

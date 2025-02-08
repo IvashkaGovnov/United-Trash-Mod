@@ -4,6 +4,10 @@ state={
 	provinces={
 		18853 
 	}
+	history = {
+		owner = NOR
+		add_core_of = NOR
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

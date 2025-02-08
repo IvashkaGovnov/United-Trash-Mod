@@ -28,6 +28,7 @@ autonomy_state = {
 		overlord_trade_cost_factor = -0.5
 		can_master_build_for_us = 1
 		peace_score_ratio_transferred_to_overlord = 0.05
+		lend_lease_tension_with_overlord = -0.10
 	}
 	
 	ai_subject_wants_higher = {
@@ -43,11 +44,10 @@ autonomy_state = {
 	}
 
 	allowed = {
-		has_dlc = "No Step Back"
-		OR = {
+		
 			is_subject = no
 			has_autonomy_state = autonomy_personal_union
-		}
+		
 	}
 	
 	can_lose_level = {

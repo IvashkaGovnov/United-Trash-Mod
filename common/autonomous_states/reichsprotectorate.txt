@@ -5,7 +5,7 @@ autonomy_state = {
 	is_puppet = yes
 	
 	min_freedom_level = 0.5
-	
+	use_overlord_color = yes
 	manpower_influence = 0.7
 	
 	rule = {
@@ -28,6 +28,7 @@ autonomy_state = {
 		license_subject_master_purchase_cost = -1
 		autonomy_gain_global_factor = -0.3
 		peace_score_ratio_transferred_to_overlord = 0.05
+		lend_lease_tension_with_overlord = -0.30
 	}
 	
 	ai_subject_wants_higher = {
@@ -43,10 +44,7 @@ autonomy_state = {
 	}
 
 	allowed = {
-		has_dlc = "Death or Dishonor"
-		has_government = bidlo
-		if = {
-		}
+		OVERLORD = { has_government = bidlo  }
 	}
 
 	can_take_level = {

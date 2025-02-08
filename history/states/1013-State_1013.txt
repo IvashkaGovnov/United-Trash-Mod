@@ -4,6 +4,10 @@ state={
 	provinces={
 		13234 13306 13400 13481 13496 13618 13669 13773 13812 13846 21601
 	}
+	history = {
+		owner = AUS
+		add_core_of = AUS
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

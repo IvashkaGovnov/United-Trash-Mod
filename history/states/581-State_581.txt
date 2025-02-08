@@ -4,6 +4,10 @@ state={
 	provinces={
 		16064 16158 16203 16245 16393 16452 16493 16614 16800 
 	}
+	history = {
+		owner = DDR
+		add_core_of = DDR
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

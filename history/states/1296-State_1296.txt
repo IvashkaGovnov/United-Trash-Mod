@@ -4,6 +4,10 @@ state={
 	provinces={
 		11778 11837 11867 12080 12131 
 	}
+	history = {
+		owner = CRO
+		add_core_of = CRO
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

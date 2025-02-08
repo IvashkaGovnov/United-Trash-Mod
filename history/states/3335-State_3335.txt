@@ -5,8 +5,8 @@ state={
 		17063 17125 17126 17230 17324 17373 17546 17547 17615 17717 17837 17838 17918 18089 18117 18202 18294 
 	}
 	history={
-		owner = USA
-		add_core_of = USA
+		owner = CAN
+		add_core_of = CAN
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

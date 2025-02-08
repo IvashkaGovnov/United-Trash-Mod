@@ -1,2 +1,4 @@
 
 USA = "countries/USA.txt"
+CAN = "countries/Canada.txt"
+MEX = "countries/Mexico.txt"
