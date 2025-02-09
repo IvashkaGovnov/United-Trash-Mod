@@ -4,6 +4,10 @@ state={
 	provinces={
 		4259 4260 4269 
 	}
+	history={
+		owner = DIJ
+		add_core_of = DIJ
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

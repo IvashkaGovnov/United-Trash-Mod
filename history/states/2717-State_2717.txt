@@ -4,6 +4,10 @@ state={
 	provinces={
 		2069 2107 2126 2144 2178 2199 2217 2261 2301 2322 2332 2372 2413 2458 2493 2524 2534 2596 2629 2654 2687 2702 2762 20723 
 	}
+	history={
+		owner = SCO
+		add_core_of = SCO
+	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural

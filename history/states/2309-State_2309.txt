@@ -4,6 +4,10 @@ state={
 	provinces={
 		4415 4489 4496 4556 
 	}
+	history={
+		owner = BRI
+		add_core_of = BRI
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

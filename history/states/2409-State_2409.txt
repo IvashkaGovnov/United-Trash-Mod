@@ -4,6 +4,10 @@ state={
 	provinces={
 		3700 3701 3798 3813 3855 3898 3918 
 	}
+	history={
+		owner = WLS
+		add_core_of = WLS
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

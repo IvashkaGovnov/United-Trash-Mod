@@ -4,6 +4,10 @@ state={
 	provinces={
 		1628 1723 1777 1814 1875 1914 1930 2023 21571 
 	}
+	history={
+		owner = IRA
+		add_core_of = IRA
+	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural

@@ -4,6 +4,10 @@ state={
 	provinces={
 		2334 2482 2510 2555 2597 2630 2666 2722 2741 2852 2853 3019 
 	}
+	history={
+		owner = SCO
+		add_core_of = SCO
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

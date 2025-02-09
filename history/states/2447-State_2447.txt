@@ -4,6 +4,10 @@ state={
 	provinces={
 		3904 
 	}
+	history={
+		owner = IEG
+		add_core_of = IEG
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

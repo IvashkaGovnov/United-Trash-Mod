@@ -4,6 +4,10 @@ state={
 	provinces={
 		2022 2050 2135 2160 2168 2262 2303 
 	}
+	history={
+		owner = TET
+		add_core_of = TET
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000

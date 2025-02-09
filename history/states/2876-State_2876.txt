@@ -4,6 +4,10 @@ state={
 	provinces={
 		1621 1654 1655 1695 1706 1724 1729 1749 1799 1830 1836 1837 1859 1894 1937 2024 
 	}
+	history={
+		owner = YRE
+		add_core_of = YRE
+	}
 	manpower=1
 	state_category = "rural"
 	buildings_max_level_factor=1.000
