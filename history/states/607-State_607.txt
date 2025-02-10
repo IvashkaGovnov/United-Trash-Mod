@@ -5,6 +5,7 @@ state={
 		16235 16326 16463 
 	}
 	history={
+		victory_points = { 16326 2 }#Аян
 		owner = YAK
 		add_core_of = YAK
 	}

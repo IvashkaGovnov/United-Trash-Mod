@@ -5,6 +5,7 @@ state={
 		14573 14647 14668 14968 15000 15132 
 	}
 	history={
+		victory_points = { 15000 5 }#Чара
 		owner = YAK
 		add_core_of = YAK
 	}
