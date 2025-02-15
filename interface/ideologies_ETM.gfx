@@ -4,75 +4,75 @@ spriteTypes = {
 	#ANORCHISM#
 
 	spriteType = {
-		name = "GFX_ideology_anorchism_anarcho_communism_subtype"
+		name = "GFX_ideology_anarcho_communism"
 		texturefile = "gfx/interface/ideologies_ETM/anarcho_communism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_anarcho_borshewism_subtype"
+		name = "GFX_ideology_anarcho_borshewism"
 		texturefile = "gfx/interface/ideologies_ETM/anarcho_borshewism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_anarcho_bund_subtype"
+		name = "GFX_ideology_anarcho_bund"
 		texturefile = "gfx/interface/ideologies_ETM/anarcho_bund_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_religious_anorchism_subtype"
+		name = "GFX_ideology_religious_anorchism"
 		texturefile = "gfx/interface/ideologies_ETM/religious_anorchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_anarcho_nihilism_subtype"
+		name = "GFX_ideology_anarcho_nihilism"
 		texturefile = "gfx/interface/ideologies_ETM/anarcho_nihilism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_philosophic_anorchism_subtype"
+		name = "GFX_ideology_philosophic_anorchism"
 		texturefile = "gfx/interface/ideologies_ETM/philosophic_anorchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_anarcho_egoism_subtype"
+		name = "GFX_ideology_anarcho_egoism"
 		texturefile = "gfx/interface/ideologies_ETM/anarcho_egoism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_post_leftism_subtype"
+		name = "GFX_ideology_post_leftism"
 		texturefile = "gfx/interface/ideologies_ETM/post_leftism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_anarcho_primitivism_subtype"
+		name = "GFX_ideology_anarcho_primitivism"
 		texturefile = "gfx/interface/ideologies_ETM/anarcho_primitivism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_eco_anorchism_subtype"
+		name = "GFX_ideology_eco_anorchism"
 		texturefile = "gfx/interface/ideologies_ETM/eco_anorchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_techno_anorchism_subtype"
+		name = "GFX_ideology_techno_anorchism"
 		texturefile = "gfx/interface/ideologies_ETM/techno_anorchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_pirate_anorchism_subtype"
+		name = "GFX_ideology_pirate_anorchism"
 		texturefile = "gfx/interface/ideologies_ETM/pirate_anorchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_market_anorchism_subtype"
+		name = "GFX_ideology_market_anorchism"
 		texturefile = "gfx/interface/ideologies_ETM/market_anorchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_national_anarchism_subtype"
+		name = "GFX_ideology_national_anarchism"
 		texturefile = "gfx/interface/ideologies_ETM/national_anarchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_antijapanism_subtype"
+		name = "GFX_ideology_antijapanism"
 		texturefile = "gfx/interface/ideologies_ETM/antijapanism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_terpila_anorchism_subtype"
+		name = "GFX_ideology_terpila_anorchism"
 		texturefile = "gfx/interface/ideologies_ETM/terpila_anorchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_analchism_subtype"
+		name = "GFX_ideology_analchism"
 		texturefile = "gfx/interface/ideologies_ETM/analchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_anorchism_anarchism_bez_nikhuya_subtype"
+		name = "GFX_ideology_anarchism_bez_nikhuya"
 		texturefile = "gfx/interface/ideologies_ETM/anarchism_bez_nikhuya_subtype.dds"
 	}
 	
@@ -80,111 +80,107 @@ spriteTypes = {
 	#BORSCHEVISM#
 	
 	spriteType = {
-		name = "GFX_ideology_borshewism_mraxism_subtype"
+		name = "GFX_ideology_mraxism"
 		texturefile = "gfx/interface/ideologies_ETM/mraxism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_orthodox_borshewism_subtype"
+		name = "GFX_ideology_orthodox_borshewism"
 		texturefile = "gfx/interface/ideologies_ETM/orthodox_borshewism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_gribonism_subtype"
+		name = "GFX_ideology_gribonism"
 		texturefile = "gfx/interface/ideologies_ETM/gribonism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_left_avangardism_subtype"
+		name = "GFX_ideology_left_avangardism"
 		texturefile = "gfx/interface/ideologies_ETM/left_avangardism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_vperedism_subtype"
+		name = "GFX_ideology_vperedism"
 		texturefile = "gfx/interface/ideologies_ETM/vperedism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_sralinism_subtype"
+		name = "GFX_ideology_sralinism"
 		texturefile = "gfx/interface/ideologies_ETM/sralinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_samostiynost_subtype"
+		name = "GFX_ideology_samostiynost"
 		texturefile = "gfx/interface/ideologies_ETM/samostiynost_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_trotskism_subtype"
+		name = "GFX_ideology_trotskism"
 		texturefile = "gfx/interface/ideologies_ETM/trotskism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_posadism_subtype"
+		name = "GFX_ideology_posadism"
 		texturefile = "gfx/interface/ideologies_ETM/posadism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_polpotism_subtype"
+		name = "GFX_ideology_polpotism"
 		texturefile = "gfx/interface/ideologies_ETM/polpotism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_borshewic_nationalism_subtype"
+		name = "GFX_ideology_borshewic_nationalism"
 		texturefile = "gfx/interface/ideologies_ETM/borshewic_nationalism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_monarcho_borshevism_subtype"
+		name = "GFX_ideology_monarcho_borshevism"
 		texturefile = "gfx/interface/ideologies_ETM/monarcho_borshevism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_war_communism_subtype"
+		name = "GFX_ideology_war_communism"
 		texturefile = "gfx/interface/ideologies_ETM/war_communism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_religious_borshewism_subtype"
+		name = "GFX_ideology_religious_borshewism"
 		texturefile = "gfx/interface/ideologies_ETM/religious_borshewism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_left_dolbolsaviye_subtype"
+		name = "GFX_ideology_left_dolbolsaviye"
 		texturefile = "gfx/interface/ideologies_ETM/left_dolbolsaviye_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_left_dolbolsaviye_subtype"
-		texturefile = "gfx/interface/ideologies_ETM/left_dolbolsaviye_subtype.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_borshewism_sex_communism_subtype"
+		name = "GFX_ideology_sex_communism"
 		texturefile = "gfx/interface/ideologies_ETM/sex_communism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_donat_borshewism_subtype"
+		name = "GFX_ideology_donat_borshewism"
 		texturefile = "gfx/interface/ideologies_ETM/donat_borshewism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_alko_borshewism_subtype"
+		name = "GFX_ideology_alko_borshewism"
 		texturefile = "gfx/interface/ideologies_ETM/alko_borshewism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_dermokradic_borshewism_subtype"
+		name = "GFX_ideology_dermokradic_borshewism"
 		texturefile = "gfx/interface/ideologies_ETM/dermokradic_borshewism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_utopianism_subtype"
+		name = "GFX_ideology_utopianism"
 		texturefile = "gfx/interface/ideologies_ETM/utopianism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_nostalgic_borshewism_subtype"
+		name = "GFX_ideology_nostalgic_borshewism"
 		texturefile = "gfx/interface/ideologies_ETM/nostalgic_borshewism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_narodnichestvo_subtype"
+		name = "GFX_ideology_narodnichestvo"
 		texturefile = "gfx/interface/ideologies_ETM/narodnichestvo_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_tradeunionism_subtype"
+		name = "GFX_ideology_tradeunionism"
 		texturefile = "gfx/interface/ideologies_ETM/tradeunionism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_revolutionary_front_subtype"
+		name = "GFX_ideology_revolutionary_front"
 		texturefile = "gfx/interface/ideologies_ETM/revolutionary_front_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_angsoc_subtype"
+		name = "GFX_ideology_angsoc"
 		texturefile = "gfx/interface/ideologies_ETM/angsoc_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_borshewism_gnostic_liberation_subtype"
+		name = "GFX_ideology_gnostic_liberation"
 		texturefile = "gfx/interface/ideologies_ETM/gnostic_liberation_subtype.dds"
 	}
 	
@@ -192,115 +188,115 @@ spriteTypes = {
 	#BIDLOISM#
 	
 	spriteType = {
-		name = "GFX_ideology_bidlo_nazbol_subtype"
+		name = "GFX_ideology_nazbol"
 		texturefile = "gfx/interface/ideologies_ETM/nazbol_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_strasserism_subtype"
+		name = "GFX_ideology_strasserism"
 		texturefile = "gfx/interface/ideologies_ETM/strasserism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_grazhdane_sssr_subtype"
+		name = "GFX_ideology_grazhdane_sssr"
 		texturefile = "gfx/interface/ideologies_ETM/grazhdane_sssr_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_right_dolboslaviye_subtype"
+		name = "GFX_ideology_right_dolboslaviye"
 		texturefile = "gfx/interface/ideologies_ETM/right_dolboslaviye_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_mrakobesiye_subtype"
+		name = "GFX_ideology_mrakobesiye"
 		texturefile = "gfx/interface/ideologies_ETM/mrakobesiye_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_occultism_subtype"
+		name = "GFX_ideology_occultism"
 		texturefile = "gfx/interface/ideologies_ETM/occultism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_abdulovera_subtype"
+		name = "GFX_ideology_abdulovera"
 		texturefile = "gfx/interface/ideologies_ETM/abdulovera_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_fashiki_subtype"
+		name = "GFX_ideology_fashiki"
 		texturefile = "gfx/interface/ideologies_ETM/fashiki_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_nazi_subtype"
+		name = "GFX_ideology_nazi"
 		texturefile = "gfx/interface/ideologies_ETM/nazi_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_lmaoburgsis_subtype"
+		name = "GFX_ideology_lmaoburgsis"
 		texturefile = "gfx/interface/ideologies_ETM/lmaoburgsis_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_toleratedictatorship_subtype"
+		name = "GFX_ideology_toleratedictatorship"
 		texturefile = "gfx/interface/ideologies_ETM/toleratedictatorship_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_trap_fashiki_subtype"
+		name = "GFX_ideology_trap_fashiki"
 		texturefile = "gfx/interface/ideologies_ETM/trap_fashiki_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_radical_feminism_subtype"
+		name = "GFX_ideology_radical_feminism"
 		texturefile = "gfx/interface/ideologies_ETM/radical_feminism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_cute_monarchism_subtype"
+		name = "GFX_ideology_cute_monarchism"
 		texturefile = "gfx/interface/ideologies_ETM/cute_monarchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_chornaya_sotnya_subtype"
+		name = "GFX_ideology_chornaya_sotnya"
 		texturefile = "gfx/interface/ideologies_ETM/chornaya_sotnya_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_national_burzhuism_subtype"
+		name = "GFX_ideology_national_burzhuism"
 		texturefile = "gfx/interface/ideologies_ETM/national_burzhuism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_altright_subtype"
+		name = "GFX_ideology_altright"
 		texturefile = "gfx/interface/ideologies_ETM/altright_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_social_darwinism_subtype"
+		name = "GFX_ideology_social_darwinism"
 		texturefile = "gfx/interface/ideologies_ETM/social_darwinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_senator_armstrong_subtype"
+		name = "GFX_ideology_senator_armstrong"
 		texturefile = "gfx/interface/ideologies_ETM/senator_armstrong_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_iron_dimon_subtype"
+		name = "GFX_ideology_iron_dimon"
 		texturefile = "gfx/interface/ideologies_ETM/iron_dimon_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_eco_fashiki_subtype"
+		name = "GFX_ideology_eco_fashiki"
 		texturefile = "gfx/interface/ideologies_ETM/eco_fashiki_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_gopniki_subtype"
+		name = "GFX_ideology_gopniki"
 		texturefile = "gfx/interface/ideologies_ETM/gopniki_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_ebengrad_system_subtype"
+		name = "GFX_ideology_ebengrad_system"
 		texturefile = "gfx/interface/ideologies_ETM/ebengrad_system_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_illuminatism_subtype"
+		name = "GFX_ideology_illuminatism"
 		texturefile = "gfx/interface/ideologies_ETM/illuminatism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_horde_subtype"
+		name = "GFX_ideology_horde"
 		texturefile = "gfx/interface/ideologies_ETM/horde_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_chris_chan_system_subtype"
+		name = "GFX_ideology_chris_chan_system"
 		texturefile = "gfx/interface/ideologies_ETM/chris_chan_system_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_nuclear_destruction_subtype"
+		name = "GFX_ideology_nuclear_destruction"
 		texturefile = "gfx/interface/ideologies_ETM/nuclear_destruction_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_bidlo_demiurgism_subtype"
+		name = "GFX_ideology_demiurgism"
 		texturefile = "gfx/interface/ideologies_ETM/demiurgism_subtype.dds"
 	}
 	
@@ -308,99 +304,95 @@ spriteTypes = {
 	#PAKHANISM#
 	
 	spriteType = {
-		name = "GFX_ideology_pahanism_gachism_subtype"
+		name = "GFX_ideology_gachism"
 		texturefile = "gfx/interface/ideologies_ETM/gachism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_flexism_subtype"
+		name = "GFX_ideology_flexism"
 		texturefile = "gfx/interface/ideologies_ETM/flexism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_radicalcentrism_subtype"
+		name = "GFX_ideology_radicalcentrism"
 		texturefile = "gfx/interface/ideologies_ETM/radicalcentrism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_dumerism_subtype"
+		name = "GFX_ideology_dumerism"
 		texturefile = "gfx/interface/ideologies_ETM/dumerism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_postironism_subtype"
+		name = "GFX_ideology_postironism"
 		texturefile = "gfx/interface/ideologies_ETM/postironism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_avangardism_subtype"
+		name = "GFX_ideology_avangardism"
 		texturefile = "gfx/interface/ideologies_ETM/avangardism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_typicalauthoritarism_subtype"
+		name = "GFX_ideology_typicalauthoritarism"
 		texturefile = "gfx/interface/ideologies_ETM/typicalauthoritarism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_junta_subtype"
+		name = "GFX_ideology_junta"
 		texturefile = "gfx/interface/ideologies_ETM/junta_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_junta_subtype"
-		texturefile = "gfx/interface/ideologies_ETM/junta_subtype.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_pahanism_mercs_subtype"
+		name = "GFX_ideology_mercs"
 		texturefile = "gfx/interface/ideologies_ETM/mercs_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_occupation_regime_subtype"
+		name = "GFX_ideology_occupation_regime"
 		texturefile = "gfx/interface/ideologies_ETM/occupation_regime_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_manyarchism_subtype"
+		name = "GFX_ideology_manyarchism"
 		texturefile = "gfx/interface/ideologies_ETM/manyarchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_russian_traditions_subtype"
+		name = "GFX_ideology_russian_traditions"
 		texturefile = "gfx/interface/ideologies_ETM/russian_traditions_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_verunstvo_subtype"
+		name = "GFX_ideology_verunstvo"
 		texturefile = "gfx/interface/ideologies_ETM/verunstvo_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_techodrochka_subtype"
+		name = "GFX_ideology_techodrochka"
 		texturefile = "gfx/interface/ideologies_ETM/techodrochka_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_tsardemocrasy_subtype"
+		name = "GFX_ideology_tsardemocrasy"
 		texturefile = "gfx/interface/ideologies_ETM/tsardemocrasy_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_longism_subtype"
+		name = "GFX_ideology_longism"
 		texturefile = "gfx/interface/ideologies_ETM/longism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_glongism_subtype"
+		name = "GFX_ideology_glongism"
 		texturefile = "gfx/interface/ideologies_ETM/glongism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_anarchopunk_subtype"
+		name = "GFX_ideology_anarchopunk"
 		texturefile = "gfx/interface/ideologies_ETM/anarchopunk_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_anarcho_manyarchism_subtype"
+		name = "GFX_ideology_anarcho_manyarchism"
 		texturefile = "gfx/interface/ideologies_ETM/anarcho_manyarchism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_shueppsh_subtype"
+		name = "GFX_ideology_shueppsh"
 		texturefile = "gfx/interface/ideologies_ETM/shueppsh_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_dvacherism_subtype"
+		name = "GFX_ideology_dvacherism"
 		texturefile = "gfx/interface/ideologies_ETM/dvacherism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_trash_politics_subtype"
+		name = "GFX_ideology_trash_politics"
 		texturefile = "gfx/interface/ideologies_ETM/trash_politics_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_pahanism_razumism_subtype"
+		name = "GFX_ideology_razumism"
 		texturefile = "gfx/interface/ideologies_ETM/razumism_subtype.dds"
 	}
 	
@@ -408,63 +400,63 @@ spriteTypes = {
 	#PUTINISM#
 	
 	spriteType = {
-		name = "GFX_ideology_putinism_imperial_putinism_subtype"
+		name = "GFX_ideology_imperial_putinism"
 		texturefile = "gfx/interface/ideologies_ETM/imperial_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_colonial_putinism_subtype"
+		name = "GFX_ideology_colonial_putinism"
 		texturefile = "gfx/interface/ideologies_ETM/colonial_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_eltsynism_subtype"
+		name = "GFX_ideology_eltsynism"
 		texturefile = "gfx/interface/ideologies_ETM/eltsynism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_plastic_putinism_subtype"
+		name = "GFX_ideology_plastic_putinism"
 		texturefile = "gfx/interface/ideologies_ETM/plastic_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_oligarhiya_subtype"
+		name = "GFX_ideology_oligarhiya"
 		texturefile = "gfx/interface/ideologies_ETM/oligarhiya_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_prikhvatocracy_subtype"
+		name = "GFX_ideology_prikhvatocracy"
 		texturefile = "gfx/interface/ideologies_ETM/prikhvatocracy_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_esoteric_putinism_subtype"
+		name = "GFX_ideology_esoteric_putinism"
 		texturefile = "gfx/interface/ideologies_ETM/esoteric_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_atomic_orthodoxy_subtype"
+		name = "GFX_ideology_atomic_orthodoxy"
 		texturefile = "gfx/interface/ideologies_ETM/atomic_orthodoxy_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_japanese_putinism_subtype"
+		name = "GFX_ideology_japanese_putinism"
 		texturefile = "gfx/interface/ideologies_ETM/japanese_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_western_putinism_subtype"
+		name = "GFX_ideology_western_putinism"
 		texturefile = "gfx/interface/ideologies_ETM/western_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_duginism_subtype"
+		name = "GFX_ideology_duginism"
 		texturefile = "gfx/interface/ideologies_ETM/duginism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_left_putinism_subtype"
+		name = "GFX_ideology_left_putinism"
 		texturefile = "gfx/interface/ideologies_ETM/left_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_securocracy_subtype"
+		name = "GFX_ideology_securocracy"
 		texturefile = "gfx/interface/ideologies_ETM/securocracy_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_roskomnadzor_subtype"
+		name = "GFX_ideology_roskomnadzor"
 		texturefile = "gfx/interface/ideologies_ETM/roskomnadzor_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_morgenshterism_subtype"
+		name = "GFX_ideology_morgenshterism"
 		texturefile = "gfx/interface/ideologies_ETM/morgenshterism_subtype.dds"
 	}
 	
@@ -472,59 +464,59 @@ spriteTypes = {
 	#BOURGEOISM#
 	
 	spriteType = {
-		name = "GFX_ideology_burjuism_liberakha_subtype"
+		name = "GFX_ideology_liberakha"
 		texturefile = "gfx/interface/ideologies_ETM/liberakha_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_national_liberakha_subtype"
+		name = "GFX_ideology_national_liberakha"
 		texturefile = "gfx/interface/ideologies_ETM/national_liberakha_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_conserva_subtype"
+		name = "GFX_ideology_conserva"
 		texturefile = "gfx/interface/ideologies_ETM/conserva_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_american_dream_subtype"
+		name = "GFX_ideology_american_dream"
 		texturefile = "gfx/interface/ideologies_ETM/american_dream_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_atlantism_subtype"
+		name = "GFX_ideology_atlantism"
 		texturefile = "gfx/interface/ideologies_ETM/atlantism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_social_dermocracy_subtype"
+		name = "GFX_ideology_social_dermocracy"
 		texturefile = "gfx/interface/ideologies_ETM/social_dermocracy_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_sjw_system_subtype"
+		name = "GFX_ideology_sjw_system"
 		texturefile = "gfx/interface/ideologies_ETM/sjw_system_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_greens_subtype"
+		name = "GFX_ideology_greens"
 		texturefile = "gfx/interface/ideologies_ETM/greens_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_zoomerism_subtype"
+		name = "GFX_ideology_zoomerism"
 		texturefile = "gfx/interface/ideologies_ETM/zoomerism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_onlyfansism_subtype"
+		name = "GFX_ideology_onlyfansism"
 		texturefile = "gfx/interface/ideologies_ETM/onlyfansism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_pedophilia_subtype"
+		name = "GFX_ideology_pedophilia"
 		texturefile = "gfx/interface/ideologies_ETM/pedophilia_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_objectivism_subtype"
+		name = "GFX_ideology_objectivism"
 		texturefile = "gfx/interface/ideologies_ETM/objectivism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_right_accelerationism_subtype"
+		name = "GFX_ideology_right_accelerationism"
 		texturefile = "gfx/interface/ideologies_ETM/right_accelerationism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_burjuism_demshiza_subtype"
+		name = "GFX_ideology_demshiza"
 		texturefile = "gfx/interface/ideologies_ETM/demshiza_subtype.dds"
 	}
 }
