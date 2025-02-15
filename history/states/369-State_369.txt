@@ -5,6 +5,7 @@ state={
 		17928 
 	}
 	history={
+		victory_points = { 17928 26 }#Петропавловск-Камчатский
 		owner = KAM
 		add_core_of = KAM
 	}

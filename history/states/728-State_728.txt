@@ -5,6 +5,7 @@ state={
 		13660 14090 14279 15157 15616 
 	}
 	history={
+		victory_points = { 14090 10 }#Ноглики
 		owner = SKH
 		add_core_of = SKH
 	}
