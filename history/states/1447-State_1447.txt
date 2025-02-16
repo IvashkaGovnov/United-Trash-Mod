@@ -5,6 +5,7 @@ state={
 		9830 9912 9952 10128 10202 10335 10336 10440 10441 10519 10540 10701 
 	}
 	history={
+		victory_points = { 10441 41 }#Чита
 		owner = ASR
 		add_core_of = ASR
 	}

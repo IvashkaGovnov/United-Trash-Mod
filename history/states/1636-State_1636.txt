@@ -4,7 +4,8 @@ state={
 	provinces={
 		8884 8951 8977 9030 9072 9095 9146 9241 
 	}
-	history={
+	history={		
+		victory_points = { 8951 16 }#Кяхта
 		owner = ASR
 		add_core_of = ASR
 	}

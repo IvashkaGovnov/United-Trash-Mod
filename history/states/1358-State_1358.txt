@@ -5,6 +5,7 @@ state={
 		9591 9592 9770 9981 10203 10204 10520 10600 10793 11165 
 	}
 	history={
+		victory_points = { 9770 21 }#Краснокаменск
 		owner = ASR
 		add_core_of = ASR
 	}
