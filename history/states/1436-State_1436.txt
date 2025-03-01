@@ -5,6 +5,7 @@ state={
 		9694 9752 9798 9863 9975 10048 10067 10517 
 	}
 	history={
+		victory_points = { 10067 5 }#Еланцы
 		owner = ASR
 		add_core_of = ASR
 	}

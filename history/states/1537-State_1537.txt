@@ -5,6 +5,7 @@ state={
 		9281 9342 9362 9455 9545 9608 9670 9753 9864 9911 9976 9977 10028  
 	}
 	history={
+		victory_points = { 9911 45 }#Улан-Удэ
 		owner = BRY
 		add_core_of = BRY
 	}

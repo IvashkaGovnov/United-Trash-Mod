@@ -5,6 +5,7 @@ state={
 		10254 10296 10381 10404 10598 10666 10700 10840 11068 
 	}
 	history={
+		victory_points = { 10254 5 }#Усть-Ордынский
 		owner = ASR
 		add_core_of = ASR
 	}

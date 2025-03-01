@@ -5,6 +5,7 @@ state={
 		9316 9341 9397 9438 9439 9500 9522 9768 9796 10253 
 	}
 	history={
+		victory_points = { 9316 3 }#Тунка
 		owner = ASR
 		add_core_of = ASR
 	}

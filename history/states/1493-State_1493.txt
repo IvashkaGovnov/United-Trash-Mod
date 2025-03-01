@@ -5,6 +5,8 @@ state={
 		9797 9910 9974 10027 10047 10127 10472 
 	}
 	history={
+		victory_points = { 10047 20 }#Черемхово
+		victory_points = { 10027 30 }#Ангарск
 		owner = ASR
 		add_core_of = ASR
 	}

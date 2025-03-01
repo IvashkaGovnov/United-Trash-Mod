@@ -5,6 +5,7 @@ state={
 		10539 
 	}
 	history={
+		victory_points = { 10539 3 }#Хужир
 		owner = ASR
 		add_core_of = ASR
 	}
