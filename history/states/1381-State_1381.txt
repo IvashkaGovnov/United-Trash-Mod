@@ -5,6 +5,7 @@ state={
 		11314 11380 11399 
 	}
 	history = {
+		victory_points = { 11380 65 }#Тольятти
 		owner = SMR
 		add_core_of = SMR
 	}

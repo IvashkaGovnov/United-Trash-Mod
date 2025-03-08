@@ -5,6 +5,7 @@ state={
 		11080 11129 11250 
 	}
 	history = {
+		victory_points = { 11250 20 }#Жигулёвск
 		owner = SMR
 		add_core_of = SMR
 	}

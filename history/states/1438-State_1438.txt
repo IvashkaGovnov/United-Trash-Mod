@@ -5,6 +5,7 @@ state={
 		11061 
 	}
 	history = {
+		victory_points = { 11061 87 }#Самара
 		owner = SMR
 		add_core_of = SMR
 	}

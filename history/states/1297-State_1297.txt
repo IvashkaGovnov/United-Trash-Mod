@@ -5,6 +5,7 @@ state={
 		11640 11641 11814 11815 11816 11847 11959 11991 12110 12182 21637 
 	}
 	history = {
+		victory_points = { 11815 25 }#Димитровград
 		owner = SMR
 		add_core_of = SMR
 	}

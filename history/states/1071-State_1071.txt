@@ -5,6 +5,9 @@ state={
 		13525 13581 13679 
 	}
 	history = {
+		victory_points = { 13525 80 }#Южный Горький
+		victory_points = { 13679 30 }#Северный Горький
+		victory_points = { 13581 30 }#Западный Горький
 		owner = EUR
 		add_core_of = EUR
 	}

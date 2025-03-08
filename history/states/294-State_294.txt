@@ -6,6 +6,8 @@ state={
 		13626 13778 14054 
 	}
 	history = {
+		victory_points = { 13626 31 }#Дзержинск
+		victory_points = { 14054 10 }#Чкаловск
 		owner = EUR
 		add_core_of = EUR
 	}
