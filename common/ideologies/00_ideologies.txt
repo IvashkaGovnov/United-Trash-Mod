@@ -291,6 +291,10 @@ ideologies = {
 				can_be_randomly_selected = no
 			}
 			
+			esoteric_borshewism = {
+				can_be_randomly_selected = no
+			}
+			
 			gnostic_liberation = {
 				can_be_randomly_selected = no
 			}
