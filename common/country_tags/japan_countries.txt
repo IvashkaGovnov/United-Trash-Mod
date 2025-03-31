@@ -1,1 +1,4 @@
-JP1 = "countries/JP1.txt"
+PEL = "countries/PEL.txt"
+RAV = "countries/RAV.txt"
+GYO = "countries/GYO.txt"
+MIR = "countries/MIR.txt"

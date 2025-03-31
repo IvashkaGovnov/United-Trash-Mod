@@ -1,0 +1,447 @@
+*ELIZIUM/OFIR: 
+SNE – Snejnaya Sovetskaya Respublika  
+RBS – Revolyusionnie Brigadi Snejnoy  
+SHK – Shaxterskoe Korolevstvo  
+ESM – Esempiyskiy Kordon  
+RAZ – Razboynichiy Osobnyak  
+TXR – Tyomnie Sili Xerobrina  
+KRI – Kriperskaya Liga  
+OGK – Ob’edinyonnie Griferskie Klani  
+SKO – Sotrudnichestvo Komand  
+KOK – Kommuna Kopateley  
+ROB – Roblokserskoe Sodrujestvo  
+RNV – Respublika Noviy Vartovsk  
+STF – Strelkovie Assosiasii Fortnayta  
+IMS – Imperium Snyusa  
+PAX – Padishaxstvo Araxis  
+OBO – Ob’edinyonnie Bobovie Oblasti  
+SSP – SSP-Faundeyshn  
+DUR – Psixiatricheskaya Lechebnisa  
+GOL – Nezavisimie Xutori Novoy Ukraini  
+XIL – OPG Xilichurki  
+MON – Mondshtadtskiy Priton  
+KOZ – Kozlinoe Xanstvo  
+EKV – Korolevstvo Ekvestriya  
+VON – Dizorganizovannie Territorii Vonderlanda  
+GAR – Vladeniya Gargamelya  
+SMU – Smurfidol  
+GDS – Respublika Geometri-Deshiya  
+SLO – Slonovaya Administrasiya  
+ENT – Entenrayx  
+ZPT – Zona Prebivaniya Telepuzikov  
+TAZ – Gonochnaya Zona  
+ZVE – Gorod-Gosudarstvo Zveropolis  
+AUF – Stai Auf-Volkov  
+POP – Federativnaya Respublika Popugayya  
+KLK – Kun-Lunskaya Klika  
+FSK – Federasiya Severnix Fevritskix Kommun  
+OST – Ostrovnaya Zona Otchujdeniya  
+NVF – Nasionalno-Osvoboditelniy Front Vakfu  
+STM – Mejdunarodniy Konsorsium Stim  
+NGV – Nyugraundskiy Voenniy Komitet  
+ZIM – Fevritskaya Imperiya Zenoyriya  
+UUU – Korolevstvo Uuu  
+XAL – Korolevstvo Xallounest  
+ERD – Korolevstvo Erendell  
+ADG – Korolevstvo Ad  
+EBT – Korolevstvo Ebott  
+MEK – Korolevstvo Mekkan  
+FRD – Korolevstvo Fridoniya  
+*BELAYa AMERIKA
+SSA – Soedinyonnie Shtati Ameriki  
+KAN – Vremennoe Pravitelstvo Kanadskogo Sodrujestva  
+MEK – Vremennoe Pravitelstvo Meksikanskix Shtatov  
+GVA – Vremennoe Pravitelstvo Respubliki Gvatemala  
+YUK – Vremennoe Pravitelstvo Respubliki Yukatan  
+KVF – Korolevskiy Flot Velikobritanii  
+ACR – Amerikanskaya Konstitusionnaya Respublika  
+ASU – Amerikanskiy Soyuz  
+OPO – Obshestvo Poznaniya  
+KON – Kontinentalniy Kongress  
+NAR – Novaya Afromerikanskaya Respublika  
+KRF – Kentukkiyskiy Revolyusionniy Front  
+KSA – Konfederativnie Shtati Ameriki  
+AGS – Amerikanskoe Gosudarstvo  
+TNR – Texasskaya Narodnaya Respublika  
+AKA – Antifashistskiy Komitet Ameriki  
+CHR – Cherepashiy Ostrov  
+STA – Svobodnie Territorii Ameriki  
+IRM – Industrialnie Rabochie Mira  
+SRD – Svyashennaya Respublika Desert  
+BSF – Kompaniya Besezda Softvorks  
+KLR – Kaliforniyskaya Respublika  
+WDC – Uolt Disney Kompani  
+OTR – Otreshyonnie  
+NAN – Nevadskaya Anarxiya  
+Z51 – Zona 51  
+POS – Possum Springs  
+NYK – Nyu-York  
+YUP – Yujniy Park  
+MAY – Mayami  
+HOL – Gollivud  
+NST – Nayt-Siti  
+HOU – Xyuston  
+LVG – Las-Vegas  
+RAK – Rakersvil  
+VSI – Vay-Siti  
+SND – Sanan-Dres  
+SPF – Springfild  
+DEN – Denvill  
+PTK – Pitoriya  
+PAR – Paradiz  
+GLT – Glitch-Siti  
+AEP – Aleutskaya Eparxiya  
+GAV – Gavayskiy Soyuz  
+KFS – Kanadskaya Federasiya  
+VDA – Vsekanadskiy Demokraticheskiy Alyans  
+KVE – Suverennaya Respublika Kvebek  
+RYK – Respublika Yukatan  
+RGV – Respublika Gvatemala  
+FPM – Federalnoe Pravitelstvo Meksiki  
+SNL – Kartel Sinaloa  
+XUA – Kartel Xuaresa  
+GOL – Kartel Golfo  
+XAL – Kartel Xalisko  
+LST – Kartel Los-Setas  
+TRM – Trudovoe Revolyusionnoe Dvijenie Meksiki  
+*CHERNAYA AMERIKA
+ILL – Obshestvo Illyuminatov  
+PRA – Proletarskaya Armiya Limpopo  
+ZAF – Germanskaya Koloniya Zyuydvestafrika  
+ZUS – Korolevstvo Zusulov  
+TUM – Plemena Tumba-Yumb  
+KLS – Klub Svobodi  
+KOM – Kommuni Obez’yan  
+SLA – Svobodnie Lyudi Chyornoy Afriki  
+MTA – Germanskaya Koloniya Mittelafrika  
+KRA – Komitet Rasovogo Ochisheniya  
+FRN – Federasiya Rodezii i Nyasalenda  
+OAF – Germanskaya Ostafrika  
+SKO – Svobodnoe Gosudarstvo Kongo  
+UGA – Korolevstvo Uganda  
+SAR – Sentralnoafrikanskaya Respublika  
+PIR – Piratskie Sxodi Libertalii  
+VAD – Gosudarstvo Vadiya  
+SAG – Sagalliyskiy Fort  
+MLG – Malagasiyskoe Korolevstvo  
+MDG – Respublika Madagaskar  
+CHV – Poddanstvo Chyornogo Vlastelina  
+EGS – Egipetskoe Sarstvo  
+UKR – Alyans Ukrainskix Poseleniy  
+ABS – Abissinskoe Sarstvo  
+XUT – Krizisniy Komitet Xutu  
+KAM – Kamerunskoe Narodnoe Gosudarstvo  
+YOR – Narodnaya Respublika Yorubalend  
+VNG – Chastnaya Kompaniya Vangeri  
+AZV – Tuaregskoe Korolevstvo Azavad  
+GCH – Velichestvennie Zemli Gigachada  
+SVO – Sekretnaya Voorujyonnaya Organizaciya  
+IND – Injirskaya Narodnaya Respublika  
+VAK – Korolevstvo Vakanda  
+GAS – Gospodnya Armiya Soprotivleniya  
+LBR – Federativnaya Respublika Liberiya  
+MOR – Korolevstvo Morokko  
+CHL – Respublika Chili  
+INK – Imperiya Inkov  
+COL – Respublika Kolumbiya  
+ANK – Armiya Naroda Kolumbii  
+VEN – Bolivarskaya Respublika Venesuela  
+XRN – Dvijenie Xram Narodov  
+GYN – Kooperativnaya Respublika Gayana  
+BRA – Federativnaya Respublika Braziliya 
+*KARIBSKIE OSTROVA 
+BGM – Sodrujestvo Bagamskix Ostrovov  
+VIF – Vest-Indiyskaya Federasiya  
+PRI – Svobodno Assosiirovannoe Gosudarstvo Puerto-Riko  
+OST – Ostrov Sokrovish  
+CUB – Revolyusionnaya Respublika Kuba  
+HAI – Respublika Gaiti  
+DOM – Dominikanskoe Gosudarstvo  
+*DOTA
+SLT – Sili Sveta  
+SLT – Sili Tmi  
+*ATLANTIDA
+KAT – Kollektivi Atlantidi  
+*ALBION
+YUS – Assosiasiya Yunionistskix Sil Olstera  
+IRA – Irlandskaya Respublikanskaya Armiya  
+EYR – Gosudarstvo Eyre  
+IRL – Respublika Irlandiya  
+GBR – Korolevstvo Velikobritaniya  
+BSS – Britanskiy Sotsialisticheskiy Soyuz  
+SCT – Respublika Shotlandiya  
+VAL – Svobodnaya Vallijskaya Armiya  
+KOR – Gruppa Sovetskix Voysk v Kornuolle  
+AOA – Armiya Osvobojdeniya Narodov Albiona  
+OCE – Okeaniya  
+LIV – Liverpulskaya Kommuna  
+SSX – Gersogstvo Sassekskoe  
+ESS – Essekskiy Rektorat  
+RIS – Risari Kruglogo Stola  
+BRI – Bristolskiy Garnizon  
+OST – Ostrie Kozirki  
+IYS – Gruppa Otryadov Soprotivleniya Iyunskaya Smert  
+*FRANKO-IBERIYa
+FRK – Fransuzskiy Revolyusionniy Soyuz Kommun  
+BSK – Strana Baskov  
+IBR – Federativnaya Respublika Iberiya  
+*EVROPA
+BUR – Korolevstvo Burgundiya  
+NDL – Kaizerriyk der Niderlanden  
+EUR – Evropeyskiy Reyx  
+GER – Velikogermanskiy Reyx  
+NOK – Voenizirovannaya Organizaciya Nokmim  
+SZB – Sovet po Zashite Beloy Ariyskoy Rasi  
+VMA – Vserxovnoe Glavnokomandovanie Vermaxta  
+SSO – SS-Ordenshtadt Germaniya  
+FOL – Folksreyx  
+VYR – Velikovyurstenskiy Reyx  
+GVG – Gvardiya Gebbelsa  
+SGI – Svyashennaya Germanskaya Imperiya  
+PRU – Prusskoe Korolevstvo  
+BER – Berlinskiy Zashitniy Korpus  
+VGP – Velikogermanskaya Promishlennaya Zona  
+GII – Germanskie Innovasionnie Issledovatelskie Otryadi  
+GBK – Germanskiy Belogvardeyskiy Dobrovolcheskiy Korpus  
+GEB – Gebbelsyugent  
+SHT – Shturmovie Otryadi  
+GDR – Germanskaya Demokraticheskaya Respublika  
+SWZ – Shveysarskaya Konfederaciya Kantonov  
+AUT – Avstriyskaya Respublika  
+SIT – Bezumniy Reyx  
+YIT – Makaronniy Reyx  
+PAP – Papskaya Oblast  
+BSH – Bashnya Pissi  
+BON – Bonopartistskaya Fransiya v Izgnanii  
+GPR – Gribnaya Proletarskaya Respublika  
+CZE – Cheshskoe Gosudarstvo  
+SVK – Slovaskoe Nasionalnoe Gosudarstvo  
+MOR – Moravskaya Sotsialisticheskaya Respublika  
+HUN – Vengerskaya Respublika  
+RUM – Sotsialisticheskaya Respublika Ruminiya  
+KAR – Ob’edinyonniy Karpatskiy Rabochiy Kollektiv  
+YUG – Soyuznaya Respublika Yugoslaviya  
+HRV – Nezavisimoe Gosudarstvo Xorvatiya  
+ALB – Narodnaya Sotsialisticheskaya Respublika Albaniya  
+BGR – Bolgarskaya Narodnaya Respublika  
+SVN – Sotsialisticheskaya Respublika Sloveniya  
+BOS – Bosniyskaya Islamskaya Respublika  
+SRB – Respublika Serbskaya  
+MNE – Respublika Chernogoriya  
+FIU – Respublika Fiume  
+KRN – Respublika Serbskaya Kraina  
+KOS – Armiya Osvobojdeniya Kosova  
+NAR – Narodno-Osvoboditelnaya Armiya Yugoslavii  
+VMR – Vnutrennyaya Makedonskaya Organizaciya  
+EBT – Ebatoriya  
+GRE – Grecheskie Polisi  
+SPA – Gosudarstvo Sparta  
+AMG – Amorgus  
+KRT – Krit  
+ATH – Monasheskaya Respublika Gori Afon  
+*POST-SOYuZ/POSTSOVETSKOE
+POL – Polskaya Narodnaya Respublika  
+VMP – Voennaya Missiya v Pribaltike  
+SOY – Soyuznoe Gosudarstvo  
+VEY – Respublika Veyshnoriya  
+DBL – Dvijenie Borbi za Svobodu Litvi  
+LVA – Respublika Latviya  
+LGR – Latgalskaya Narodnaya Respublika  
+EST – Estonskaya Sovetskaya Respublika  
+OUN – Organizaciya Ukrainskix Nacionalistov  
+VNR – Venesianskaya Rus  
+ODE – Odesskaya Respublika  
+CHZ – Chernobilskaya Zona Otchujdeniya  
+UNI – Ukrainskaya Nacionalnaya Imperiya  
+ZEL – Zelyoniy Soyuz  
+NVR – Novorosskoe Nacionalnoe Gosudarstvo  
+MAH – Revolyusionnaya Krestyanskaya Armiya Gulyaypolya  
+SSH – Sentralniy Shtab Partizanskogo Dvijeniya  
+MDA – Moldavskaya Sovetskaya Respublika  
+GAG – Gagauzskoe Xanstvo  
+CHR – Plemya Chernensev  
+AZV – Plemya Azovichey  
+BSP – Plemya Bosporichey  
+KUR – Plemya Kurortichey  
+ERG – Plemya Erangelsev  
+TAR – Plemya Targitaevchan  
+BRA – Besplatnaya Russkaya Armiya  
+CHV – Chrezvichayniy S’ezd Narodnix Deputatov  
+VKS – Vserossiyskoe Krestyanskoe Sobranie  
+KAV – Kavkazskoe Federativnoe Pravitelstvo  
+XAZ – Xazarskiy Kaganat  
+TIF – Tiflisskoe Svobodnoe Gubernatorstvo  
+ARM – Armyanskoe Sodrujestvo  
+KAS – Grajdanskaya Respublika Kastoviya  
+AND – Andjomani Azerbaydjana  
+BAK – Bakinskiy Xab  
+FIN – Ebat Finlyandiya  
+MUR – Murmanskoe Pravitelstvo  
+KOL – Nauchnaya Gruppa Kolskoy Skvajini  
+NOR – Respublika Norvegiya  
+KRL – Karelskaya Narodnaya Respublika  
+RUS – Russkoe Nacionalnoe Gosudarstvo  
+MOS – Moskovskaya Respublika  
+BOL – Boloto  
+SPB – Sankt-Peterburg  
+KRH – Kronshtadtskiy Sovet  
+KLX – Kollektivnoe Xozyaystvo  
+MMM – Otkritoe Aksionernoe Obshestvo MMM  
+VSS – Vtoroy Tankoviy Korpus SS  
+PYA – Pyataya Gvardeyskaya Tankovaya Armiya  
+VPS – Verxovniy Prezidum SSSR   
+LUK – Lukomorskoe Sarstvo  
+PLY – Osoboe Operativno-Takticheskoe Ob’edinenie PLYuM  
+MUJ – Mujskoe Gosudarstvo  
+UST – Ustyugskie Drujini  
+KOJ – Komitet Osvobojdeniya Jenshin Rossii  
+KIR – Kirovskiy Sovet  
+EVA – Evraziyskoe Gosudarstvo  
+PEN – Penzenskoe Rukovodstvo  
+SAT – Satanisti  
+SAM – Samarskoe Komandovanie VDV  
+IDU – Idel-Uralskaya Respublika  
+ROD – Voinstvo Roda  
+STV – Stavka Verxovnogo Glavnokomandovaniya  
+STE – Sterlitamakskoe Pravitelstvo  
+CHS – Chelyabinskiy Sindikat  
+MAG – Komandovanie MChS Magnitoshaxtinsk  
+IJE – Ijevskiy Armeyskiy Rayon  
+NVS – Predpriyatie 3826  
+STP – Stepnoe General-Gubernatorstvo  
+KAZ – Sodrujestvo Kazaxstana  
+BAY – Baykonurskiy Sovet  
+RKK – Raboche-Krestyanskaya Krasnaya Armiya  
+TKM – Turkmenskoe Xanstvo  
+BUK – Buxarskaya SSR  
+KHO – Xorezmskoe Xanstvo  
+UZB – Respublika Uzbekistan  
+SAM – Samarkandskaya Armiya  
+BAS – Dvijenie Basmachi  
+AXA – Ob’edinenie Antixayp  
+SNA – Sredneaziatskiy Narodniy Front  
+LET - Irtishskiy Narodniy Front  
+PLA - Vremennoe Zapadnosibirskoe Pravitelstvo  
+FEV - Gruppa Feyerverk  
+GOR - Gruppa Gordix Golov Gryada  
+SUR - Gruppa Surikati  
+XLE - Gruppa Xleborobi  
+MOL - Gruppa Molot i Nakovalnya  
+ANG - Gruppa Angeli  
+KLI - Bronetankovie Brigadi Klich Naroda  
+ZVE - Eksperementalnie Brigadi Zajigayushie Zvyozdi  
+BIC - Internasionalnie Brigadi Bich Kesarey  
+SFL - Krasnoznamyonniy Sibirskiy Flot  
+LIG - Liga Svobodnix Soobshestv Sibiri  
+TVP - Tayojnoe Partizanskoe Soprotivlenie  
+EBG - Ebengradskoe Kapitanstvo  
+NOR - Norilskiy Nikel  
+SHA - Shamanskoe Sobranie Sibiri  
+TAR - Zona Boevix Deystviy Tarkov  
+ZVR - Zona Vosstanovleniya Vremeni  
+SEN - Sentrosibirskaya Respublika  
+ADM - Administrasiya Verxovnogo Pravitelya Rossii  
+TCH - Tannu-Chto  
+TOM - Tomskiy Prestol  
+SSS - Soyuz Slavyanskix Sil Rusi  
+ALT - Altayskiy Meshaperskiy Soyuz  
+LAT - Dvizheniye Latinizatsii  
+VSE - Vserossiyskoe Sotsialnoe Edinstvo  
+DUR - Strana Durakov  
+ZVE - Zvenyashie Kedri Rossii  
+ADM - Administrasiya Jilishnogo Kompleksa Mayakovskogo  
+YAK - Respublika Saxa  
+SIN - Sinie Xodoki  
+KOR - Korneplodsk  
+CHU - Chukotskoe Xanstvo  
+KAM - Kamchatskaya Federasiya  
+MAG - Kriminalnie Klani Magadana  
+ZEL - Ob'edinyonnoe Pravitelstvo Zelenogo Klina  
+MUX - Muxosranskiy Gorodskoy Komitet  
+VPU - Liga Osvobojdeniya i Deurbanizasii  
+EVR - Evreyskaya Avtonomnaya Oblast  
+ZHR - Zheltorossiyskay Narodnaya Respublika  
+MOD - Mododelskiy Gorodskoy Komitet  
+SAX - Respublika Saxalin  
+SHB - Svyashennoe Bratstvo Shambali
+MNG - Mongolskaya Imperiya
+SVM - Sovetskaya Respublika Vnutrenney Mongolii
+PLS - Pionerskiy Lager "Sovyonok"
+KGX - Krimskaya Gvardeyskaya Xunta
+KSS - Krimskaya Sotsialisticheskaya Sovetskaya Respublika
+TAL - Islamskiy Emirat Afganistan / Taliban
+ALK - Al-Kaida
+KAL - Kalyaniya / Spidranerskiy Konglomerat Afganistana
+OKS - Ogranichenniy Kontingent Sovetskix Voysk v Afganistane
+AMK - Afganskaya Maoistskaya Koalisiya
+MOJ - Ob'edineniya Modjaxedov
+LIN - Sarstvo Lindon  
+SLE - Sledopiti Severa  
+SHI - Shirskoe Veche  
+DUN - Velikoe Knyajestvo Dunland  
+GON - Sarstvo Gondor  
+IZE - Vladichestvo Izengard  
+IML - Velikoe Knyajestvo Imladris  
+ROX - Velikoe Knyajestvo Roxan  
+LOR - Velikoe Knyajestvo Lotlorien  
+BEO - Beorningskie Obshini  
+DOL - Vladichestvo Dol Guldur  
+LIX - Velikoe Knyajestvo Lixolesya  
+DEY - Velikoe Knyajestvo Deyl  
+DUR - Xoromi Naroda Durina  
+DOR - Velikoe Knyajestvo Dorvanion  
+NEL - Velikoe Knyajestvo Neldoret  
+MOR - Tyomnoe Vladichestvo Mordora  
+SRE - Sredizemskaya Anarxiya  
+DAA - Obshinno-Rodovaya Derjava Da’Arii  
+*AZIYa  
+KEB - Kebabskiy Emirat  
+KUR - Kurdistanskaya Konfederasiya  
+ASS - Assiriyskoe Avtonomnoe Sobranie  
+SYR - Siriyskaya Arabskaya Respublika  
+SAA - Siriyskaya Armiya Osvobojdeniya  
+PRA - Pravitelstvo Spaseniya Sirii  
+XUI - Xuirakskaya Avtokratiya
+ARX - Araviyskiy Xalifat  
+LBN - Livanskaya Respublika  
+ISR - Gosudarstvo Izrail  
+PAL - Palestinskiy Nacionalniy Sovet  
+RIS - Risarskie Ordena Transiordanii  
+GOR - Gosudarstvo Gorgorod  
+PER - Persidskaya Sovetskaya Respublika  
+OIR - Ob'ediyonnie Sili Ochisheniya Irana  
+PAK - Internasionalnaya Trudovaya Federasiya Pakistana  
+TIB - Monastirskoe Gosudarstvo Tibet  
+BHU - Korolevstvo Butan  
+NEP - Nepalskiy Kommunisticheskiy Soyuz  
+PRK - Koreyskaya Narodno-Demokraticheskaya Respublika  
+SEY - Dominion Seylon  
+TAM - Tamilskaya Narodnaya Armiya  
+VNM - Sotsialisticheskaya Respublika Vetnam  
+LAO - Laosskaya Narodno-Demokraticheskaya Respublika  
+KHM - Krasnaya Kampuchiya  
+THA - Korolevstvo Tayland  
+MYS - Malayskaya Federasiya  
+KAR - Karenskaya Nacionalno-Osvoboditelnaya Armiya  
+MON - Armiya Nacionalnogo Osvobojdeniya Mon  
+VNM - Respublika Vetnam  
+CHN - Kitayskaya Narodnaya Respublika  
+*OKEANIYa I ROSKOMNADZOR  
+PUT - Putinskaya Imperiya  
+ROS - Roskomnadzor  
+OMO - Komandovanie OMON  
+ROM - Romashkovaya Dolina  
+GRI - Gribnoy Ostrov  
+NAU - Imperiya Nauru  
+OST - Ostrovnie Territorii SShA  
+PAP - Velikoe Knyajestvo Papua  
+BIK - Bikini Bottom  
+OCE - Nezavisimie Ostrova Okeanii  
+*PELMEN  
+PEL - Soyuz Pelmennix Sotsialisticheskix Respublik  
+RAV - Sotsialnoe Gosudarstvo Ravioli  
+GYO - Imperiya Gyodza  
+MIR - Agropromishlenniy Xolding Miratorg  
+*ANTARKTIDA  
+NVS - Germanskaya Antarkticheskaya Koloniya  
+SPH - Nacionalnoe Gosudarstvo Sfenissidov  
