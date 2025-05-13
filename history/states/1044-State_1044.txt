@@ -11,8 +11,7 @@ state={
 	victory_points = { 13369 9 }#Морки
 	victory_points = { 13582 8 }#Сернур
 	
-		owner = EUR
-		add_core_of = EUR
+	
 	
 	}
 	provinces={

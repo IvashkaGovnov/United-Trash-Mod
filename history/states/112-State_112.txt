@@ -6,8 +6,7 @@ state={
 	}
 	history={
 		victory_points = { 18782 2 }#Оймякон
-		owner = YAK
-		add_core_of = YAK
+
 	}
 	manpower=1
 	state_category = "rural"

@@ -8,8 +8,7 @@ state={
 	history = {
 		victory_points = { 12980 25 }#Арзамас
 		victory_points = { 12736 24 }#Саров
-		owner = EUR
-		add_core_of = EUR
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

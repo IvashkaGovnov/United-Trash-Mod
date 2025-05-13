@@ -5,8 +5,7 @@ state={
 		14024 14074 14163 14164 14186 14187 14188 14236 14301 14403 14457 14486 14532 14561 14743 
 	}
 	history = {
-		owner = LUK
-		add_core_of = LUK
+		
 	}
 	manpower=1
 	state_category = "rural"

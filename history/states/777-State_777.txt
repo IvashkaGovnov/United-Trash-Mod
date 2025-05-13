@@ -6,8 +6,7 @@ state={
 	}
 	history={
 		victory_points = { 15000 5 }#Чара
-		owner = YAK
-		add_core_of = YAK
+
 	}
 	manpower=1
 	state_category = "rural"

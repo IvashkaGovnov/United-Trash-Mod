@@ -5,8 +5,7 @@ state={
 		12175 12294 12367 12506 12526 12730 12837 21557
 	}
 	history = {
-		owner = HUN
-		add_core_of = HUN
+		
 	}
 
 	manpower=1

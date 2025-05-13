@@ -6,8 +6,7 @@ state={
 		18279 18282 18429 18464 18471 18472 18561 18567 18584 18607 18665 18691 18719 18729 18772 18791 18799 18810 18928 21738 
 	}
 	history={
-		owner = FIN
-		add_core_of = FIN
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -3,8 +3,7 @@ state={
 	name="STATE_817"
 	history = {
 	
-		owner = VPU
-		add_core_of = VPU
+
 	victory_points = { 14972 16 }#Николаевск-на-Амуре
 	victory_points = { 14473 2 }#Маго
 	victory_points = { 13948 2 }#Херпучи

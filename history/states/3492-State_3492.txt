@@ -6,8 +6,7 @@ state={
 		6595 6634 6685 6704 6797 
 	}
 	history={
-		owner = TIF
-		add_core_of = TIF
+	
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

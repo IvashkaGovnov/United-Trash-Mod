@@ -3,10 +3,9 @@ state={
 	name="STATE_1488"
 	provinces={
 		9727 9858 9877 9943 9965 10080 10245 10317 10465 10513 10561 10589 
-	}
+	}#1488 посхалочка!!!
 	history = {
-		owner = ROD
-		add_core_of = ROD
+
 	}
 	manpower=1
 	state_category = "rural"

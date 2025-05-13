@@ -5,8 +5,7 @@ state={
 		4120 4158 4301 4317 4362 4391 4402 4403 4414 4451 4517 
 	}
 	history={
-		owner = BRI
-		add_core_of = BRI
+
 	}
 	manpower=1
 	state_category = "rural"

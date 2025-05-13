@@ -6,8 +6,7 @@ state={
 		18097 18108 18194 18220 18281 
 	}
 	history={
-		owner = FIN
-		add_core_of = FIN
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

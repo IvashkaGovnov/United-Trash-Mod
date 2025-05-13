@@ -6,8 +6,7 @@ state={
 	}
 	history = {
 		victory_points = { 12371 41 }#Саранск
-		owner = EUR
-		add_core_of = EUR
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

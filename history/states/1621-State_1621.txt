@@ -5,8 +5,7 @@ state={
 		9571 
 	}
 	history = {
-		owner = GRE
-		add_core_of = GRE
+		
 	}
 	manpower=1
 	state_category = "rural"

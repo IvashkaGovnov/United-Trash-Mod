@@ -6,8 +6,7 @@ state={
 		4275 4420 4602 4701 4816 4921 4943 4981 5010 5067 5068 5134 5310 5350 5360 5525 5556 5579 5695 
 	}
 	history = {
-		owner = TRM
-		add_core_of = TRM
+
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

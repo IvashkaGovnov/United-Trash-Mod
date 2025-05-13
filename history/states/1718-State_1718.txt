@@ -5,8 +5,7 @@ state={
 		7556 7723 7736 7939 7982 8036 8342 
 	}
 	history = {
-		owner = BSP
-		add_core_of = BSP
+	
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

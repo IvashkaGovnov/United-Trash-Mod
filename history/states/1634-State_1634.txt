@@ -5,8 +5,7 @@ state={
 		9330 
 	}
 	history = {
-		owner = ROM
-		add_core_of = ROM
+		
 	}
 	manpower=1
 	state_category = "rural"

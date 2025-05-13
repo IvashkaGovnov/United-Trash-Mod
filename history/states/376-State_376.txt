@@ -6,8 +6,7 @@ state={
 	}
 	history={
 		victory_points = { 17818 45 }#Якутск
-		owner = YAK
-		add_core_of = YAK
+
 	}
 	manpower=1
 	state_category = "rural"

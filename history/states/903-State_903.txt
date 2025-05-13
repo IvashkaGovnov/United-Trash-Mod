@@ -5,8 +5,7 @@ state={
 		14611 14643 14644 14753 
 	}
 	history={
-		owner = SHA
-		add_core_of = SHA
+
 	}
 	manpower=1
 	state_category = "rural"

@@ -2,8 +2,7 @@ state={
 	id=696
 	name="STATE_696"
 	history = {
-		owner = KIR
-		add_core_of = KIR
+		
 	victory_points = { 14777 51 }#Киров
 	victory_points = { 14491 8 }#Нолинск
 	victory_points = { 15024 21 }#Лас-Чепегас

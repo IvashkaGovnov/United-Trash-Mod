@@ -5,8 +5,7 @@ state={
 		16251 16252 16375 16454 16508 16509 16527 16617 16686 16777 16778 16805 16939 17007 
 	}
 	history = {
-		owner = LAT
-		add_core_of = LAT
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

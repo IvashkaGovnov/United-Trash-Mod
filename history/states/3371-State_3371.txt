@@ -4,12 +4,11 @@ state={
 	provinces={
 		12583 12737 12915 13040 13127 13288 
 	}
+		
+	history = {
 		victory_points = { 13288 50 }#Чебоксары
 		victory_points = { 13040 25 }#Новочебоксарск
 		victory_points = { 12737 19 }#Канаш
-	history = {
-		owner = EUR
-		add_core_of = EUR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

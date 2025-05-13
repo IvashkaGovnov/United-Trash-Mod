@@ -5,8 +5,7 @@ state={
 		17444 17470 17639 
 	}
 	history = {
-		owner = EST
-		add_core_of = EST
+	
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

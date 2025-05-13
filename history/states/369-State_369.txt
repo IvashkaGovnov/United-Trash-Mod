@@ -6,8 +6,7 @@ state={
 	}
 	history={
 		victory_points = { 17928 26 }#Петропавловск-Камчатский
-		owner = KAM
-		add_core_of = KAM
+
 	}
 	manpower=1
 	state_category = "rural"

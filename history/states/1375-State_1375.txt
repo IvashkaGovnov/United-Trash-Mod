@@ -5,8 +5,7 @@ state={
 		10289 10413 10485 10645 10659 10688 10755 10854 10952 11038 11062 11221 11251 11381 
 	}
 	history = {
-		owner = ROD
-		add_core_of = ROD
+
 	}
 	manpower=1
 	state_category = "rural"

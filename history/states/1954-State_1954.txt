@@ -5,8 +5,7 @@ state={
 		6703 6722 6756 6782 
 	}
 	history={
-		owner = TIF
-		add_core_of = TIF
+		
 	}
 	manpower=1
 	state_category = "rural"

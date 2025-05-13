@@ -6,8 +6,7 @@ state={
 		10693 10820 
 	}
 	history={
-		owner = LET
-		add_core_of = LET
+
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

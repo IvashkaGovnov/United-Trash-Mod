@@ -6,8 +6,7 @@ state={
 	}
 	history={
 		victory_points = { 16965 1 }#Аим
-		owner = YAK
-		add_core_of = YAK
+
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -6,8 +6,7 @@ state={
 	}
 	history={
 		victory_points = { 17223 10 }#Покровск
-		owner = YAK
-		add_core_of = YAK
+
 	}
 	manpower=1
 	state_category = "rural"

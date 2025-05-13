@@ -6,8 +6,7 @@ state={
 	}
 	history = {
 		victory_points = { 14382 16 }#Шахунья
-		owner = EUR
-		add_core_of = EUR
+	
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

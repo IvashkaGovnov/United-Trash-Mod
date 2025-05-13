@@ -5,8 +5,7 @@ state={
 		1737 1765 1786 1787 1807 1844 1845 1857 1910 1936 
 	}
 	history={
-		owner = IRA
-		add_core_of = IRA
+
 	}
 	manpower=1
 	state_category = "rural"

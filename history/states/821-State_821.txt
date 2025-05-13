@@ -6,8 +6,7 @@ state={
 		13985 14085 14140 14217 14336 14465 14567 14995 
 	}
 	history={
-		owner = PLA
-		add_core_of = PLA
+
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -5,8 +5,7 @@ state={
 		9627 9793 9860 9998 10023 10100 10168 10197 10226 10319 10380 10415 10467 
 	}
 	history={
-		owner = PLA
-		add_core_of = PLA
+
 	}
 	manpower=1
 	state_category = "rural"

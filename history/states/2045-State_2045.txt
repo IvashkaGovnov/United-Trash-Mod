@@ -5,8 +5,7 @@ state={
 		5837 5844 5872 5915 5916 5917 5985 6001 6006 6021 21594 
 	}
 	history={
-		owner = ARM
-		add_core_of = ARM
+	
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

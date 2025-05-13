@@ -5,8 +5,7 @@ state={
 		3634 
 	}
 	history={
-		owner = KOR
-		add_core_of = KOR
+
 	}
 	manpower=1
 	state_category = "rural"
