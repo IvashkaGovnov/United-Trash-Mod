@@ -15,8 +15,8 @@ state={
 	victory_points = { 10005 4 }#Боец
 	victory_points = { 9715 6 }#Благодатный
 	victory_points = { 9482 5 }#Сидатун
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

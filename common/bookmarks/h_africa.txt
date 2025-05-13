@@ -2,7 +2,7 @@ bookmarks = {
 	bookmark = {
 		name = "AFRICA_NAME"
 		desc = "AFRICA_DESC"
-		date = 0002.1.1.1
+		date = 0069.1.1.1
 		picture = ""
 		default_country = "TST" 
 

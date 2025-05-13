@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 10568 6 }#Усть-Баргузин
-		owner = BRY
-		add_core_of = BRY
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

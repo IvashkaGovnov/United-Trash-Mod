@@ -6,8 +6,8 @@ state={
 		17193 17215 17291 17386 17442 17469 
 	}
 	history = {
-		owner = DDR
-		add_core_of = DDR
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

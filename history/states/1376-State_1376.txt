@@ -5,8 +5,8 @@ state={
 		10066 10149 10274 10294 10295 10334 10439 10497 10597 10622 10623 10665 10883 10912 10965 11089 11259 
 	}
 	history={
-		owner = LFC
-		add_core_of = LFC
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

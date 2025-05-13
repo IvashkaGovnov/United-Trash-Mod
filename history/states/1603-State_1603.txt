@@ -5,8 +5,8 @@ state={
 		9289 9360 9416 9473 9521 9539 9589 
 	}
 	history={
-		owner = LTN
-		add_core_of = LTN
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

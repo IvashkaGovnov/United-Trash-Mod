@@ -5,8 +5,8 @@ state={
 		2219 2290 2402 2468 2599 2614 2822 2847 3087 3095 
 	}
 	history={
-		owner = TST
-		add_core_of = TST
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

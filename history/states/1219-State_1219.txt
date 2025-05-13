@@ -5,8 +5,8 @@ state={
 		11749 11799 11967 11994 12022 12119 12308 12443 
 	}
 	history={
-		owner = LFC
-		add_core_of = LFC
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

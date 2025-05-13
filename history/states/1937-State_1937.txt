@@ -5,8 +5,8 @@ state={
 		6353 6503 6504 6671 6693 6808 21599 21600 
 	}
 	history = {
-		owner = VKH
-		add_core_of = VKH
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

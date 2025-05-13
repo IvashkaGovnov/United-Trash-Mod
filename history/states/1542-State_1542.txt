@@ -5,8 +5,8 @@ state={
 		9130 9143 9168 9292 9314 9394 9395 9542 9543 9577 9649 9711 9767 9951 
 	}
 	history={
-		owner = BCA
-		add_core_of = BCA
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

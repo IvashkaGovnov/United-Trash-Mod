@@ -13,8 +13,8 @@ state={
 	victory_points = { 8903 17 }#Тетюхе
 	victory_points = { 8781 16 }#Кавелерово
 	victory_points = { 8673 15 }#Чугуевка
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

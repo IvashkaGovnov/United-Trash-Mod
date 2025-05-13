@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 11361 20 }#Свободный
-		owner = ZKL
-		add_core_of = ZKL
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

@@ -5,8 +5,8 @@ state={
 		10509 10534 10681 10682 10735 10814 10834 10852 10929 11078 11079 11103 11245 11311 11329 
 	}
 	history = {
-		owner = VNT
-		add_core_of = VNT
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

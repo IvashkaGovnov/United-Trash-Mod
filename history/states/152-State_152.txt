@@ -6,8 +6,8 @@ state={
 		19266 19279 19301 19335 
 	}
 	history={
-		owner = MRM
-		add_core_of = MRM
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

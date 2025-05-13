@@ -6,8 +6,8 @@ state={
 		16922 17052 17168 17391 17609 17758 17793 
 	}
 	history={
-		owner = SPU
-		add_core_of = SPU
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

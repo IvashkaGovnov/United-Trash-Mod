@@ -8,8 +8,8 @@ state={
 	victory_points = { 6853 75 }#Западный Мукден
 	victory_points = { 6820 100 }#Восточный Мукден
 	victory_points = { 6745 70 }#Ляоян
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

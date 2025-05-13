@@ -5,8 +5,8 @@ state={
 		5886 6012 6013 6022 6056 6063 6084 6104 6128 6160 6185 6194 6253 6287 6310 21596 
 	}
 	history = {
-		owner = VKH
-		add_core_of = VKH
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

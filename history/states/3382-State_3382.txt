@@ -5,8 +5,8 @@ state={
 		11505 11717 11923 12140 12212 12231 12283 12445 12565 12566 12590 12591 12823 12919 
 	}
 	history={
-		owner = TFP
-		add_core_of = TFP
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

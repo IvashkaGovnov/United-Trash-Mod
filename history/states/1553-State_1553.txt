@@ -5,8 +5,8 @@ state={
 		9687 9724 9761 9856 10018 
 	}
 	history={
-		owner = DNB
-		add_core_of = DNB
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

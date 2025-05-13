@@ -5,8 +5,8 @@ state={
 		5324 5347 5413 5478 5488 5507 5534 5561 
 	}
 	history={
-		owner = SUS
-		add_core_of = SUS
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

@@ -5,8 +5,8 @@ state={
 		14355 14533 14534 14563 14592 14723 14724 14746 14747 14800 14885 14939 14940 14941 15103 15125 15275 15315 15364 15450 
 	}
 	history={
-		owner = RNG
-		add_core_of = RNG
+		owner = RUS
+		add_core_of = RUS
 	}
 	manpower=1
 	state_category = "rural"

@@ -11,8 +11,8 @@ state={
 	victory_points = { 8713 16 }#Любеч
 	victory_points = { 8418 13 }#Гаолимао
 	victory_points = { 8492 17 }#Фанжин
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		8325 8415 8620 8634 8648 8728 8882 8883 9110 
 	}
 	history={
-		owner = TAN
-		add_core_of = TAN
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

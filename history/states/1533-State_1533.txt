@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 9316 3 }#Тунка
-		owner = ASR
-		add_core_of = ASR
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		12839 12902 
 	}
 	history = {
-		owner = CNC
-		add_core_of = CNC
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

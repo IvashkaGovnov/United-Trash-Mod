@@ -5,8 +5,8 @@ state={
 		15119 15184 15185 15239 15305 15491 
 	}
 	history = {
-		owner = SWI
-		add_core_of = SWI
+		
+		
 	}
 
 	manpower=1

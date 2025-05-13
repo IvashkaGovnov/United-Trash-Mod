@@ -5,8 +5,8 @@ state={
 		6147 6173 6319 6341 6421 6449 6456 6514 6530 6570 6687 6716 6832 6882 6919 6938 7028 7118 7184 7254 7315 
 	}
 	history={
-		owner = FNM
-		add_core_of = FNM
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

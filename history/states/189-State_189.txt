@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 18594 24 }#Магадан
-		owner = MGD
-		add_core_of = MGD
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

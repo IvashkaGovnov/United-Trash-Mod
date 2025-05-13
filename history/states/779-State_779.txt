@@ -5,8 +5,8 @@ state={
 		13659 13758 13787 13967 14086 14242 14411 14514 14612 14646 14870 14999 15156 15339 
 	}
 	history={
-		owner = TRO
-		add_core_of = TRO
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

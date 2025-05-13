@@ -7,8 +7,8 @@ state={
 	victory_points = { 13092 18 }#Игра
 	victory_points = { 12790 21 }#Можга
 	
-		owner = IZH
-		add_core_of = IZH
+		
+		
 
 }
 	provinces={

@@ -5,8 +5,8 @@ state={
 		9084 9355 9492 
 	}
 	history = {
-		owner = DLT
-		add_core_of = DLT
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

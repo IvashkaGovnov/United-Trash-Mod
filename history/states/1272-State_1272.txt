@@ -2,7 +2,9 @@ state={
 	id=1272
 	name="STATE_1272"
 	history = {
-
+	
+		owner = VPU
+		add_core_of = VPU
 	
 		victory_points = { 11048 65 }#Велосибирск
 		victory_points = { 10153 16 }#Вяземский

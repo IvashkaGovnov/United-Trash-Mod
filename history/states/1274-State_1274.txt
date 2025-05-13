@@ -5,8 +5,8 @@ state={
 		11680 11738 11840 12013 12014 12177 12245 12269 12344 
 	}
 	history = {
-		owner = BND
-		add_core_of = BND
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

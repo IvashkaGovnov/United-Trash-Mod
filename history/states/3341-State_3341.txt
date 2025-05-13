@@ -5,8 +5,8 @@ state={
 		17297 17394 17499 17712 17900 
 	}
 	history={
-		owner = LKM
-		add_core_of = LKM
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

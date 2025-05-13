@@ -14,8 +14,8 @@ state={
 	victory_points = { 10571 13 }#Мона
 	victory_points = { 10152 12 }#Эгу
 	victory_points = { 10002 10 }#Лязин
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	state_category = "rural"

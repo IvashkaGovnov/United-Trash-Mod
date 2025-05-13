@@ -5,8 +5,8 @@ state={
 		1599 
 	}
 	history={
-		owner = SCO
-		add_core_of = SCO
+		
+		
 	}
 	manpower=1
 	impassable = yes

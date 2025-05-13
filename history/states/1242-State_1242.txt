@@ -5,8 +5,8 @@ state={
 		12266 12553 
 	}
 	history = {
-		owner = CRO
-		add_core_of = CRO
+		
+		
 	}
 
 	manpower=1

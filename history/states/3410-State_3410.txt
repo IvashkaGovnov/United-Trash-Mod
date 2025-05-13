@@ -12,8 +12,8 @@ state={
 	victory_points = { 8130 75 }#Ратное
 	victory_points = { 7975 51 }#Учан
 	victory_points = { 8115 23 }#Сяошань
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

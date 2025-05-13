@@ -5,8 +5,8 @@ state={
 		6984 7001 7002 7074 7075 7107 7187 7230 7276 7408 7454 
 	}
 	history={
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	victory_points = { 7075 25 }#Телин
 	}
 	manpower=1

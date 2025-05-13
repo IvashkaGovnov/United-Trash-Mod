@@ -2,13 +2,13 @@ bookmarks = {
 	bookmark = {
 		name = "SOUZ_NAME"
 		desc = "SOUZ_DESC"
-		date = 0002.1.1.1
+		date = 0069.1.1.1
 		picture = ""
-		default_country = "YRU" 
+		default_country = "RUS" 
 		default = yes
 
-		"YRU" = {
-			history = "YRU_DESC"
+		"RUS" = {
+			history = "RUS_DESC"
 			ideology = borshewism 
 			ideas={
 			#
@@ -18,6 +18,27 @@ bookmarks = {
 			}
 		}
 
+		"ZHR" = {
+			history = "ZHR_DESC"
+			ideology = borshewism 
+			ideas={
+			#
+			}
+			focuses = {
+				#
+			}
+		}
+
+		"VPU" = {
+			history = "VPU_DESC"
+			ideology = anorchism 
+			ideas={
+			#
+			}
+			focuses = {
+				#
+			}
+		}
 
 		"---"={
 			history = "OTHER_DESC"

@@ -5,8 +5,8 @@ state={
 		6959 7065 7126 7138 7149 7195 7216 7296 7303 7430 
 	}
 	history={
-		owner = CAU
-		add_core_of = CAU
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

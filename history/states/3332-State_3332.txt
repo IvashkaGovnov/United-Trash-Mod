@@ -5,8 +5,8 @@ state={
 		15746 15747 15748 15935 15954 
 	}
 	history={
-		owner = USA
-		add_core_of = USA
+		owner = SSA
+		add_core_of = SSA
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

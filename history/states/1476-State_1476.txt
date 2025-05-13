@@ -5,8 +5,8 @@ state={
 		10662 10697 
 	}
 	history={
-		owner = RPA
-		add_core_of = RPA
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

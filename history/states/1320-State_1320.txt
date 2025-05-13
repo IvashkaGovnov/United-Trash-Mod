@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 11803 28 }#Южносахалинск
-		owner = SKH
-		add_core_of = SKH
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

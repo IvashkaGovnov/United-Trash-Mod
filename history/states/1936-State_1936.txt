@@ -5,8 +5,8 @@ state={
 		6553 6588 6667 6766 6817 6827 6858 6899 
 	}
 	history = {
-		owner = RAG
-		add_core_of = RAG
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

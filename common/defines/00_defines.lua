@@ -1,10 +1,10 @@
 NDefines = {
 
 NGame = {
-	START_DATE = "0002.1.1.1",
-	END_DATE = "1949.1.1.1",
+	START_DATE = "0069.1.1.1",
+	END_DATE = "0095.1.1.1",
 	MAP_SCALE_PIXEL_TO_KM = 7.114,					-- Yes, we did the math
-	SAVE_VERSION = 24,								-- 1.15.0 (unnamed)
+	SAVE_VERSION = 25,								-- 1.16.0 (unnamed)
 	CHECKSUM_SALT = "zwOdv5d9wm9uDSOT",				-- Data to modify generated checksum when game binaries have changed but not any content files.
 	LAG_DAYS_FOR_LOWER_SPEED = 10,					-- Days of client lag for decrease of gamespeed
 	LAG_DAYS_FOR_PAUSE = 25,						-- Days of client lag for pause of gamespeed.
@@ -690,8 +690,8 @@ NPolitics = {
 	BASE_POLITICAL_POWER_INCREASE = 2,	-- Weekly increase of PP.
 	ARMY_LEADER_COST = 5,					-- command power cost for recruiting new leaders, 'this value' * number_of_existing_leaders_of_type
 	NAVY_LEADER_COST = 5,					-- command power cost for recruiting new leaders, 'this value' * number_of_existing_leaders_of_type
-	ARMY_LEADER_MAX_COST = 100,				-- max cost BEFORE modifiers
-	NAVY_LEADER_MAX_COST = 100,				-- max cost BEFORE modifiers
+	ARMY_LEADER_MAX_COST = 80,				-- max cost BEFORE modifiers
+	NAVY_LEADER_MAX_COST = 80,				-- max cost BEFORE modifiers
 	LEADER_TRAITS_XP_SHOW = 0.05,			-- Amount of XP a trait needs to be shown in tooltips of a leader.
 	REVOLTER_PARTY_POPULARITY = 0.4,		-- Revolter party loses 80% popularity when the civil war breaks out
 	MIN_OVERTHROWN_GOVERNMENT_SUPPORT_RATIO = 0.4, -- Min possible support for new government after puppeting the government
@@ -717,7 +717,7 @@ NBuildings = {
 	BASE_FACTORY_REPAIR_FACTOR = 2.0,	-- Factory speed modifier when repairing.
 	SUPPLY_PORT_LEVEL_THROUGHPUT = 3,   -- supply throughput per level of naval base
 	MAX_SHARED_SLOTS = 25,				-- Max slots shared by factories
-	OWNER_CHANGE_EXTRA_SHARED_SLOTS_FACTOR = 0.5, --Scale factor of extra shared slots when state owner change.
+	OWNER_CHANGE_EXTRA_SHARED_SLOTS_FACTOR = 1, --Scale factor of extra shared slots when state owner change.
 	DESTRUCTION_COOLDOWN_IN_WAR = 30,	-- Number of days cooldown between removal of buildings in war times
 
 	INFRASTRUCTURE_RESOURCE_BONUS = 0.2, -- multiplicative resource bonus for each level of (non damaged) infrastructure
@@ -854,7 +854,7 @@ NMilitary = {
 	RELIABILITY_ORG_REGAIN = -0.3,                 -- how much reliability affects org regain
 	RELIABILITY_ORG_MOVING = -1.0,                 -- how much reliability affects org loss on moving
 	RELIABILITY_WEATHER = 3.0,                     -- how much reliability is afffecting weather impact
-	RELIABILTY_RECOVERY = 0.1,                     -- factor affecting how much equipment is returned "from the dead"
+	RELIABILTY_RECOVERY = 0.40,                     -- factor affecting how much equipment is returned "from the dead"
 	BASE_CHANCE_TO_AVOID_HIT = 90,                 -- Base chance to avoid hit if defences left.
 	CHANCE_TO_AVOID_HIT_AT_NO_DEF = 60,	           -- chance to avoid hit if no defences left.
 	COMBAT_MOVEMENT_SPEED = 0.33,	               -- speed reduction base modifier in combat
@@ -2771,8 +2771,9 @@ NAI = {
 	ASSIGN_TANKS_TO_JUNGLE = -6.0,                              -- factor for assigning tank divisions to fronts with jungle (proportional to how much of that terrain type)
 	UNIT_ASSIGNMENT_TERRAIN_IMPORTANCE = 10.0,                  -- Terrain score for units are multiplied by this when the AI is deciding which front they should be assigned to
 
-	ASSIGN_TANKS_TO_WAR_FRONT = 6.0,                            -- Scoring factor for assigning tank divisions to active war fronts
-	ASSIGN_TANKS_TO_NON_WAR_FRONT = 0.4,                        -- Scoring factor for assigning tank divisions to non-war fronts
+	ASSIGN_TANKS_TO_WAR_FRONT = 6.0,                            -- Scoring factor for assigning divisions with 'role = armor' or 'front_role_override = offence' to active war fronts
+	ASSIGN_TANKS_TO_NON_WAR_FRONT = 0.4,                        -- Scoring factor for assigning divisions with 'role = armor' or 'front_role_override = offence' to non-war fronts
+
 
 	REASSIGN_TO_ANOTHER_FRONT_FACTOR = 0.5,                    -- Factor for reassigning to another front. 0.0 < X < 1.0 means reluctant, X > 1.0 means want to.
 	REASSIGN_TO_ANOTHER_FRONT_IF_IN_COMBAT_FACTOR = 0.2,       -- Factor for reassigning to another front if in combat. 0.0 < X < 1.0 means reluctant, X > 1.0 means want to.
@@ -3170,9 +3171,14 @@ NAI = {
 
 	COMMAND_POWER_BEFORE_SPEND_ON_TRAITS = 30.0,
 
-	PEACE_BID_FOLD_TURNS_AGAINST_OTHER_AI = 2,					--Resolve contests against other AIs after this many turns. Don't always contest forever, it yields the same results.
+	PEACE_BID_FOLD_TURNS_AGAINST_OTHER_AI = 2,                  -- Resolve contests against other AIs after this many turns. Don't always contest forever, it yields the same results.
+	-- When resolving contest against other AI, a tie breaker score is calculated and the loser folds.
+	PEACE_BID_CONTEST_TIE_BREAKER_CONFERENCE_SCORE = 1.0,       -- How much to weigh relative remaining peace conference score between the countries
+	PEACE_BID_CONTEST_TIE_BREAKER_INFLUENCE_DISTANCE = 1.0,     -- How much to weigh relative influence distance between the countries
+	PEACE_BID_CONTEST_TIE_BREAKER_COUNTRY_SCORE = 1.0,          -- How much to weigh relative country score between the countries
+	-- End of tie breaker score factors
 	PEACE_BID_FOLD_AGAINST_PLAYER_CHANCE = 0.5,                 -- Likelihood that AI will fold in a bidding contest against human player.
-	PEACE_BID_FOLD_AGAINST_LIBERATE_CONTEST = 1.0,				-- Likelihood that the AI will back down against a same-ideology country performing a contesting liberate bid ##Bordergore prevention therapy
+	PEACE_BID_FOLD_AGAINST_LIBERATE_CONTEST = 1.0,              -- Likelihood that the AI will back down against a same-ideology country performing a contesting liberate bid ##Bordergore prevention therapy
 	PEACE_AI_GROUP_PEACE_ACTIONS = true,                        -- Whether AI should group peace actions or greedily just select the most-desired peace actions
 	PEACE_AI_EVALUATE_FOR_SUBJECTS = true,                      -- Whether AI should include subjects when evaluating giving states to other winners (may affect performance on new conference turn)
 	PEACE_AI_EVALUATE_FOR_ALLIES = true,                        -- Whether AI should include allies when evaluating giving states to other winners (may affect performance on new conference turn)

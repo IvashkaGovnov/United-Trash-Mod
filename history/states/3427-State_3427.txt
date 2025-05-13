@@ -5,8 +5,8 @@ state={
 		6093 6108 6129 6162 6186 6204 6216 6257 6342 6355 6433 6468 6597 6622 6729 
 	}
 	history={
-		owner = HCA
-		add_core_of = HCA
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

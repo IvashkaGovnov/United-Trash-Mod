@@ -5,8 +5,8 @@ state={
 		19171 19175 19191 19228 19262 19267 19296 19303 19336 19398 
 	}
 	history={
-		owner = GUL
-		add_core_of = GUL
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

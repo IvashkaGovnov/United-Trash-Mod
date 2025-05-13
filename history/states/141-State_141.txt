@@ -5,8 +5,8 @@ state={
 		18792 18828 18837 18941 18997 18998 19018 19066 19100 19131 19140 
 	} 
 	history={
-		owner = GUL
-		add_core_of = GUL
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

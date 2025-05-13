@@ -5,8 +5,8 @@ state={
 		3904 
 	}
 	history={
-		owner = IEG
-		add_core_of = IEG
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

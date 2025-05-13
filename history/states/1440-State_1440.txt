@@ -5,8 +5,8 @@ state={
 		9948 10125 10272 10470 10494 10620 10744 10838 
 	}
 	history={
-		owner = RPA
-		add_core_of = RPA
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

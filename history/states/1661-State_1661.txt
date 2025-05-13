@@ -5,8 +5,8 @@ state={
 		8456 8466 8495 8548 8577 8578 8636 8676 8696 8717 8732 8753 8754 8850 8905 8937 8960 8988 9005 9055 9097 9115 
 	}
 	history={
-		owner = MEX
-		add_core_of = MEX
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

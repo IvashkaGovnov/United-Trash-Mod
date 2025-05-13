@@ -5,8 +5,8 @@ state={
 		18330 18400 18455 18522 18592 18753 18762 18778 19042 19075 19133 19198 19323 19333 
 	}
 	history={
-		owner = NRL
-		add_core_of = NRL
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

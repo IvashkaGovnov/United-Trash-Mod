@@ -2,8 +2,8 @@ state={
 	id=1262
 	name="STATE_1262"
 	history = {
-		owner = IUR
-		add_core_of = IUR
+		
+		
 	victory_points = { 12513 30 }#Нижнекамск
 	victory_points = { 12302 8 }#Болгар
 	victory_points = { 11554 22 }#Бугульма

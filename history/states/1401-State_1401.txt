@@ -8,8 +8,8 @@ state={
 		victory_points = { 10463 82 }#Саратов
 		victory_points = { 10738 23 }#Балашов
 		victory_points = { 10835 20 }#Вольск
-		owner = STN
-		add_core_of = STN
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

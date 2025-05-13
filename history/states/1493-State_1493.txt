@@ -7,8 +7,8 @@ state={
 	history={
 		victory_points = { 10047 20 }#Черемхово
 		victory_points = { 10027 30 }#Ангарск
-		owner = ASR
-		add_core_of = ASR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

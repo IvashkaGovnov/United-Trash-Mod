@@ -5,8 +5,8 @@ state={
 		2098 2237 2259 2260 2355 2412 2448 2491 2492 2572 2653 2665 2675 2713 
 	}
 	history={
-		owner = SCO
-		add_core_of = SCO
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

@@ -5,8 +5,8 @@ state={
 		5987 6054 6069 6127 6213 6226 6277 
 	}
 	history={
-		owner = AZE
-		add_core_of = AZE
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

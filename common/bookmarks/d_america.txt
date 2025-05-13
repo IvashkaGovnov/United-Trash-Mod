@@ -2,12 +2,12 @@ bookmarks = {
 	bookmark = {
 		name = "AMERICA_NAME"
 		desc = "AMERICA_DESC"
-		date = 0002.1.1.1
+		date = 0069.1.1.1
 		picture = ""
-		default_country = "USA" 
+		default_country = "SSA" 
 
-		"USA" = {
-			history = "USA_DESC"
+		"SSA" = {
+			history = "SSA_DESC"
 			ideology = burjuism 
 			ideas={
 			#

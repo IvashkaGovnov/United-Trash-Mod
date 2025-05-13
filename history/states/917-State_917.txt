@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 13316 7 }#Таксимо
-		owner = BRY
-		add_core_of = BRY
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

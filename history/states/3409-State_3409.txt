@@ -5,8 +5,8 @@ state={
 		5520 5573 5583 5628 5641 5703 
 	}
 	history={
-		owner = ENG
-		add_core_of = ENG
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

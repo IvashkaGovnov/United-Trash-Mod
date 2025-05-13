@@ -5,8 +5,8 @@ state={
 		16603 16853 16854 17080 17138 
 	}
 	history={
-		owner = EBN
-		add_core_of = EBN
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

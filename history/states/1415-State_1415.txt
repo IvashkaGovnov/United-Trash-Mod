@@ -5,8 +5,8 @@ state={
 		 10848 10977 11006 11101 11122 11145 11194 11214 
 	}
 	history = {
-		owner = TRN
-		add_core_of = TRN
+		
+		
 	}
 
 	manpower=1

@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 11386 4 }#Багдарин
-		owner = BRY
-		add_core_of = BRY
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

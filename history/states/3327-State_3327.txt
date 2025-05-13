@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 18703 4 }#Оленёк
-		owner = ALC
-		add_core_of = ALC
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

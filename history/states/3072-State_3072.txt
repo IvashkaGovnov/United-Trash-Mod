@@ -5,8 +5,8 @@ state={
 		5652 5762 5811 5820 5867 5911 5922 5969 
 	}
 	history={
-		owner = SUS
-		add_core_of = SUS
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

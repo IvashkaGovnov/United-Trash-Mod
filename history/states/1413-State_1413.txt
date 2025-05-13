@@ -5,8 +5,8 @@ state={
 		10788 10865 10866 11066 11067 11205 21632 
 	}
 	history={
-		owner = KHU
-		add_core_of = KHU
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		6918 6926 6954 7027 7040 7141 7168 7169 7170 7218 7272 7328 7343 7419 7464 7521 
 	}
 	history = {
-		owner = SGD
-		add_core_of = SGD
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

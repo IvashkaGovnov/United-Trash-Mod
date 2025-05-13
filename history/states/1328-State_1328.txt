@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 11166 87 }#Хэйхэ
-		owner = ZKL
-		add_core_of = ZKL
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

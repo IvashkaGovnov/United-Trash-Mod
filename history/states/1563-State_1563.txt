@@ -11,8 +11,8 @@ state={
 	victory_points = { 8829 17 }#Таньюань
 	victory_points = { 9016 15 }#Ланьзин
 
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

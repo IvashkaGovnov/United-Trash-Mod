@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 13372 20 }#Зажопинск
-		owner = MHS
-		add_core_of = MHS
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

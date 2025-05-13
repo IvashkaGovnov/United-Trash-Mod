@@ -13,8 +13,8 @@ state={
 	victory_points = { 8287 25 }#Артём
 	victory_points = { 8205 16 }#Большой Камень
 	victory_points = { 8454 10 }#Великоудобное
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

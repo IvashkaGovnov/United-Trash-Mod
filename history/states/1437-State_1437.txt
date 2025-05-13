@@ -5,9 +5,9 @@ state={
 		10530 10554 10831 10846 10928 10944 
 	}
 	history = {
-		owner = BHZ
-		add_core_of = BHZ
-		add_core_of = BOS
+		
+		
+		
 	}
 
 	manpower=1

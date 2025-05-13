@@ -6,8 +6,8 @@ state={
 	}
 	history = {
 		victory_points = { 11380 65 }#Тольятти
-		owner = SMR
-		add_core_of = SMR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

@@ -5,8 +5,8 @@ state={
 		5133 5167 5227 5272 5273 5359 5403 5418 5442 5456 5577 5578 5614 5621 5632 5693 5720 5735 5769 5781 5815 5891 21589 
 	}
 	history={
-		owner = AZE
-		add_core_of = AZE
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

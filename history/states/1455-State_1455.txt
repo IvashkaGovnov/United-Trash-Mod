@@ -7,8 +7,8 @@ state={
 	history = {
 		victory_points = { 10348 31 }#Энгельс
 		victory_points = { 10612 27 }#Балаково
-		owner = STN
-		add_core_of = STN
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

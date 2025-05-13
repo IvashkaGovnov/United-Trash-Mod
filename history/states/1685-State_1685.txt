@@ -5,8 +5,8 @@ state={
 		6391 6405 6420 6425 6470 6492 6524 
 	}
 	history={
-		owner = CST
-		add_core_of = CST
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

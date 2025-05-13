@@ -5,8 +5,8 @@ state={
 		5151 5164 5209 5245 5259 5303 5320 5373 5411 5439 5462 5475 5497 5498 5518 5597 5716 
 	}
 	history={
-		owner = CIR
-		add_core_of = CIR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

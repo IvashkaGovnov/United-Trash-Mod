@@ -5,8 +5,8 @@ state={
 		2430 2460 2536 2556 2557 2598 2631 2689 
 	}
 	history={
-		owner = IRE
-		add_core_of = IRE
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

@@ -5,8 +5,8 @@ state={
 		9808 9973 10065 10252 10273 10361 10647 
 	}
 	history={
-		owner = BCA
-		add_core_of = BCA
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

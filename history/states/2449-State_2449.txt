@@ -5,8 +5,8 @@ state={
 		3218 3394 3615 3651 3652 3831 3906 
 	}
 	history={
-		owner = TST
-		add_core_of = TST
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

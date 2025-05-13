@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 19185 6 }#Чокурдах
-		owner = ALC
-		add_core_of = ALC
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

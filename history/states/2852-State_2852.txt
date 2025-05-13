@@ -5,8 +5,8 @@ state={
 		1874 1929 2009 2021 2061 2109 2145 21573 
 	}
 	history={
-		owner = TET
-		add_core_of = TET
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

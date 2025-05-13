@@ -5,8 +5,8 @@ state={
 		18800 
 	}
 	history={
-		owner = MRM
-		add_core_of = MRM
+		
+		
 	}
 	manpower=1
 	impassable = yes

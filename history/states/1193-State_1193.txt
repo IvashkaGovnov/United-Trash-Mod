@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 11562 2 }#Верхоленск
-		owner = ASR
-		add_core_of = ASR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

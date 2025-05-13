@@ -5,8 +5,8 @@ state={
 		10792 11020 11046 11113 11164 11181 
 	}
 	history={
-		owner = TFP
-		add_core_of = TFP
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

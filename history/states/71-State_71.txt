@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 19597 2 }#Колымское
-		owner = ALC
-		add_core_of = ALC
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

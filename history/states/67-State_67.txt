@@ -5,8 +5,8 @@ state={
 		18954 
 	}
 	history={
-		owner = CAN
-		add_core_of = CAN
+		
+		
 	}
 	manpower=1
 	impassable = yes

@@ -5,8 +5,8 @@ state={
 		4279 4510 4622 4705 4855 4944 5013 5125 5290 5528 
 	}
 	history = {
-		owner = ANT
-		add_core_of = ANT
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

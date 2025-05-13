@@ -5,8 +5,8 @@ state={
 		11319 11531 11561 11772 11800 11821 11968 12327 12592 12614 
 	}
 	history={
-		owner = TFP
-		add_core_of = TFP
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

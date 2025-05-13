@@ -13,8 +13,8 @@ state={
 	victory_points = { 8463 24 }#Боли
 	victory_points = { 8462 12 }#Линск
 	victory_points = { 8236 9 }#Мулин
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	state_category = "rural"

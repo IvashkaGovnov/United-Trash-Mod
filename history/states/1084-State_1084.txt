@@ -10,8 +10,8 @@ state={
 	victory_points = { 13091 16 }#Высокая гора
 	victory_points = { 12817 17 }#Арск
 
-		owner = IUR
-		add_core_of = IUR
+		
+		
 	
 }
 	provinces={

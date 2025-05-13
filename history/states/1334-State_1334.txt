@@ -7,8 +7,8 @@ state={
 	history = {
 		victory_points = { 11895 50 }#Западный Ульяновск
 		victory_points = { 11915 25 }#Восточный Ульяновск
-		owner = SMR
-		add_core_of = SMR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

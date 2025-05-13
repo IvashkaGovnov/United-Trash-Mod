@@ -5,8 +5,8 @@ state={
 		8944 8968 9012 9065 9253 9254 9271 9309 9430 9515 9535 9602 9621 9622 9745 9746 9823 9841 
 	}
 	history={
-		owner = FRR
-		add_core_of = FRR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

@@ -5,8 +5,8 @@ state={
 		6120 
 	}
 	history={
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	victory_points = { 6120 25 }#Дальний
 	}
 	manpower=1

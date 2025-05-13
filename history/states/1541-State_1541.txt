@@ -5,8 +5,8 @@ state={
 		9489 9658 9680 9838 9890 9919 9995 10056 10137 10158 
 	}
 	history = {
-		owner = GYP
-		add_core_of = GYP
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

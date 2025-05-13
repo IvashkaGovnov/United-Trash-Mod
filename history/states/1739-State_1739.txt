@@ -5,8 +5,8 @@ state={
 		7628 7713 7821 7867 7901 7902 7987 8013 8061 8087 8216 8351 
 	}
 	history = {
-		owner = TOK
-		add_core_of = TOK
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

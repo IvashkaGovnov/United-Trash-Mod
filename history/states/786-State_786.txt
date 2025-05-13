@@ -14,8 +14,8 @@ state={
 	victory_points = { 10051 6 }#Светлая
 	victory_points = { 10070 3 }#Верхотуровка
 	victory_points = { 9814 5 }#Великая Кема
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		17713 17845 18036 18154 18271 18365 
 	}
 	history={
-		owner = NRL
-		add_core_of = NRL
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

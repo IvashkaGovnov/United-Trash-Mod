@@ -6,8 +6,8 @@ state={
 	}
 	history={
 	victory_points = { 7602 100 }#Гирин
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

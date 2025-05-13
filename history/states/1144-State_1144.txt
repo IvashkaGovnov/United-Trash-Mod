@@ -7,8 +7,8 @@ state={
 	victory_points = { 12963 24 }#Сарапул
 	victory_points = { 12917 5 }#Каракулино
 	
-		owner = IZH
-		add_core_of = IZH
+		
+		
 	
 }
 	provinces={

@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 14090 10 }#Ноглики
-		owner = SKH
-		add_core_of = SKH
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

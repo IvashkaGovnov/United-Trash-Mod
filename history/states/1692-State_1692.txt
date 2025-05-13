@@ -13,8 +13,8 @@ state={
 	victory_points = { 8571 3 }#Гродеково
 	victory_points = { 8309 7 }#Раздольное
 	victory_points = { 8204 6 }#Тавричанка
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

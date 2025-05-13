@@ -7,8 +7,8 @@ state={
 	victory_points = { 12670 17 }#Агрыз
 	victory_points = { 12586 17 }#Менделеевск
 	
-		owner = IUR
-		add_core_of = IUR
+		
+		
 }
 	provinces={
 		12304 12438 12586 12670 12671 21641 21642 21644 

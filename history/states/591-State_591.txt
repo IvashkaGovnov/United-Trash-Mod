@@ -6,8 +6,8 @@ state={
 		16273 16420 16496 16548 16596 
 	}
 	history = {
-		owner = LIT
-		add_core_of = LIT
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

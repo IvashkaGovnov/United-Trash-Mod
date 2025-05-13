@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 11047 21 }#Биробиджан
-		owner = JEW
-		add_core_of = JEW
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

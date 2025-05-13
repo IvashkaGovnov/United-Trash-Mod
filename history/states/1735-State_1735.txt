@@ -7,8 +7,8 @@ state={
 	history={
 	victory_points = { 8404 150 }#Харбин
 
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	state_category = "rural"

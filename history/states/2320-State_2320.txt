@@ -5,8 +5,8 @@ state={
 		3585 3631 3771 3772 3797 3841 3928 3976 3977 4063 4075 4076 4092 4218 4226 4299 4375 4400 
 	}
 	history={
-		owner = DIJ
-		add_core_of = DIJ
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

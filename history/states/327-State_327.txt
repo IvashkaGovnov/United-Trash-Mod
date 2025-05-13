@@ -5,8 +5,8 @@ state={
 		18110 18206 18250 
 	}
 	history={
-		owner = SPU
-		add_core_of = SPU
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

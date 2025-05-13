@@ -5,8 +5,8 @@ state={
 		1485 1543 1550 1561 1629 1636 1664 1703 1747 1766 
 	}
 	history={
-		owner = YRE
-		add_core_of = YRE
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

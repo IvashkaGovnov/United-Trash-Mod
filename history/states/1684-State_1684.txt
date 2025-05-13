@@ -5,8 +5,8 @@ state={
 		8194 8344 8365 8378 8397 8486 8503 8593 8626 8705 8706 8739 8893 8943 
 	}
 	history={
-		owner = FRR
-		add_core_of = FRR
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

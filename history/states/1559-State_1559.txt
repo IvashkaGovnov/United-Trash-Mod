@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 9847 60 }#Иркутск
-		owner = ASR
-		add_core_of = ASR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

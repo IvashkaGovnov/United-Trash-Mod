@@ -5,8 +5,8 @@ state={
 		8595 8615 8629 8723 8776 8790 8877 8922 8945 8999 9141 9162 9190 9215 9448 
 	}
 	history = {
-		owner = DVY
-		add_core_of = DVY
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -6,8 +6,8 @@ state={
 	}
 	history = {
 		victory_points = { 11815 25 }#Димитровград
-		owner = SMR
-		add_core_of = SMR
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

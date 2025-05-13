@@ -11,8 +11,8 @@ state={
 	victory_points = { 8983 5 }#Донск
 	victory_points = { 8845 10 }#Успенка
 	victory_points = { 8846 3 }#Озёрное
-		owner = YRU
-		add_core_of = YRU
+		owner = ZHR
+		add_core_of = ZHR
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -6,8 +6,8 @@ state={
 		7728 7764 7775 7862 7863 7883 7884 7953 7985 8041 8054 8081 8178 8196 8246 
 	}
 	history = {
-		owner = NZR
-		add_core_of = NZR
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

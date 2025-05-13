@@ -5,8 +5,8 @@ state={
 		13603 13657 13785 
 	}
 	history={
-		owner = MLV
-		add_core_of = MLV
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

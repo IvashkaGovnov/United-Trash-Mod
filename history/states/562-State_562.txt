@@ -5,8 +5,8 @@ state={
 		16894 16916 
 	}
 	history={
-		owner = CAN
-		add_core_of = CAN
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

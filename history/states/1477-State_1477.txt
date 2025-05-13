@@ -5,8 +5,8 @@ state={
 		10012 10090 10136 10242 10261 10306 10307 10308 10346 10457 10504 10505 10832 11497
 	}
 	history = {
-		owner = TRN
-		add_core_of = TRN
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

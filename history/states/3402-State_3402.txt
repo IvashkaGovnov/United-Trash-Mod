@@ -2,8 +2,8 @@ state={
 	id=3402
 	name="STATE_3402"
 	history = {
-		owner = IUR
-		add_core_of = IUR
+		
+		
 	victory_points = { 12560 17 }#Буинск
 	victory_points = { 12608 5 }#Старое Дрожжаное
 	victory_points = { 12488 10 }#Тетюши

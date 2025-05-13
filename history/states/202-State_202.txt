@@ -5,8 +5,8 @@ state={
 		18902 18910 
 	}
 	history={
-		owner = NRL
-		add_core_of = NRL
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

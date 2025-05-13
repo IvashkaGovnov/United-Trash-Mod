@@ -7,8 +7,8 @@ state={
 	history = {
 		victory_points = { 11378 23 }#Кузнецк
 		victory_points = { 11586 49 }#Пенза
-		owner = PNZ
-		add_core_of = PNZ
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

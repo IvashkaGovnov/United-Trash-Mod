@@ -5,8 +5,8 @@ state={
 		16529 16664 16688 16755 16781 16849 
 	}
 	history={
-		owner = RNG
-		add_core_of = RNG
+		owner = RUS
+		add_core_of = RUS
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 	victory_points = { 13008 50 }#Северная Казань
 	victory_points = { 12916 80 }#Южная Казань
 	
-		owner = IUR
-		add_core_of = IUR
+		
+		
 	
 
 }

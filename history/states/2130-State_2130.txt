@@ -5,8 +5,8 @@ state={
 		5171 5206 5213 5214 5229 5351 
 	}
 	history = {
-		owner = BSM
-		add_core_of = BSM
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

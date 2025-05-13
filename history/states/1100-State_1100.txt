@@ -5,8 +5,8 @@ state={
 		12422 12594 12615 12876 12966 13045 13132 13180 13181 13387 
 	}
 	history={
-		owner = MHS
-		add_core_of = MHS
+		
+		
 		victory_points = { 13181 25 }#Мухосранск
 	}
 	manpower=1

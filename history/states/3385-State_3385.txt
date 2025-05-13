@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 10474 13 }#Чернышевск
-		owner = ASR
-		add_core_of = ASR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

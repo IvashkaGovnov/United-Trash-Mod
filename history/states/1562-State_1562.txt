@@ -5,8 +5,8 @@ state={
 		9807 9927 9950 
 	}
 	history={
-		owner = USF
-		add_core_of = USF
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

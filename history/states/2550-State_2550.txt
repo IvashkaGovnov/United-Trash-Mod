@@ -6,8 +6,8 @@ state={
 	}
 	manpower=1
 	history={
-		owner = TST
-		add_core_of = TST
+		
+		
 	}
 	state_category = "rural"
 	buildings_max_level_factor=1.000

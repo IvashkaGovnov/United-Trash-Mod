@@ -5,8 +5,8 @@ state={
 		2416 2417 2483 2535 
 	}
 	history={
-		owner = IRE
-		add_core_of = IRE
+		
+		
 	}
 
 	manpower=1

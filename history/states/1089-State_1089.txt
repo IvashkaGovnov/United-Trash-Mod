@@ -2,7 +2,9 @@ state={
 	id=1089
 	name="STATE_1089"
 	history = {
-
+	
+		owner = VPU
+		add_core_of = VPU
 	victory_points = { 11859 17 }#Пузогавань
 	victory_points = { 12094 5 }#Высокогорный
 	victory_points = { 11694 2 }#Кенада

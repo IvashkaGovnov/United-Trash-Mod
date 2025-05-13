@@ -5,8 +5,8 @@ state={
 		15300 15349 15350 15412 15506 15593 15778 15813 15814 15860 15978 16053 16174 16407 16502 
 	}
 	history={
-		owner = USA
-		add_core_of = USA
+		owner = SSA
+		add_core_of = SSA
 	}
 	manpower=1
 	state_category = "rural"

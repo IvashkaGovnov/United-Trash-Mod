@@ -5,8 +5,8 @@ state={
 		18074 18270 18283 18319 18363 18473 18551 18861 
 	}
 	history={
-		owner = SPU
-		add_core_of = SPU
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -6,8 +6,8 @@ state={
 	}
 	history={		
 		victory_points = { 8951 16 }#Кяхта
-		owner = ASR
-		add_core_of = ASR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

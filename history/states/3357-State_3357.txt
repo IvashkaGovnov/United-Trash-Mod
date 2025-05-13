@@ -7,8 +7,8 @@ state={
 	}
 	history={
 		victory_points = { 12744 3 }#Северомуйск
-		owner = BRY
-		add_core_of = BRY
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

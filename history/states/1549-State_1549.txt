@@ -5,8 +5,8 @@ state={
 		9094 9195 9290 9340 9376 9377 9392 9454 9474 9475 9559 9574 9590 9666 9710 9805 9806 9861 9907 
 	}
 	history={
-		owner = LTN
-		add_core_of = LTN
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		1191 1206 1232 1238 1255 1298 1310 
 	}
 	history={
-		owner = SCO
-		add_core_of = SCO
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

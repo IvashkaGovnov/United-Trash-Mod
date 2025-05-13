@@ -5,8 +5,8 @@ state={
 		8731 8752 8799 8956 8957 8958 8985 8986 9003 9079 9112 9173 21617 
 	}
 	history={
-		owner = MEX
-		add_core_of = MEX
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

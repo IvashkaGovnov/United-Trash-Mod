@@ -5,8 +5,8 @@ state={
 		4672 
 	}
 	history={
-		owner = TST
-		add_core_of = TST
+		
+		
 	}
 	manpower=1
 	impassable = yes

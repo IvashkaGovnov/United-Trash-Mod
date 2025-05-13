@@ -5,8 +5,8 @@ state={
 		15471 15500 15569 15665 15790 15791 15804 15921 16067 16099 16348 
 	}
 	history = {
-		owner = LTG
-		add_core_of = LTG
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

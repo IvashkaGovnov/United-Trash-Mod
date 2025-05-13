@@ -5,8 +5,8 @@ state={
 		4704 4787 4838 4872 4923 
 	}
 	history = {
-		owner = BSM
-		add_core_of = BSM
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

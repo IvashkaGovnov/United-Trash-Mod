@@ -5,8 +5,8 @@ state={
 		7064 7090 7091 7165 7166 7214 7215 7268 7353 
 	}
 	history={
-		owner = ABK
-		add_core_of = ABK
+		
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		15307 15466 15544 15582 
 	}
 	history = {
-		owner = DDR
-		add_core_of = DDR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

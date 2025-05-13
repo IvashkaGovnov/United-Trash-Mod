@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 9317 16 }#Петровск-Забайкальский
-		owner = ASR
-		add_core_of = ASR
+		
+		
 	}
 	manpower=1
 	state_category = "rural"

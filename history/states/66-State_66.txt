@@ -5,8 +5,8 @@ state={
 		19417  
 	}
 	history={
-		owner = NRL
-		add_core_of = NRL
+		
+		
 	}
 	manpower=1
 	impassable = yes

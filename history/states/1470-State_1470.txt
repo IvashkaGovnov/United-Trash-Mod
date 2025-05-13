@@ -5,7 +5,8 @@ state={
 		10720 10760 
 	}
 	history={
-
+		owner = LET
+		add_core_of = LET
 	}
 	manpower=1
 	state_category = "rural"
