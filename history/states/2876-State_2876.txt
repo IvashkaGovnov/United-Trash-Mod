@@ -2,13 +2,10 @@ state={
 	id=2876
 	name="STATE_2876"
 	provinces={
-		1621 1654 1655 1695 1706 1724 1729 1749 1799 1830 1836 1837 1859 1894 1937 2024 
-	}
-	history={
-		
-		
+		1695 1724 1799 1830 1836 1837 1859 1894 1937 2024 
 	}
 	manpower=1
-	state_category = "rural"
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }
