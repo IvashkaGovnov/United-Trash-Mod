@@ -4,11 +4,8 @@ state={
 	provinces={
 		11832 12237 12451 12676 12777 12852 
 	}
-	history={
-		owner = SSA
-		add_core_of = SSA
-	}
 	manpower=1
-	state_category = "rural"
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

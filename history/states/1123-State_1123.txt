@@ -2,13 +2,10 @@ state={
 	id=1123
 	name="STATE_1123"
 	provinces={
-		12925 12972 13076 13077 13112 13258 13278 13298 13394 13423 13491 
-	}
-	history={
-		owner = SSA
-		add_core_of = SSA
+		12925 12972 13076 13077 13258 13278 13298 13394 13423 13491 
 	}
 	manpower=1
-	state_category = "rural"
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

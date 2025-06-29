@@ -8,9 +8,9 @@ state={
 		victory_points = { 13525 80 }#Южный Горький
 		victory_points = { 13679 30 }#Северный Горький
 		victory_points = { 13581 30 }#Западный Горький
-	]
 	}
 	manpower=1
-	state_category = "rural"
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

@@ -2,11 +2,7 @@ state={
 	id=739
 	name="STATE_739"
 	provinces={
-		15437 15532 15620 15622 15623 15683 15725 15752 15799 
-	}
-	history={
-		owner = SSA
-		add_core_of = SSA
+		15620 15622 15725 15752 15799 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
