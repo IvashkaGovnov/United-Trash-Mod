@@ -1,7 +1,4 @@
 version="1"
-tags={
-	"Map"
-}
 replace_path="common/abilities"
 replace_path="common/autonomous_states"
 replace_path="common/ai_strategy"
@@ -67,5 +64,8 @@ replace_path="gfx/flags/small"
 replace_path="gfx/train_gfx_database"
 replace_path="gfx/interface/equipmentdesigner/graphic_db"
 replace_path="tutorial"
+tags={
+	"Alternative History"
+}
 name="United-Trash-Mod"
 supported_version="1.16.*"
