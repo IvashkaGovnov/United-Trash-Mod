@@ -170,13 +170,6 @@ guiTypes = {
 			spriteType = "GFX_paradox_logo"
 			position = { x= 0 y = 0 }
 		}
-		iconType =
-		{
-			name ="frontend_pop_cat"
-			spriteType = "GFX_pop_cat"
-			position = { x= -750 y = 197 }
-		Orientation = center_down
-		}
 	}	
 	
 	
@@ -475,21 +468,10 @@ guiTypes = {
 			position = { x = 30 y = 290 }
 			orientation = left
 			quadTextureSprite ="GFX_mainmenu_button_nudge_ETM"	
-			buttonText = ""
+			buttonText = "Nudge!"
 			buttonFont = "hoi_24header"
 		}
-		instantTextBoxType = {
-			name ="nudge_text"
-			position = { x = 18 y = 365 }
-			orientation = left
-			textureFile = ""
-			font = "hoi_24header"
-			borderSize = {x = 0 y = 0}
-			text = "Nudge!"	
-			format = center
-			maxWidth = 100
-			maxHeight = 50
-		}
+		
 
 		ButtonType = {
 			name = "exit_button"
