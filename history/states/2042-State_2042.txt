@@ -1,15 +1,17 @@
-state={
-	id=2042
-	name="STATE_2042"
-	provinces={
-		6120 
+state = { 
+	id = 2042 
+	name = "STATE_2042" 
+	#Дальний
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
+		owner = ZHR 
+		
+		victory_points = { 6120 25 }
+		
+		add_core_of = ZHR 
 	}
-	history={
-		owner = ZHR
-		add_core_of = ZHR
-	victory_points = { 6120 25 }#Дальний
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 6120 }
 }

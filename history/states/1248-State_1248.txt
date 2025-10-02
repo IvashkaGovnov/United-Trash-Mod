@@ -1,14 +1,10 @@
-state={
-	id=1248
-	name="STATE_1248"
-	provinces={
-		11151 11178 11247 11349 11350 11377 11427 11552 11639 11664 11665 11712 11788 11844 11845 11870 11892 11912 11989 11990 12018 12087 12224 12300 12350 12370 
-	}
-	history={
-		owner = RUS
-		add_core_of = RUS
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+state = { 
+	id = 1248 
+	name = "STATE_1248" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 11151 11178 11247 11349 11350 11377 11427 11552 11639 11664 11665 11844 11845 11870 11892 11912 11989 11990 12018 12087 12224 12300 12350 12370 }
 }

@@ -1,17 +1,17 @@
-state={
-	id=3371
-	name="STATE_3371"
-	provinces={
-		12583 12737 12915 13040 13127 13288 
-	}
+state = { 
+	id = 3371 
+	name = "STATE_3371" 
+	#Канаш
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
 		
-	history = {
-		victory_points = { 13288 50 }#Чебоксары
-		victory_points = { 13040 25 }#Новочебоксарск
-		victory_points = { 12737 19 }#Канаш
+		victory_points = { 12737 19 }
+		victory_points = { 13040 25 }
+		victory_points = { 13288 50 }
 	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 12583 12737 12915 13040 13127 13288 }
 }

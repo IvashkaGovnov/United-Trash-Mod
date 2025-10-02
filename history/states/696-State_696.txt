@@ -1,37 +1,35 @@
-state={
-	id=696
-	name="STATE_696"
-	history = {
+state = { 
+	id = 696 
+	name = "STATE_696" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-	victory_points = { 14777 51 }#Киров
-	victory_points = { 14491 8 }#Нолинск
-	victory_points = { 15024 21 }#Лас-Чепегас
-	victory_points = { 14198 9 }#Уржум
-	victory_points = { 13824 18 }#Вятские поляны йоу 431
-	victory_points = { 14055 18 }#Советск
-	victory_points = { 14511 8 }#Оричи
-	victory_points = { 14908 15 }#Котельнич
-	victory_points = { 14490 5 }#Тужа
-	victory_points = { 14080 16 }#Яранск
-	victory_points = { 14269 5 }#Кинкур
-	victory_points = { 14864 5 }#Ленинское
-	victory_points = { 15107 6 }#Юрья
-	victory_points = { 15401 6 }#Мураши
-	victory_points = { 15400 5 }#Опарино
-	victory_points = { 15715 9 }#Луза
-	victory_points = { 14778 9 }#Белая Холуница
-	victory_points = { 14664 4 }#Рудничный
-	victory_points = { 14565 16 }#Омутнинск
-	victory_points = { 14081 5 }#Фалёнки
-	victory_points = { 14641 4 }#Афанасьево
-	victory_points = { 14991 9 }#Кирс
-	
-	
-}
-	provinces={
-		13824 14055 14080 14081 14198 14269 14490 14491 14511 14565 14641 14664 14777 14778 14864 14908 14991 15024 15107 15400 15401 15715 
+		victory_points = { 13824 18 }
+		victory_points = { 14055 18 }
+		victory_points = { 14080 16 }
+		victory_points = { 14081 5 }
+		victory_points = { 14198 9 }
+		victory_points = { 14269 5 }
+		victory_points = { 14490 5 }
+		victory_points = { 14491 8 }
+		victory_points = { 14511 8 }
+		victory_points = { 14565 16 }
+		victory_points = { 14641 4 }
+		victory_points = { 14664 4 }
+		victory_points = { 14777 51 }
+		victory_points = { 14778 9 }
+		victory_points = { 14864 5 }
+		victory_points = { 14908 15 }
+		victory_points = { 14991 9 }
+		victory_points = { 15024 21 }
+		victory_points = { 15107 6 }
+		victory_points = { 15400 5 }
+		victory_points = { 15401 6 }
+		victory_points = { 15715 9 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	#Кирс
+	provinces = { 13824 14055 14080 14081 14198 14269 14490 14491 14511 14565 14641 14664 14777 14778 14864 14908 14991 15024 15107 15400 15401 15715 }
 }

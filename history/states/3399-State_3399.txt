@@ -1,12 +1,10 @@
-state={
-	id=3399
-	name="STATE_3399"
-	provinces={
-		51 
-	}
-	manpower=1
-	impassable = yes
-	state_category=wasteland
-	buildings_max_level_factor=1.000
-	local_supplies=0.000
+state = { 
+	id = 3399 
+	name = "STATE_3399" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0  
+	provinces = { 1281 7151 7522 7625 17097 18522 18912 }
 }

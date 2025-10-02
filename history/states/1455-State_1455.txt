@@ -1,17 +1,10 @@
-state={
-	id=1455
-	name="STATE_1455"
-	provinces={
-		9273 9517 9536 9625 9747 9762 9763 9790 9803 9843 9896 10020 10021 10094 10118 10119 10145 10166 10193 10267 10315 10348 10349 10350 10431 10464 10512 10612 10642 10643 10781 10931 10984 
-	}
-	history = {
-		victory_points = { 10348 31 }#Энгельс
-		victory_points = { 10612 27 }#Балаково
-		
-		
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 1455 
+	name = "STATE_1455" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 9273 9517 9536 9625 9747 9762 9763 9790 9803 9896 10020 10021 10094 10118 10119 10145 10166 10193 10267 10315 10348 10349 10350 10431 10464 10512 10612 10642 10643 10781 10931 10984 }
 }

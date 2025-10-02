@@ -1,0 +1,11 @@
+strategic_region = {
+	id = 667
+	name = "STRATEGICREGION_667"
+
+	provinces = {
+		1424 20840 20897 20901 20941 
+	}
+
+	weather = {
+	}
+}

@@ -1,16 +1,15 @@
-state={
-	id=1088
-	name="STATE_1088"
-	provinces={
-		12120 12187 12420 12468 12541 12567 12767 12825 12943 12983 13178 13340  
-	}
-	history={
-		victory_points = { 12767 17 }#Северобайкальск
+state = { 
+	id = 1088 
+	name = "STATE_1088" 
+	#Северобайкальск
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
 		
-		
+		victory_points = { 12767 17 }
 	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 12120 12187 12420 12468 12541 12567 12767 12825 12943 12983 13178 13340 }
 }

@@ -1,15 +1,14 @@
-state={
-	id=1559
-	name="STATE_1559"
-	provinces={
-		9847 
-	}
-	history={
-		victory_points = { 9847 60 }#Иркутск
+state = { 
+	id = 1559 
+	name = "STATE_1559" 
+	#Иркутск
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
+		victory_points = { 9847 60 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 9847 }
 }

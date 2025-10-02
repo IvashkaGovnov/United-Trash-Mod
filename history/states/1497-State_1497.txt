@@ -1,15 +1,14 @@
-state={
-	id=1497
-	name="STATE_1497"
-	provinces={
-		10539 
-	}
-	history={
-		victory_points = { 10539 3 }#Хужир
+state = { 
+	id = 1497 
+	name = "STATE_1497" 
+	#Хужир
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
+		victory_points = { 10539 3 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 10539 }
 }

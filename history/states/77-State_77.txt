@@ -1,15 +1,10 @@
-state={
-	id=77
-	name="STATE_77"
-	provinces={
-		18893 18903 18911 18999 19000 19011 19020 19051 19185 19200 19212 19243 19250 19263 19273 19305 19390 19409 19418 19458 19468 19594 19621 
-	}
-	history={
-		victory_points = { 19185 6 }#Чокурдах
-		
-		
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+state = { 
+	id = 77 
+	name = "STATE_77" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 18893 18903 18911 18999 19011 19020 19051 19185 19200 19212 19243 19250 19263 19273 19305 19409 19418 19458 19468 19594 19621 }
 }

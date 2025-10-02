@@ -1,19 +1,15 @@
-state={
-	id=1169
-	name="STATE_1169"
-	history = {
-	victory_points = { 13008 50 }#Северная Казань
-	victory_points = { 12916 80 }#Южная Казань
+state = { 
+	id = 1169 
+	name = "STATE_1169" 
+	manpower = 1 
 	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
-	
-
-}
-	provinces={
-		12916 13008 
+		victory_points = { 12916 80 }
+		victory_points = { 13008 50 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	#Южная Казань
+	provinces = { 12916 13008 }
 }

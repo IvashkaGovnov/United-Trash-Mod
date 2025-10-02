@@ -1,16 +1,17 @@
-state={
-	id=1735
-	name="STATE_1735"
-	provinces={
-		8404 
+state = { 
+	id = 1735 
+	name = "STATE_1735" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
+		#Харбин
+		owner = ZHR 
+		
+		victory_points = { 8404 150 }
+		
+		add_core_of = ZHR 
 	}
-	history={
-	victory_points = { 8404 150 }#Харбин
-
-		owner = ZHR
-		add_core_of = ZHR
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 8404 }
 }

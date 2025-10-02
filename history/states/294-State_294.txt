@@ -1,17 +1,16 @@
-
-state={
-	id=294
-	name="STATE_294"
-	provinces={
-		13626 13778 14054 
-	}
-	history = {
-		victory_points = { 13626 31 }#Дзержинск
-		victory_points = { 14054 10 }#Чкаловск
+state = { 
+	id = 294 
+	name = "STATE_294" 
+	#Чкаловск
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
 		
+		victory_points = { 13626 31 }
+		victory_points = { 14054 10 }
 	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 13626 13778 14054 }
 }

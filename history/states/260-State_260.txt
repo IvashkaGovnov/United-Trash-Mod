@@ -1,15 +1,15 @@
-state={
-	id=260
-	name="STATE_260"
-	provinces={
-		18331 18344 18487 18510 18569 18642 18668 18713 
+state = { 
+	id = 260 
+	name = "STATE_260" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		owner = SSA 
+		
+		add_core_of = SSA 
 	}
-	history={
-		owner = SSA
-		add_core_of = SSA
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 18331 18344 18487 18510 18569 18642 18668 18713 }
 }

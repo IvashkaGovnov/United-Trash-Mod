@@ -1,22 +1,24 @@
-state={
-	id=1648
-	name="STATE_1648"
-	provinces={
-		7920 8029 8047 8203 8217 8236 8269 8333 8334 8405 8462 8463 8530 8570 8586 8653 8764 8798 8916 9077 9078 
+state = { 
+	id = 1648 
+	name = "STATE_1648" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
+		#Мулин
+		owner = ZHR 
+		
+		victory_points = { 7920 15 }
+		victory_points = { 8029 26 }
+		victory_points = { 8236 9 }
+		victory_points = { 8334 75 }
+		victory_points = { 8462 12 }
+		victory_points = { 8463 24 }
+		victory_points = { 8570 25 }
+		victory_points = { 9077 11 }
+		
+		add_core_of = ZHR 
 	}
-	history={
-	victory_points = { 8334 75 }#Муданьцзян
-	victory_points = { 8029 26 }#Нингута
-	victory_points = { 7920 15 }#Солдатская
-	victory_points = { 8570 25 }#Саньсин
-	victory_points = { 9077 11 }#Дунзин
-	victory_points = { 8463 24 }#Боли
-	victory_points = { 8462 12 }#Линск
-	victory_points = { 8236 9 }#Мулин
-		owner = ZHR
-		add_core_of = ZHR
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 7920 8029 8047 8203 8217 8236 8269 8333 8334 8405 8462 8463 8530 8570 8586 8653 8764 8798 8916 9077 9078 }
 }

@@ -1,20 +1,17 @@
-state={
-	id=1140
-	name="STATE_1140"
-	history = {
-	victory_points = { 13217 60 }#Ижевск
-	victory_points = { 13313 24 }#Глазов
-	victory_points = { 13092 18 }#Игра
-	victory_points = { 12790 21 }#Можга
+state = { 
+	id = 1140 
+	name = "STATE_1140" 
+	manpower = 1 
 	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
-
-}
-	provinces={
-		12790 13061 13092 13217 13313 
+		victory_points = { 12790 21 }
+		victory_points = { 13092 18 }
+		victory_points = { 13217 60 }
+		victory_points = { 13313 24 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	#Можга
+	provinces = { 12790 13061 13092 13217 13313 }
 }

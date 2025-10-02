@@ -1,10 +1,12 @@
-strategic_region={
-	id=134
-	name="STRATEGICREGION_134"
-	provinces={
-		672 676 690 696 716 731 735 736 745 754 778 794 802 806 807 808 809 834 845 858 871 872 883 890 897 904 905 917 924 931 952 964 965 966 973 1014 1028 1033 1079 20568 
+strategic_region = {
+	id = 134
+	name = "STRATEGICREGION_134"
+
+	naval_terrain = water_shallow_sea
+	provinces = {
+		672 676 690 696 716 731 735 736 745 754 778 794 802 806 807 808 809 834 845 858 871 872 883 890 897 904 905 917 924 931 952 964 965 966 973 1028 1033 1079 20568 
 	}
-	naval_terrain=water_shallow_sea
-	weather={
+
+	weather = {
 	}
 }

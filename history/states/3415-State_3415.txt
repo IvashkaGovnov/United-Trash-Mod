@@ -1,15 +1,10 @@
-state={
-	id=3415
-	name="STATE_3415"
-	provinces={
-		7243 7347 7355 7453 7476 7524 7548 7630 7648 7671 7680 7681 7740 7780 7794 7826 7851 7905 8026 8027 8140 8201 8249 8330 8353 8403 8432 8529 8568 8602 8691 8749 
-	}
-	history={
-		
-		
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 3415 
+	name = "STATE_3415" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 7243 7347 7355 7453 7476 7524 7548 7630 7648 7671 7680 7681 7740 7780 7794 7826 7851 7905 8026 8027 8140 8201 8249 8330 8403 8568 8602 8691 8749 }
 }

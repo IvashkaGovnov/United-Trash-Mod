@@ -1,15 +1,10 @@
-state={
-	id=1100
-	name="STATE_1100"
-	provinces={
-		12422 12594 12615 12876 12966 13045 13132 13180 13181 13387 
-	}
-	history={
-		
-		
-		victory_points = { 13181 25 }#Мухосранск
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+state = { 
+	id = 1100 
+	name = "STATE_1100" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 12422 12594 12615 12876 12966 13045 13132 13180 13181 }
 }

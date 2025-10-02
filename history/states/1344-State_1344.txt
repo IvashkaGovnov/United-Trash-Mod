@@ -1,15 +1,14 @@
-state={
-	id=1344
-	name="STATE_1344"
-	provinces={
-		9418 9809 9829 9978 10082 10174 10473 10518 10648 10745 10841 10915 10916 11360 11386 
-	}
-	history={
-		victory_points = { 11386 4 }#Багдарин
+state = { 
+	id = 1344 
+	name = "STATE_1344" 
+	#Багдарин
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
+		victory_points = { 11386 4 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 9418 9809 9829 9978 10082 10174 10473 10518 10648 10745 10841 10915 10916 11360 11386 }
 }

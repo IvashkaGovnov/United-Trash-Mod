@@ -1,16 +1,10 @@
-state={
-	id=3381
-	name="STATE_3381"
-	provinces={
-		10649 10824 10825 10869 10995 11021 11070 11091 11135 11136 11167 11207 11388 11411 11440 11462 11533 11563 11594 11651 11822 11878 11902 11981 12041 12188 12310 12543 
-	}
-	history={
-		victory_points = { 11388 20 }#Белогорск
-		
-		
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 3381 
+	name = "STATE_3381" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 10649 10824 10869 11021 11070 11091 11135 11136 11167 11207 11388 11411 11440 11462 11533 11563 11594 11651 11822 11878 11902 11981 12041 12188 12310 12543 }
 }

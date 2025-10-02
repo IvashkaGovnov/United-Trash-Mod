@@ -1,10 +1,9 @@
-state={
-	id=1605
-	name="STATE_1605"
-	provinces={
-		8834 8871 9007 9059 9175 9352 9423 9507 
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+state = { 
+	id = 1605 
+	name = "STATE_1605" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	provinces = { 8834 8871 9007 9059 9175 9352 9423 9507 }
 }

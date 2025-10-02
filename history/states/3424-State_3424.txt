@@ -1,15 +1,10 @@
-state={
-	id=3424
-	name="STATE_3424"
-	provinces={
-		6147 6173 6319 6341 6421 6449 6456 6514 6530 6570 6687 6716 6832 6882 6919 6938 7028 7118 7184 7254 7315 
-	}
-	history={
-		
-		
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 3424 
+	name = "STATE_3424" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 6147 6319 6421 6449 6456 6514 6530 6570 6687 6716 6832 6882 6919 6938 7028 7184 7315 }
 }

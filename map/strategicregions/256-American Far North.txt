@@ -1,10 +1,11 @@
+strategic_region = {
+	id = 256
+	name = "STRATEGICREGION_256"
 
-strategic_region={
-	id=256
-	name="STRATEGICREGION_256"
-	provinces={
+	provinces = {
 		2660 18458 18544 18669 18754 18830 18885 18886 18954 18981 19026 19162 19258 19270 19357 19453 19462 19568 19622 19803 19884 19902 
 	}
-	weather={
+
+	weather = {
 	}
 }

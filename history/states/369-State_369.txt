@@ -1,14 +1,14 @@
-state={
-	id=369
-	name="STATE_369"
-	provinces={
-		17928 
+state = { 
+	id = 369 
+	name = "STATE_369" 
+	#Петропавловск-Камчатский
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
+		
+		victory_points = { 17928 26 }
 	}
-	history={
-		victory_points = { 17928 26 }#Петропавловск-Камчатский
-
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 17928 }
 }

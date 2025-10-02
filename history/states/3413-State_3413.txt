@@ -1,16 +1,10 @@
-state={
-	id=3413
-	name="STATE_3413"
-	provinces={
-		7601 7631 7632 7704 7716 7755 7756 7795 7827 7872 7887 7906 7907 7919 7974 7989 8001 8046 8064 8141 8155 8202 8297 
-	}
-	history={
-	victory_points = { 7756 150 }#Чанчунь
-		owner = ZHR
-		add_core_of = ZHR
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 3413 
+	name = "STATE_3413" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 7601 7631 7632 7704 7716 7755 7756 7795 7827 7872 7887 7906 7907 7919 7974 7989 8001 8046 8064 8141 8155 8297 }
 }

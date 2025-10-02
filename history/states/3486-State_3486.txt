@@ -1,16 +1,10 @@
-state={
-	id=3486
-	name="STATE_3486"
-	provinces={
-		6984 7001 7002 7074 7075 7107 7187 7230 7276 7408 7454 
-	}
-	history={
-		owner = ZHR
-		add_core_of = ZHR
-	victory_points = { 7075 25 }#Телин
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 3486 
+	name = "STATE_3486" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 6984 7001 7002 7074 7107 7187 7230 7276 7408 7454 }
 }

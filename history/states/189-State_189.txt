@@ -1,15 +1,14 @@
-state={
-	id=189
-	name="STATE_189"
-	provinces={
-		18383 18496 18542 18575 18594 18634 18648 18655 18848 
-	}
-	history={
-		victory_points = { 18594 24 }#Магадан
+state = { 
+	id = 189 
+	name = "STATE_189" 
+	#Магадан
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
+		victory_points = { 18594 24 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 18383 18496 18542 18575 18594 18634 18648 18655 18848 }
 }

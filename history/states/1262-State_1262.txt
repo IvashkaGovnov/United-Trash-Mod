@@ -1,21 +1,20 @@
-state={
-	id=1262
-	name="STATE_1262"
-	history = {
+state = { 
+	id = 1262 
+	name = "STATE_1262" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
-	victory_points = { 12513 30 }#Нижнекамск
-	victory_points = { 12302 8 }#Болгар
-	victory_points = { 11554 22 }#Бугульма
-	victory_points = { 11960 25 }#Альтемьевск
-	victory_points = { 11742 22 }#Ленингорск
-	victory_points = { 12228 21 }#Чистополь
-	victory_points = { 11992 9 }#Аксубаево
-}
-	provinces={
-		11554 11742 11960 11979 11992 12061 12111 12228 12302 12303 12353 12513 
+		victory_points = { 11554 22 }
+		victory_points = { 11742 22 }
+		victory_points = { 11960 25 }
+		victory_points = { 11992 9 }
+		victory_points = { 12228 21 }
+		victory_points = { 12302 8 }
+		victory_points = { 12513 30 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	#Аксубаево
+	provinces = { 11554 11742 11960 11979 11992 12061 12111 12228 12302 12303 12353 12513 }
 }

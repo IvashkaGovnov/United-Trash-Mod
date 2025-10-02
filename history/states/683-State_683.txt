@@ -1,15 +1,10 @@
-state={
-	id=683
-	name="STATE_683"
-	provinces={
-		13450 13585 13687 13733 13858 14088 14175 14244 14386 14494 14616 14811 14873 15001 15224 15372 15905 
-	}
-	history={
-		victory_points = { 15001 3 }#Чумикан
-		
-		
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+state = { 
+	id = 683 
+	name = "STATE_683" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 13450 13585 13687 13733 13858 14088 14175 14244 14386 14494 14616 14811 14873 15001 15224 15905 }
 }

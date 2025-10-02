@@ -1,15 +1,14 @@
-state={
-	id=1429
-	name="STATE_1429"
-	provinces={
-		11080 11129 11250 
-	}
-	history = {
-		victory_points = { 11250 20 }#Жигулёвск
+state = { 
+	id = 1429 
+	name = "STATE_1429" 
+	#Жигулёвск
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
+		victory_points = { 11250 20 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 11080 11129 11250 }
 }

@@ -1,14 +1,11 @@
-state={
-	id=301
-	name="STATE_301"
-	provinces={
-		17917 17994 17995 17996 18026 18103 18127 18171 18183 18259 
+state = { 
+	id = 301 
+	name = "STATE_301" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 	}
-	history={
-		
-		
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 17917 17994 17995 17996 18026 18103 18127 18171 18183 18259 }
 }

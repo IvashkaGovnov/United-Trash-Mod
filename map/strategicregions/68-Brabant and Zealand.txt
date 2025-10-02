@@ -1,9 +1,11 @@
-strategic_region={
-	id=68
-	name="STRATEGICREGION_68"
-	provinces={
-		17360 17439 17466 17491 17538 17557 17589 17622 17635 17680 17681 17698 17770 17788 17789 17804 17824 
+strategic_region = {
+	id = 68
+	name = "STRATEGICREGION_68"
+
+	provinces = {
+		902 3380 17360 17439 17466 17491 17557 17622 17680 17698 17770 17824 
 	}
-	weather={
+
+	weather = {
 	}
 }

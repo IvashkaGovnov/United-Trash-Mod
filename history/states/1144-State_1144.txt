@@ -1,20 +1,17 @@
-state={
-	id=1144
-	name="STATE_1144"
-	history = {
-	victory_points = { 13314 25 }#Воткинск
-	victory_points = { 13245 7 }#Шаркан
-	victory_points = { 12963 24 }#Сарапул
-	victory_points = { 12917 5 }#Каракулино
+state = { 
+	id = 1144 
+	name = "STATE_1144" 
+	manpower = 1 
 	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
-	
-}
-	provinces={
-		12917 12963 13093 13245 13314 
+		victory_points = { 12917 5 }
+		victory_points = { 12963 24 }
+		victory_points = { 13245 7 }
+		victory_points = { 13314 25 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	#Каракулино
+	provinces = { 12917 12963 13093 13245 13314 }
 }

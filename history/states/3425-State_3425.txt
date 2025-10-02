@@ -1,18 +1,20 @@
-state={
-	id=3425
-	name="STATE_3425"
-	provinces={
-		6696 6744 6745 6752 6760 6776 6800 6801 6820 6833 6853 6863 6889 6890 6909 6923 6968 
+state = { 
+	id = 3425 
+	name = "STATE_3425" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		#Ляоян
+		owner = ZHR 
+		
+		victory_points = { 6745 70 }
+		victory_points = { 6820 100 }
+		victory_points = { 6853 75 }
+		
+		add_core_of = ZHR 
 	}
-	history={
-	victory_points = { 6853 75 }#Западный Мукден
-	victory_points = { 6820 100 }#Восточный Мукден
-	victory_points = { 6745 70 }#Ляоян
-		owner = ZHR
-		add_core_of = ZHR
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 6696 6744 6745 6752 6760 6776 6800 6801 6820 6833 6853 6863 6889 6890 6909 6923 6968 }
 }

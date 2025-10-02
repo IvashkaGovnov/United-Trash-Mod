@@ -1,17 +1,16 @@
-
-state={
-	id=3370
-	name="STATE_3370"
-	provinces={
-		12716 12736 12867 12913 12914 12942 12980 13007 13090 13126 13151 13216 13287 13368 13381 13382 13410 
-	}
-	history = {
-		victory_points = { 12980 25 }#Арзамас
-		victory_points = { 12736 24 }#Саров
+state = { 
+	id = 3370 
+	name = "STATE_3370" 
+	#Саров
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
 		
+		victory_points = { 12736 24 }
+		victory_points = { 12980 25 }
 	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 12716 12736 12867 12913 12914 12942 12980 13007 13090 13126 13151 13216 13287 13368 13381 13382 13410 }
 }

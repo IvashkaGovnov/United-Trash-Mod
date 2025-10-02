@@ -1,29 +1,10 @@
-state={
-	id=1272
-	name="STATE_1272"
-	history = {
+state = { 
+	id = 1272 
+	name = "STATE_1272" 
+	manpower = 1 
 	
-		owner = VPU
-		add_core_of = VPU
-	
-		victory_points = { 11048 65 }#Велосибирск
-		victory_points = { 10153 16 }#Вяземский
-		victory_points = { 9984 16 }#Бикин
-		victory_points = { 10746 9 }#Хор
-		victory_points = { 10920 5 }#Полётненское
-		victory_points = { 11264 3 }#Вятское
-		victory_points = { 11390 14 }#Берёзовка
-		victory_points = { 11903 2 }#Синда
-		victory_points = { 11186 7 }#Князе-волконское
-		victory_points = { 11536 5 }#Мухен
-		victory_points = { 12162 4 }#Снежный
-		victory_points = { 11693 2 }#Кенай	
-	}
-	provinces={
-		9984 10068 10153 10384 10405 10421 10447 10543 10601 10746 10870 10920 10921 10933 11048 11115 11168 11186 11264 11265 11390 11463 11535 11536 11693 11773 11903 12025 12162 12286 
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 9984 10068 10405 10421 10447 10543 10601 10746 10870 10920 10921 10933 11048 11115 11168 11186 11264 11265 11390 11463 11535 11536 11693 11773 11903 12025 12162 12286 }
 }

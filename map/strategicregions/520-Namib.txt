@@ -1,9 +1,11 @@
-strategic_region={
-	id=520
-	name="STRATEGICREGION_520"
-	provinces={
-		295 339 348 393 397 408 442 444 478 485 492 495 507 524 542 546 560 561 567 599 616 622 633 655 677 678 710 740 797 
+strategic_region = {
+	id = 520
+	name = "STRATEGICREGION_520"
+
+	provinces = {
+		295 339 348 393 397 408 442 444 478 485 492 495 507 524 542 546 560 567 599 616 622 633 655 677 678 710 740 797 
 	}
-	weather={
+
+	weather = {
 	}
 }

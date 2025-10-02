@@ -1,16 +1,10 @@
-
-state={
-	id=3329
-	name="STATE_3329"
-	provinces={
-		16879 17524 17761 17873 17874 17906 18077 18126 18239 18240 18403 18476 18576 18627 18685 18788 18802 18874 18912 
-	}
-	history={
-		victory_points = { 17874 17 }#Вилючинск
-
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 3329 
+	name = "STATE_3329" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 16879 17524 17761 17873 17874 17906 18077 18126 18239 18240 18403 18476 18576 18627 18685 18788 18802 18874 }
 }

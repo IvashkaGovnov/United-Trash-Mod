@@ -1,16 +1,18 @@
-state={
-	id=3421
-	name="STATE_3421"
-	provinces={
-		6939 6967 7021 7029 7046 7059 7186 7221 7229 7318 7331 7348 7368 
+state = { 
+	id = 3421 
+	name = "STATE_3421" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		#Чжанъу
+		owner = ZHR 
+		
+		victory_points = { 7331 75 }
+		
+		add_core_of = ZHR 
 	}
-	history={
-	victory_points = { 7331 75 }#Чжанъу
-		owner = ZHR
-		add_core_of = ZHR
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 6939 6967 7021 7029 7046 7059 7186 7221 7229 7318 7331 7348 7368 }
 }

@@ -1,22 +1,10 @@
-state={
-	id=1089
-	name="STATE_1089"
-	history = {
+state = { 
+	id = 1089 
+	name = "STATE_1089" 
+	manpower = 1 
 	
-		owner = VPU
-		add_core_of = VPU
-	victory_points = { 11859 17 }#Пузогавань
-	victory_points = { 12094 5 }#Высокогорный
-	victory_points = { 11694 2 }#Кенада
-	victory_points = { 11824 15 }#Ванино
-	victory_points = { 12257 1 }#Кузнецовский
-	victory_points = { 13343 5 }#Де-кастри
-	victory_points = { 13069 1 }#Чильба
-}
-	provinces={
-		11362 11413 11694 11824 11859 12094 12095 12144 12257 12377 12423 12747 12849 13069 13343 
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 11362 11413 11694 11824 11859 12094 12095 12144 12257 12377 12423 12747 12849 13343 }
 }

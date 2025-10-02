@@ -1,20 +1,22 @@
-state={
-	id=1538
-	name="STATE_1538"
-	provinces={
-		8955 9132 9133 9149 9201 9321 9345 9421 9459 9546 9547 9613 9614 9672 9697 9848 10003 
+state = { 
+	id = 1538 
+	name = "STATE_1538" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
+		#Турий Рог
+		owner = ZHR 
+		
+		victory_points = { 8955 3 }
+		victory_points = { 9149 24 }
+		victory_points = { 9459 26 }
+		victory_points = { 9614 27 }
+		victory_points = { 9848 25 }
+		victory_points = { 10003 9 }
+		
+		add_core_of = ZHR 
 	}
-	history={
-	victory_points = { 9614 27 }#Баоцин
-	victory_points = { 10003 9 }#Чемер
-	victory_points = { 9848 25 }#Синьсин
-	victory_points = { 9459 26 }#Хулинь
-	victory_points = { 9149 24 }#Мишань
-	victory_points = { 8955 3 }#Турий Рог
-		owner = ZHR
-		add_core_of = ZHR
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 8955 9132 9133 9149 9201 9321 9345 9421 9459 9546 9547 9613 9614 9672 9697 9848 10003 }
 }

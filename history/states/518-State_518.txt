@@ -1,14 +1,14 @@
-state={
-	id=518
-	name="STATE_518"
-	provinces={
-		16779 16848 16942 16943 17113 17150 
+state = { 
+	id = 518 
+	name = "STATE_518" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
+		owner = RUS 
+		
+		add_core_of = RUS 
 	}
-	history={
-		owner = RUS
-		add_core_of = RUS
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 16779 16848 16942 16943 17113 17150 }
 }

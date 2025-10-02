@@ -1,16 +1,10 @@
-state={
-	id=917
-	name="STATE_917"
-	provinces={
-		12768 13044 13130 13204 13252 13293 13316 13416 13533 13559 13685 13686 13706 13892 13987 14110 14223 
-	}
-	history={
-		victory_points = { 13316 7 }#Таксимо
-		
-		
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 917 
+	name = "STATE_917" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 12768 13044 13130 13204 13252 13293 13316 13416 13533 13559 13686 13706 13892 13987 14110 14223 }
 }

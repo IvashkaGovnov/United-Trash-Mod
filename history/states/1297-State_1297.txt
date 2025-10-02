@@ -1,16 +1,15 @@
-state={
-	id=1297
-	name="STATE_1297"
-	provinces={
-		11640 11641 11814 11815 11816 11847 11959 11991 12110 12182 21637 
-	}
-	history = {
-		victory_points = { 11815 25 }#Димитровград
+state = { 
+	id = 1297 
+	name = "STATE_1297" 
+	#Димитровград
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
 		
-		
+		victory_points = { 11815 25 }
 	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 11640 11641 11814 11815 11816 11847 11959 11991 12110 12182 21637 }
 }

@@ -1,23 +1,24 @@
-
-state={
-	id=1377
-	name="STATE_1377"
-	provinces={
-		8603 8673 8751 8781 8901 8902 8903 8934 8935 8984 9150 9183 9295 9323 9443 9563 
+state = { 
+	id = 1377 
+	name = "STATE_1377" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		#Чугуевка
+		owner = ZHR 
+		
+		victory_points = { 8673 15 }
+		victory_points = { 8781 16 }
+		victory_points = { 8902 10 }
+		victory_points = { 8903 17 }
+		victory_points = { 8935 11 }
+		victory_points = { 9295 12 }
+		victory_points = { 9563 3 }
+		
+		add_core_of = ZHR 
 	}
-	history={
-	victory_points = { 9563 3 }#Белембе
-	victory_points = { 9295 12 }#Терней
-	victory_points = { 8935 11 }#Пластун
-	victory_points = { 8902 10 }#Тайга
-	victory_points = { 8903 17 }#Тетюхе
-	victory_points = { 8781 16 }#Кавелерово
-	victory_points = { 8673 15 }#Чугуевка
-		owner = ZHR
-		add_core_of = ZHR
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 8603 8673 8751 8781 8901 8902 8903 8934 8935 8984 9150 9183 9295 9323 9443 9563 }
 }

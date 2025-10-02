@@ -1,16 +1,15 @@
-state={
-	id=1537
-	name="STATE_1537"
-	provinces={
-		9281 9342 9362 9455 9545 9608 9670 9753 9864 9911 9976 9977 10028  
-	}
-	history={
-		victory_points = { 9911 45 }#Улан-Удэ
+state = { 
+	id = 1537 
+	name = "STATE_1537" 
+	#Улан-Удэ
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
 		
-		
+		victory_points = { 9911 45 }
 	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 9281 9342 9362 9455 9545 9608 9670 9753 9864 9911 9976 9977 10028 }
 }

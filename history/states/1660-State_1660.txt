@@ -1,21 +1,23 @@
-state={
-	id=1660
-	name="STATE_1660"
-	provinces={
-		8654 8655 8715 8750 8819 8845 8846 8983 9053 21614 
+state = { 
+	id = 1660 
+	name = "STATE_1660" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
+		#Озёрное
+		owner = ZHR 
+		
+		victory_points = { 8654 2 }
+		victory_points = { 8655 4 }
+		victory_points = { 8819 16 }
+		victory_points = { 8845 10 }
+		victory_points = { 8846 3 }
+		victory_points = { 8983 5 }
+		
+		add_core_of = ZHR 
 	}
-	history={
-	victory_points = { 8819 16 }#Спасский
-	victory_points = { 8654 2 }#Яковлевка
-	victory_points = { 8655 4 }#Арсеньев
-	victory_points = { 8983 5 }#Донск
-	victory_points = { 8845 10 }#Успенка
-	victory_points = { 8846 3 }#Озёрное
-		owner = ZHR
-		add_core_of = ZHR
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 8654 8655 8715 8750 8819 8845 8846 8983 9053 21614 }
 }

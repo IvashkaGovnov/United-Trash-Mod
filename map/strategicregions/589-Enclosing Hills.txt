@@ -1,9 +1,11 @@
-strategic_region={
-	id=589
-	name="STRATEGICREGION_589"
-	provinces={
+strategic_region = {
+	id = 589
+	name = "STRATEGICREGION_589"
+
+	provinces = {
 		18409 18525 18571 18572 18597 18598 18613 18618 18659 18671 18697 18747 18748 18817 18863 18877 18923 18943 18961 18987 19070 19084 19121 
 	}
-	weather={
+
+	weather = {
 	}
 }

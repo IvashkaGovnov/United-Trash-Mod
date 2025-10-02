@@ -1,16 +1,15 @@
-state={
-	id=1266
-	name="STATE_1266"
-	provinces={
-		11262 11409 11410 11438 11488 11877 11949 11996 12023 12039 12121 12141 12142 12285 
-	}
-	history={
-		victory_points = { 11877 54 }#Да-Хинган-Лин
+state = { 
+	id = 1266 
+	name = "STATE_1266" 
+	#Да-Хинган-Лин
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	history = { 
 		
-		
+		victory_points = { 11877 54 }
 	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 11262 11409 11410 11438 11488 11877 11949 11996 12023 12039 12121 12141 12142 12285 }
 }

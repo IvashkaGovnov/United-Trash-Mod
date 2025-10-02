@@ -1,15 +1,14 @@
-state={
-	id=1320
-	name="STATE_1320"
-	provinces={
-		11073 11464 11506 11695 11803 11825 
-	}
-	history={
-		victory_points = { 11803 28 }#Южносахалинск
+state = { 
+	id = 1320 
+	name = "STATE_1320" 
+	#Южносахалинск
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	history = { 
 		
-		
+		victory_points = { 11803 28 }
 	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+	provinces = { 11073 11464 11506 11695 11803 11825 }
 }

@@ -1,4 +1,4 @@
-SSA = "countries/SSA.txt"
+SSA = "countries/SSA - Soedinyonnie Shtati Ameriki.txt"
 KAN = "countries/KAN.txt"
 MEK = "countries/MEK.txt"
 GVA = "countries/GVA.txt"

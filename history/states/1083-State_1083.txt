@@ -1,14 +1,10 @@
-state={
-	id=1083
-	name="STATE_1083"
-	provinces={
-		12843 12844 12939 12940 12978 13038 13088 13125 13171 13213 13285 13310 13329 13364 13365 13405 13439 13440 13500 
-	}
-	history={
-		owner = RUS
-		add_core_of = RUS
-	}
-	manpower=1
-	state_category = "rural"
-	buildings_max_level_factor=1.000
+state = { 
+	id = 1083 
+	name = "STATE_1083" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 12843 12939 12940 12978 13038 13088 13125 13171 13213 13285 13310 13329 13364 13365 13405 13439 13440 13500 }
 }
