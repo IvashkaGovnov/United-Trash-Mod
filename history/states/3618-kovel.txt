@@ -1,0 +1,16 @@
+state={
+	id=3618
+	name="STATE_3618"
+	provinces={
+		13239 13309 13402 13596 13597 
+	}
+	history = { 
+		
+		owner = UKR 
+		add_core_of = UKR 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

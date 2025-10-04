@@ -1,11 +1,16 @@
-state = { 
-	id = 1235 
-	name = "STATE_1235" 
-	manpower = 1 
-	
-	state_category = rural 
-	buildings_max_level_factor = 1 
-	history = { 
+state={
+	id=1235
+	name="STATE_1235"
+	provinces={
+		12297 12412 12413 12529 12603 
 	}
-	provinces = { 11934 11987 12178 12270 12297 12412 12413 12529 12603 }
+	history = { 
+		
+		owner = UKR 
+		add_core_of = UKR 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }
