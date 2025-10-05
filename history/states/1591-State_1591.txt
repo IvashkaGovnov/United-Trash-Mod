@@ -2,11 +2,14 @@ state = {
 	id = 1591 
 	name = "STATE_1591" 
 	history = { 
+		victory_points = { 9662 40 }
 		
-		owner = UKR 
+		#owner = UKR 
 		add_core_of = UKR 
+		owner = LPR 
+		add_core_of = LPR 
 	}
-	manpower=1
+	manpower=442800
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

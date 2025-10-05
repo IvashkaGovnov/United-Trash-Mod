@@ -154,3 +154,4 @@ SRE = "countries/SRE.txt"
 DAA = "countries/DAA.txt"
 
 UKR = "countries/souz/euro/malorus/UKR - Ukraina.txt"
+LPR = "countries/souz/euro/malorus/LPR - Lugansk People Republic.txt"
