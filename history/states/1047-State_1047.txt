@@ -6,8 +6,8 @@ state={
 	}
 	history = { 
 		
-		owner = UKR 
-		add_core_of = UKR 
+		#owner = UKR 
+		#add_core_of = UKR 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
