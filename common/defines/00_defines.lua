@@ -775,7 +775,7 @@ NMilitary = {
 	INFRASTRUCTURE_MOVEMENT_SPEED_IMPACT = -0.05,	-- speed penalty per infrastucture below maximum.
 
 	VPS_FOR_HISTORY_ENTRY = 3,					-- Minimum VPs required to receive an entry in divisional history
-	VPS_FOR_HIGH_HISTORY_ENTRY = 8,				-- VPs required for high-level history entry
+	VPS_FOR_HIGH_HISTORY_ENTRY = 10,				-- VPs required for high-level history entry
 	ENTRIES_TO_CHECK_FOR_DUPLICATE = 2,			-- Max number of history entries to check back to see if we're being awarded the same entry
 	COST_INCREASE_PER_ACTIVE_MEDAL = 0.25,		-- Additional cost factor per active medal
 	MAX_ENTRY_ELISION_COUNT = 4,				-- If we do the same type of thing consecutively, each entry will stack locations up to this number
@@ -968,14 +968,14 @@ NMilitary = {
 	PLAN_NEIGHBORING_ENEMY_PROVINCE_FACTOR = 0.7,	-- When calculating the importance of provinces, it takes number of enemy provinces into account, factored by this
 	PLAN_PROVINCE_BASE_IMPORTANCE = 2.0,			-- Used when calculating the calue of front and defense area provinces for the battle plan system
 
-	PLAN_PROVINCE_LOW_VP_DEFENSE_THRESHOLD = 2.0,      -- For area defense VP orders, what are the thresholds for "low", "medium" and "high" VP values
-	PLAN_PROVINCE_MEDIUM_VP_DEFENSE_THRESHOLD = 8.0,   -- see above
-	PLAN_PROVINCE_HIGH_VP_DEFENSE_THRESHOLD = 25.0,    -- see above
-	PLAN_PROVINCE_LOW_VP_DEFENSE_IMPORTANCE = 2.0,     -- For area defense VP orders, use this value for relative importance
-	PLAN_PROVINCE_MEDIUM_VP_DEFENSE_IMPORTANCE = 5.0,  -- see above
-	PLAN_PROVINCE_HIGH_VP_DEFENSE_IMPORTANCE = 10.0,   -- see above
+	PLAN_PROVINCE_LOW_VP_DEFENSE_THRESHOLD = 10.0,      -- For area defense VP orders, what are the thresholds for "low", "medium" and "high" VP values
+	PLAN_PROVINCE_MEDIUM_VP_DEFENSE_THRESHOLD = 25.0,   -- see above
+	PLAN_PROVINCE_HIGH_VP_DEFENSE_THRESHOLD = 40.0,    -- see above
+	PLAN_PROVINCE_LOW_VP_DEFENSE_IMPORTANCE = 10.0,     -- For area defense VP orders, use this value for relative importance
+	PLAN_PROVINCE_MEDIUM_VP_DEFENSE_IMPORTANCE = 25.0,  -- see above
+	PLAN_PROVINCE_HIGH_VP_DEFENSE_IMPORTANCE = 30.0,   -- see above
 	PLAN_PROVINCE_CAPITAL_DEFENSE_IMPORTANCE = 50.0,   -- For area defense VP orders, boost importance value with this if it's the capital
-	MIN_VP_NEEDED_FOR_DEFENSE_ORDER_ASSIGNMENTS = 1.0, -- For area devense VP orders, ignore provinces with VP <= this value
+	MIN_VP_NEEDED_FOR_DEFENSE_ORDER_ASSIGNMENTS = 3.0, -- For area devense VP orders, ignore provinces with VP <= this value
 
 	PLAN_PROVINCE_LOW_VP_IMPORTANCE_FRONT = 2.0,    -- Used when calculating the calue of fronts in the battle plan system
 	PLAN_PROVINCE_MEDIUM_VP_IMPORTANCE_FRONT = 2.25, -- Used when calculating the calue of fronts in the battle plan system
@@ -2363,7 +2363,7 @@ NAI = {
 	DECLARE_WAR_MIN_FRONT_SIZE_TO_CONSIDER_FOR_NOT_READY = 0.04, -- fronts with less armies than this ratio compared to total number of armies are ignored when ai checks if it is ready for war
 	POCKET_DISTANCE_MAX = 40000,				-- shortest square distance we bother about chasing pockets
 	VP_MAX_PROVINCE_WORTH = 500,				-- Max worth a province can have to a defensive order
-	VP_LEVEL_IMPORTANCE_MEDIUM = 10,			-- Victory points with values higher than or equal to this are considered to be of medium importance.
+	VP_LEVEL_IMPORTANCE_MEDIUM = 30,			-- Victory points with values higher than or equal to this are considered to be of medium importance.
 
 	-- these are all 3 numbers for min, desired, max unit need weights for area defense
 	AREA_DEFENSE_CAPITAL_PEACE_VP_WEIGHT = { 1.0, 1.0, 1.0 },
@@ -2791,7 +2791,7 @@ NAI = {
 	FIELDED_EQUIPMENT_BUFFER_RATIO_FOR_OCCUPATION_AI = 0.5, -- garrison ai will try to leave this ratio of buffers while assigning laws
 	FIELDED_MANPOWER_BUFFER_RATIO_FOR_OCCUPATION_AI = 0.3,  -- garrison ai will try to leave this ratio of buffers while assigning laws
 
-	IMPORTANT_VICTORY_POINT = 15,						-- during occupation ai will only care so much to ask for extra garrisons if VP amount is at least this
+	IMPORTANT_VICTORY_POINT = 25,						-- during occupation ai will only care so much to ask for extra garrisons if VP amount is at least this
 
 	DOCKYARDS_PER_NAVAL_DESIRE_EFFECT = -20.0,			-- Effects how much AI wants to build dockyards based on how navally focused they are in general. Recommended range -100.0 to 100.0.
 
@@ -3229,7 +3229,7 @@ NAI = {
 	AIFC_UNIT_OFFENSIVE_SCORE_FACTOR_EXPERIENCE = 300.0,
 	-- End of unit offensiveness score factors for AIFC
 	-- Strategic target scoring for AIFC
-	AIFC_TARGET_IGNORE_VP_THRESHOLD = 10,                       -- VP target needs at leas this many victory points to be considered a target
+	AIFC_TARGET_IGNORE_VP_THRESHOLD = 15,                       -- VP target needs at leas this many victory points to be considered a target
 	AIFC_TARGET_SUPPLY_HUB_BASE_SCORE = 20.0,                   -- Base score for supply hubs
 	AIFC_TARGET_NAVAL_BASE_BASE_SCORE = 10.0,                   -- Base score for naval bases
 	AIFC_TARGET_NAVAL_BASE_SCORE_PER_LEVEL = 1.0,               -- Score for naval bases increases by this for each level
@@ -4005,8 +4005,8 @@ NSupply = {
 	SUPPLY_NODE_MIN_SUPPLY_THRESHOLD = 1.0, -- if supply of a node is below this value it will be set to 0 -- Currently unused? This should happen when enough damage occurs
 
 	INFRA_TO_SUPPLY = 0.3,							-- each level of infra gives this many supply
-	VP_TO_SUPPLY_BASE = 0.2,							-- Bonus to supply from a VP, no matter the level
-	VP_TO_SUPPLY_BONUS_CONVERSION = 0.05,			-- Bonus to supply local supplies from Victory Points, multiplied by this aspect and rounded to closest integer
+	VP_TO_SUPPLY_BASE = 0.08,							-- Bonus to supply from a VP, no matter the level
+	VP_TO_SUPPLY_BONUS_CONVERSION = 0.01,			-- Bonus to supply local supplies from Victory Points, multiplied by this aspect and rounded to closest integer
 	SUPPLY_FROM_DAMAGED_INFRA = 0.15,                -- damaged infrastructure counts as this in supply calcs
 	SUPPLY_BASE_MULT = 0.2,							-- multiplier on supply base values
 	SUPPLY_DISRUPTION_DAILY_RECOVERY = 1.5,		-- every day nodes recover this much of their accumulated disruption.
