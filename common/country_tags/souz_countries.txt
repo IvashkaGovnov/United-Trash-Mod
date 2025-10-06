@@ -159,3 +159,10 @@ DPR = "countries/souz/euro/malorus/DPR - Donetsk People Republic.txt"
 KPR = "countries/souz/euro/malorus/KPR - Kharkov People Republic.txt"
 ZPR = "countries/souz/euro/malorus/ZPR - Zaporizhzhia People Republic.txt"
 HPR = "countries/souz/euro/malorus/HPR - Kherson People Republic.txt"
+NPR = "countries/souz/euro/malorus/NPR - Nikolaev People Republic.txt"
+OPR = "countries/souz/euro/malorus/OPR - Odessa People Republic.txt"
+PPR = "countries/souz/euro/malorus/PPR - Dnepropetrovsk  People Republic.txt"
+SPR = "countries/souz/euro/malorus/SPR - Sumy People Republic.txt"
+IPR = "countries/souz/euro/malorus/IPR - Kirovohrad  People Republic.txt"
+
+
