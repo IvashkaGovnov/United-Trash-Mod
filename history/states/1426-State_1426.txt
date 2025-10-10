@@ -5,11 +5,17 @@ state={
 		10679 10680 10851 10951 21629 
 	}
 	history = { 
+		victory_points = { 10851 36 }
+		victory_points = { 10679 21 }
+		victory_points = { 10951 17 }
+		victory_points = { 10680 9 }
 		
 		owner = UKR 
 		add_core_of = UKR 
+		#owner = CHK 
+		#add_core_of = CHK 
 	}
-	manpower=1
+	manpower=602600
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

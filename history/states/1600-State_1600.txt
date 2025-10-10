@@ -4,10 +4,10 @@ state = {
 	history = { 
 		victory_points = { 9620 50 }
 		
-		#owner = UKR 
+		owner = UKR 
 		add_core_of = UKR 
-		owner = LPR 
-		add_core_of = LPR 
+		#owner = LGS 
+		#add_core_of = LGS 
 	}
 	manpower=535200
 	buildings_max_level_factor=1.000

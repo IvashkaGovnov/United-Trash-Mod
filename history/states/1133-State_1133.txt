@@ -2,14 +2,21 @@ state={
 	id=1133
 	name="STATE_1133"
 	provinces={
-		12531 12532 12657 12840 12861 12905 13033 
+		12531 12532 12657 12840 12861 12905 
 	}
 	history = { 
+		victory_points = { 12905 29 }
+		victory_points = { 12840 16 }
+		victory_points = { 12531 18 }
+		victory_points = { 12532 8 }
+		victory_points = { 12861 20 }
 		
 		owner = UKR 
 		add_core_of = UKR 
+		#owner = RVN 
+		#add_core_of = RVN
 	}
-	manpower=1
+	manpower=634900
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000
