@@ -10,8 +10,7 @@ state = {
 		#add_core_of = DNC 
 	}
 	manpower=1503400
-	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 	local_supplies=0.000
 	provinces = { 9465 }
 }

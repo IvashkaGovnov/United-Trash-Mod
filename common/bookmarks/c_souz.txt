@@ -18,6 +18,17 @@ bookmarks = {
 			}
 		}
 
+		"UKR" = {
+			history = "UKR_DESC"
+			ideology = anorchism 
+			ideas={
+			#
+			}
+			focuses = {
+				#
+			}
+		}
+
 		"ZHR" = {
 			history = "ZHR_DESC"
 			ideology = borshewism 
