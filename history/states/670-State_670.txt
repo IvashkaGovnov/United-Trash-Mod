@@ -2,7 +2,6 @@ state = {
 	id = 670 
 	name = "STATE_670" 
 	manpower = 1 
-	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	impassable = yes 

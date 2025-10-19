@@ -1,12 +1,10 @@
-strategic_region = {
-	id = 643
-	name = "STRATEGICREGION_643"
-
-	naval_terrain = water_shallow_sea
-	provinces = {
+strategic_region={
+	id=643
+	name="STRATEGICREGION_643"
+	provinces={
 		489 1175 20508 20518 20551 20609 
 	}
-
-	weather = {
+	naval_terrain=water_shallow_sea
+	weather={
 	}
 }

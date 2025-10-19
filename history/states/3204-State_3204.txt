@@ -4,9 +4,9 @@ state = {
 	manpower = 1 
 	history = { 
 		owner = SSA 
-		
 		add_core_of = SSA 
 	}
+	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
 	provinces = { 10725 10872 10893 11095 }

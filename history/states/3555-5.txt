@@ -1,8 +1,9 @@
 state = { 
 	id = 3555 
 	name = "STATE_3555" 
-	manpower = 0 
-	buildings_max_level_factor = 1 
-	local_supplies = 0 
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 	provinces = { 1764 12656 15044 15984 16889 18896 19502 19588 }
 }
