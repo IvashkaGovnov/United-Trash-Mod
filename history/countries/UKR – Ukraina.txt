@@ -11,16 +11,21 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = anorchism 
-	last_election = "0065.1.1"
+	ruling_party = burjuism 
+	last_election = "0068.2.25"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
 set_popularities = {
-	anorchism = 20
-	borshewism = 16
-	pahanism = 16
-	burjuism = 16
-	bidlo = 16
-	putinism = 16
+	anorchism = 5
+	borshewism = 5
+	pahanism = 31
+	burjuism = 35
+	bidlo = 24
+	putinism = 0
 }
+recruit_character = UKR_Viktor_Fedorovich_Yanukovych
+
+
+
+

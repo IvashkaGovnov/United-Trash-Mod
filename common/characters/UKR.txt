@@ -1,0 +1,16 @@
+characters={
+	UKR_Viktor_Fedorovich_Yanukovych = { 
+		name = UKR_Viktor_Fedorovich_Yanukovych
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/hohol/UKR/UKR_Viktor_Fedorovich_Yanukovych.dds"
+			}
+		}
+		country_leader = {
+			ideology = conserva 
+			desc = UKR_Viktor_Fedorovich_Yanukovych_DESC
+		}
+	}
+	
+}
+
