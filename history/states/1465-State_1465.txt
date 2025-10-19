@@ -8,13 +8,17 @@ state={
 		victory_points = { 10557 75 }
 		victory_points = { 10483 15 }
 		
-		#owner = UKR 
+		owner = UKR 
 		add_core_of = UKR 
-		owner = KPR 
-		add_core_of = KPR 
+		#owner = KHR 
+		#add_core_of = KHR 
+       		buildings = {
+			10557 = {
+				land_facility = 1
+			}
+		}
 	}
 	manpower=1762800
-	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_city
 	local_supplies=0.000
 }

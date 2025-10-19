@@ -4,14 +4,13 @@ state = {
 	history = { 
 		victory_points = { 9534 25 }
 		
-		#owner = UKR 
+		owner = UKR 
 		add_core_of = UKR 
-		owner = LPR 
-		add_core_of = LPR 
+		#owner = LGS 
+		#add_core_of = LGS 
 	}
 	manpower=296800
-	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_city
 	local_supplies=0.000
 	provinces = { 9534 }
 }

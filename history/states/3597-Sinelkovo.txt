@@ -12,10 +12,10 @@ state={
 		victory_points = { 9619 10 }
 		victory_points = { 9787 5 }
 		
-		#owner = UKR 
+		owner = UKR 
 		add_core_of = UKR 
-		owner = PPR 
-		add_core_of = PPR  
+		#owner = DNP 
+		#add_core_of = DNP  
 	}
 	manpower=198974
 	buildings_max_level_factor=1.000

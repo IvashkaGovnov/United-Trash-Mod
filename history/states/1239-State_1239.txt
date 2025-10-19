@@ -2,14 +2,21 @@ state={
 	id=1239
 	name="STATE_1239"
 	provinces={
-		11780 11841 11910 12015 12056 12082 12083 12106 12134 12204 12298 
+		11780 11841 11910 12015 12056 12082 12083 12106 12134 12204 12298 12319
 	}
 	history = { 
+		victory_points = { 12134 28 }
+		victory_points = { 11780 22 }
+		victory_points = { 12083 19 }
+		victory_points = { 12106 17 }
+		victory_points = { 12015 8 }
 		
 		owner = UKR 
 		add_core_of = UKR 
+		#owner = ZHT 
+		#add_core_of = ZHT
 	}
-	manpower=1
+	manpower=786400
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

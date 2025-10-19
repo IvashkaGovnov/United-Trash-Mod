@@ -4,12 +4,19 @@ state={
 	provinces={
 		11278 11374 11396 11451 11518 11580 11739 
 	}
-	history = { 
-		
+	history = { 	
+		victory_points = { 11396 30 }
+		victory_points = { 11739 17 }
+		victory_points = { 11278 10 }
+		victory_points = { 11374 12 }
+		victory_points = { 11451 11 }
+
 		owner = UKR 
 		add_core_of = UKR 
+		#owner = KYV 
+		#add_core_of = KYV 
 	}
-	manpower=1
+	manpower=431175
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000
