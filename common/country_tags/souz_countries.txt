@@ -24,6 +24,8 @@ ZHT = "countries/souz/euro/malorus/ZHT – Zhytomyr.txt"
 ZKP = "countries/souz/euro/malorus/ZKP – Zakarpattia.txt"
 ZPR = "countries/souz/euro/malorus/ZPR – Zaporizhzhia.txt"
 
+KBN = "countries/souz/euro/kuban-don-volga/KBN – Kuban.txt"
+
 
 LET = "countries/LET.txt"
 PLA = "countries/PLA.txt"

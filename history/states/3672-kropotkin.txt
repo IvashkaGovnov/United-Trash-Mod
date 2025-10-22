@@ -1,0 +1,19 @@
+state={
+	id=3672
+	name="STATE_3672"
+	provinces={
+		7915 7964 8060 8079 8112 8124 8230 
+	}
+	history = { 
+		victory_points = { 8230 19 }
+		victory_points = { 8079 17 }
+		victory_points = { 8124 15 }
+		victory_points = { 8060 16 }
+		
+		owner = KBN 
+		add_core_of = KBN 
+	}
+	manpower = 357808
+	state_category = rural 
+	buildings_max_level_factor = 1 
+}
