@@ -1,15 +1,11 @@
-state = { 
-	id = 3352 
-	name = "STATE_3352" 
-	manpower = 1 
-	history = { 
-		owner = SSA 
-		
-		add_core_of = SSA 
+state={
+	id=3352
+	name="STATE_3352"
+	provinces={
+		15256 15322 15323 15375 15481 15556 15575 15617 15618 15699 15811 15838 15908 15950 
 	}
-	
-	state_category = rural 
-	buildings_max_level_factor = 1 
-	local_supplies = 0 
-	provinces = { 15256 15322 15323 15375 15481 15556 15575 15617 15618 15699 15811 15838 15908 15950 }
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }
