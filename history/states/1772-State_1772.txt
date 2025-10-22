@@ -1,11 +1,23 @@
-state = { 
-	id = 1772 
-	name = "STATE_1772" 
-	manpower = 1 
-	
-	state_category = rural 
-	buildings_max_level_factor = 1 
-	history = { 
+state={
+	id=1772
+	name="STATE_1772"
+	provinces={
+		7677 7811 7834 7861 7916 7941 8039 
 	}
-	provinces = { 7677 7699 7724 7811 7834 7861 7881 7916 7928 7941 8009 8039 }
+	history = { 
+		victory_points = { 7811 55 }
+		victory_points = { 7834 25 }
+		victory_points = { 7677 25 }
+		victory_points = { 7861 19 }
+		victory_points = { 7941 17 }
+		victory_points = { 8039 15 }
+		victory_points = { 7916 16 }
+		
+		owner = STV 
+		add_core_of = STV 
+	}
+	manpower=1153062
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }
