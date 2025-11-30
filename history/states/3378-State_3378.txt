@@ -2,7 +2,17 @@ state = {
 	id = 3378 
 	name = "STATE_3378" 
 	manpower = 1 
-	
+	history = {
+
+	victory_points = { 12568 31 }#Комсомольск-На-Амуре
+	victory_points = { 12044 17 }#Амурск
+	victory_points = { 13182 1 }#Бичи ахахаха типо бомжи, живёт два человека на карте есть только изза смешного названия)))
+	victory_points = { 12828 12 }#Солнечный
+	victory_points = { 11489 2 }#Кукан
+	victory_points = { 11997 5 }#Литовко
+	victory_points = { 12122 1 }#Мошка здесь никто не живёт но название тоже смешное
+}
+
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

@@ -2,7 +2,15 @@ state = {
 	id = 1089 
 	name = "STATE_1089" 
 	manpower = 1 
-	
+	history = {
+
+	victory_points = { 11859 17 }#Пузогавань
+	victory_points = { 12094 5 }#Высокогорный
+	victory_points = { 11694 2 }#Кенада
+	victory_points = { 11824 15 }#Ванино
+	victory_points = { 12257 1 }#Кузнецовский
+	victory_points = { 13343 5 }#Де-кастри
+}
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

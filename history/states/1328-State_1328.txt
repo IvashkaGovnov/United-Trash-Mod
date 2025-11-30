@@ -4,6 +4,9 @@ state={
 	provinces={
 		10230 10475 10669 10702 10723 10885 10886 10887 11069 11166 11206 11439 11532 11672 11690 
 	}
+history={
+		victory_points = { 11166 87 }#Хэйхэ
+	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural

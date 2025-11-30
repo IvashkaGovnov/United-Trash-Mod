@@ -4,6 +4,11 @@ state={
 	provinces={
 		10396 10462 10463 10512 10560 10588 10685 10686 10687 10712 10737 10738 10754 10780 10835 10879 10903 10931 10984 11010 11035 11106 11107 11152 11153 11219 11332 
 	}
+history = {
+		victory_points = { 10463 82 }#Саратов
+		victory_points = { 10738 23 }#Балашов
+		victory_points = { 10835 20 }#Вольск
+	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural

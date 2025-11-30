@@ -2,7 +2,17 @@ state = {
 	id = 817 
 	name = "STATE_817" 
 	manpower = 1 
+	history = {
 	
+
+	victory_points = { 14972 16 }#Николаевск-на-Амуре
+	victory_points = { 14473 2 }#Маго
+	victory_points = { 13948 2 }#Херпучи
+	victory_points = { 14971 2 }#Чля
+	victory_points = { 14472 1 }#Орель-чля
+	victory_points = { 15255 1 }#Большой Шантар
+	victory_points = { 14889 3 }#Многовершинный
+}
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

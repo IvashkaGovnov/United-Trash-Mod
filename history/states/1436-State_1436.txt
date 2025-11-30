@@ -4,6 +4,11 @@ state={
 	provinces={
 		9752 9798 9863 9975 10048 10067 10517 
 	}
+	history={
+		victory_points = { 10067 5 }#Еланцы
+		
+	}
+
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
