@@ -1,14 +1,14 @@
 state = { 
 	id = 1236 
 	name = "STATE_1236" 
+	#owner = UKR 
+	#add_core_of = UKR 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
 	history = { 
-		
-		#owner = UKR 
-		#add_core_of = UKR 
 	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
 	provinces = { 12533 12581 12627 12660 12762 }
 }

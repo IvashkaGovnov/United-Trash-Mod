@@ -2,12 +2,9 @@ state = {
 	id = 1357 
 	name = "STATE_1357" 
 	manpower = 1 
-	history={
-		victory_points = { 10568 6 }#Усть-Баргузин
-		
-	}
+	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	provinces = { 10173 10229 10362 10568 10823 10868 10932 11230 11408 11436 11621 11671 11752 12070 }
+	provinces = { 10082 10229 10362 10518 10823 10868 11230 11436 17604 }
 }

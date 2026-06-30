@@ -5,21 +5,6 @@ state = {
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		#Лязин
-		owner = ZHR 
-		
-		victory_points = { 9420 14 }
-		victory_points = { 9562 25 }
-		victory_points = { 9633 15 }
-		victory_points = { 9866 41 }
-		victory_points = { 9883 23 }
-		victory_points = { 9983 24 }
-		victory_points = { 10002 10 }
-		victory_points = { 10152 12 }
-		victory_points = { 10571 13 }
-		
-		add_core_of = ZHR 
-	}
-	provinces = { 9420 9502 9562 9633 9671 9714 9756 9866 9867 9883 9956 9983 10002 10085 10152 10233 10446 10571 10795 }
+	local_supplies = 0 
+	provinces = { 9420 9502 9562 9633 9671 9714 9866 9867 9883 9956 9983 10002 10085 10152 10233 10446 10571 10795 }
 }

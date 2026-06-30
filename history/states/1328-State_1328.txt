@@ -1,14 +1,10 @@
-state={
-	id=1328
-	name="STATE_1328"
-	provinces={
-		10230 10475 10669 10702 10723 10885 10886 10887 11069 11166 11206 11439 11532 11672 11690 
-	}
-history={
-		victory_points = { 11166 87 }#Хэйхэ
-	}
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 1328 
+	name = "STATE_1328" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 10230 10475 10669 10702 10723 10885 10886 10887 11069 11166 11206 11439 11672 11690 14743 }
 }

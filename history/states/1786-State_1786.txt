@@ -6,9 +6,10 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	history = { 
+		owner = KBN 
+		
 		victory_points = { 7984 75 }
 		
-		owner = KBN 
 		add_core_of = KBN 
 	}
 	provinces = { 7984 }

@@ -5,10 +5,6 @@ state = {
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		owner = RUS 
-		
-		add_core_of = RUS 
-	}
-	provinces = { 13363 13404 13459 13599 13600 13622 13674 13675 13700 }
+	local_supplies = 0 
+	provinces = { 13363 13459 13599 13600 13622 13674 13675 13700 }
 }

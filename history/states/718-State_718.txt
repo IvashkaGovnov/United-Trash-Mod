@@ -5,10 +5,6 @@ state = {
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		owner = SSA 
-		
-		add_core_of = SSA 
-	}
-	provinces = { 15951 }
+	local_supplies = 0 
+	provinces = { 15951 20248 }
 }

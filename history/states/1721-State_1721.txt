@@ -6,20 +6,5 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	history = { 
-		#Великоудобное
-		owner = ZHR 
-		
-		victory_points = { 8091 30 }
-		victory_points = { 8142 11 }
-		victory_points = { 8205 16 }
-		victory_points = { 8206 15 }
-		victory_points = { 8227 3 }
-		victory_points = { 8287 25 }
-		victory_points = { 8335 5 }
-		victory_points = { 8454 10 }
-		
-		add_core_of = ZHR 
-	}
 	provinces = { 8091 8102 8142 8205 8206 8227 8287 8335 8355 8454 8455 8514 }
 }

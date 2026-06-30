@@ -1,14 +1,10 @@
 state = { 
 	id = 1381 
 	name = "STATE_1381" 
-	#Тольятти
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		
-		victory_points = { 11380 65 }
-	}
-	provinces = { 11314 11380 11399 }
+	local_supplies = 0 
+	provinces = { 11314 11380 11399 21635 }
 }

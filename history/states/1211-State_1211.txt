@@ -6,13 +6,5 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	history = { 
-		
-		victory_points = { 12304 9 }
-		victory_points = { 12438 52 }
-		victory_points = { 12586 17 }
-		victory_points = { 12670 17 }
-	}
-	#Менделеевск
-	provinces = { 12304 12438 12586 12670 12671 21641 21642 21644 }
+	provinces = { 12304 12438 12586 12670 12671 21641 21644 }
 }

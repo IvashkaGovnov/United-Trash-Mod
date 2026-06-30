@@ -1,20 +1,20 @@
-state={
-	id=3671
-	name="STATE_3671"
-	provinces={
-		7786 7913 7927 8038 8149 8174 8211 
-	}
-	history = { 
-		victory_points = { 8149 22 }
-		victory_points = { 8038 19 }
-		victory_points = { 7927 17 }
-		victory_points = { 7913 7 }
-		victory_points = { 7786 9 }
-		
-		owner = KBN 
-		add_core_of = KBN 
-	}
-	manpower = 511725
+state = { 
+	id = 3671 
+	name = "STATE_3671" 
+	manpower = 511725 
+	
 	state_category = rural 
 	buildings_max_level_factor = 1 
+	history = { 
+		owner = KBN 
+		
+		victory_points = { 7786 9 }
+		victory_points = { 7913 7 }
+		victory_points = { 7927 17 }
+		victory_points = { 8038 19 }
+		victory_points = { 8149 22 }
+		
+		add_core_of = KBN 
+	}
+	provinces = { 7786 7913 7927 8038 8149 8174 8211 }
 }

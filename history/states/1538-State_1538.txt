@@ -5,18 +5,6 @@ state = {
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		#Турий Рог
-		owner = ZHR 
-		
-		victory_points = { 8955 3 }
-		victory_points = { 9149 24 }
-		victory_points = { 9459 26 }
-		victory_points = { 9614 27 }
-		victory_points = { 9848 25 }
-		victory_points = { 10003 9 }
-		
-		add_core_of = ZHR 
-	}
-	provinces = { 8955 9132 9133 9149 9201 9321 9345 9421 9459 9546 9547 9613 9614 9672 9697 9848 10003 }
+	local_supplies = 0 
+	provinces = { 9201 9345 9459 9546 9547 9613 9614 9672 9697 9848 10003 }
 }

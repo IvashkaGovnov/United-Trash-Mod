@@ -1,15 +1,10 @@
 state = { 
 	id = 85 
 	name = "STATE_85" 
-	#Манилы
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	history = { 
-		
-		victory_points = { 19376 2 }
-	}
-	provinces = { 19079 19155 19201 19282 19314 19349 19368 19376 19391 19428 19446 19499 19512 19548 19567 }
+	provinces = { 19079 19155 19201 19282 19349 19368 19376 19391 19428 19446 19499 19512 19548 19567 }
 }

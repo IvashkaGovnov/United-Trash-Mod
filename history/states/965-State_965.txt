@@ -2,14 +2,9 @@ state = {
 	id = 965 
 	name = "STATE_965" 
 	manpower = 1 
-	history = { 
-		owner = SSA 
-		
-		add_core_of = SSA 
-	}
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	provinces = { 13538 13563 13564 13565 13566 13707 13734 13766 13897 13927 13990 14061 14146 14176 14228 14288 14289 14341 14415 }
+	provinces = { 13373 13538 13563 13564 13565 13566 13707 13734 13766 13897 13927 13990 14061 14146 14176 14228 14288 14289 14341 14415 }
 }

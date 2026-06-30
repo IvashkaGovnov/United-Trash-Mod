@@ -1,19 +1,21 @@
 state = { 
 	id = 1269 
 	name = "STATE_1269" 
+	#owner = SUM 
+	#add_core_of = SUM 
+	manpower = 188500 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
 	history = { 
-		victory_points = { 12348 23 }
+		owner = UKR 
+		
 		victory_points = { 12107 15 }
+		victory_points = { 12348 23 }
 		victory_points = { 12349 9 }
 		
-		owner = UKR 
 		add_core_of = UKR 
-		#owner = SUM 
-		#add_core_of = SUM 
 	}
-	manpower=188500
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
 	provinces = { 12107 12179 12348 12349 }
 }

@@ -1,22 +1,22 @@
-state={
-	id=1268
-	name="STATE_1268"
-	provinces={
-		11634 12032 12055 12151 12246 
-	}
+state = { 
+	id = 1268 
+	name = "STATE_1268" 
+	#owner = HML 
+	#add_core_of = HML
+	manpower = 687000 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
 	history = { 
-		victory_points = { 12151 29 }
-		victory_points = { 12055 20 }
+		owner = UKR 
+		
 		victory_points = { 11634 9 }
 		victory_points = { 12032 22 }
+		victory_points = { 12055 20 }
+		victory_points = { 12151 29 }
 		
-		owner = UKR 
 		add_core_of = UKR 
-		#owner = HML 
-		#add_core_of = HML
 	}
-	manpower=687000
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 11634 12032 12055 12151 12246 }
 }

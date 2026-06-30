@@ -1,14 +1,10 @@
 state = { 
 	id = 1601 
 	name = "STATE_1601" 
-	#Слюдянка
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		
-		victory_points = { 9650 16 }
-	}
-	provinces = { 9544 9650 9669 }
+	local_supplies = 0 
+	provinces = { 9650 9669 }
 }

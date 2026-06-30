@@ -5,8 +5,7 @@ state = {
 	
 	state_category = wasteland 
 	buildings_max_level_factor = 1 
+	local_supplies = 0 
 	impassable = yes 
-	history = { 
-	}
-	provinces = { 3353 }
+	provinces = { 6136 }
 }

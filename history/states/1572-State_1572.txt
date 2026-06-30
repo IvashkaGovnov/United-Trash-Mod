@@ -1,16 +1,18 @@
 state = { 
 	id = 1572 
 	name = "STATE_1572" 
+	#owner = LGS 
+	#add_core_of = LGS 
+	manpower = 375800 
+	
+	state_category = city 
+	local_supplies = 0 
 	history = { 
+		owner = UKR 
+		
 		victory_points = { 9840 30 }
 		
-		owner = UKR 
 		add_core_of = UKR 
-		#owner = LGS 
-		#add_core_of = LGS 
 	}
-	manpower=375800
-	state_category=city
-	local_supplies=0.000
 	provinces = { 9840 }
 }

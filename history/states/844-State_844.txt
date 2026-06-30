@@ -1,14 +1,10 @@
 state = { 
 	id = 844 
 	name = "STATE_844" 
-	#Тында
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		
-		victory_points = { 14366 17 }
-	}
-	provinces = { 12161 12329 12516 12542 12593 12795 13131 13205 13371 13584 13731 13788 13893 13947 14112 14113 14174 14340 14366 14470 14493 14669 }
+	local_supplies = 0 
+	provinces = { 13371 13584 13731 13788 13947 14112 14113 14174 14366 14470 14493 14669 }
 }

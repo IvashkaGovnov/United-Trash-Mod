@@ -1,15 +1,10 @@
 state = { 
 	id = 1435 
 	name = "STATE_1435" 
-	#Усть-Ордынский
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	history = { 
-		
-		victory_points = { 10254 5 }
-	}
-	provinces = { 10254 10296 10381 10404 10598 10666 10700 10840 11068 }
+	provinces = { 9975 10027 10048 10254 10296 10404 10598 10700 10840 }
 }

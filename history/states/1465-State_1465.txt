@@ -1,24 +1,23 @@
-state={
-	id=1465
-	name="STATE_1465"
-	provinces={
-		10483 10557 
-	}
+state = { 
+	id = 1465 
+	name = "STATE_1465" 
+	manpower = 1762800 
+	
+	state_category = large_city 
+	local_supplies = 0 
 	history = { 
-		victory_points = { 10557 75 }
-		victory_points = { 10483 15 }
-		
 		owner = UKR 
-		add_core_of = UKR 
+		
+		victory_points = { 10483 15 }
+		victory_points = { 10557 75 }
+		
 		#owner = KHR 
 		#add_core_of = KHR 
-       		buildings = {
-			10557 = {
-				land_facility = 1
-			}
+		buildings = { 
+			10557 = { land_facility = 1 }
 		}
+		
+		add_core_of = UKR 
 	}
-	manpower=1762800
-	state_category=large_city
-	local_supplies=0.000
+	provinces = { 10483 10557 }
 }

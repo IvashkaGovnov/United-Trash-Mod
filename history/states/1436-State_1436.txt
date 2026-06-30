@@ -1,16 +1,10 @@
-state={
-	id=1436
-	name="STATE_1436"
-	provinces={
-		9752 9798 9863 9975 10048 10067 10517 
-	}
-	history={
-		victory_points = { 10067 5 }#Еланцы
-		
-	}
-
-	manpower=1
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+state = { 
+	id = 1436 
+	name = "STATE_1436" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 10067 10517 }
 }

@@ -2,8 +2,9 @@ state = {
 	id = 3544 
 	name = "STATE_3544" 
 	manpower = 1 
+	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	provinces = { 1260 2694 6627 7118 12706 12999 17273 19536 }
+	provinces = { 1260 2694 7118 12706 12999 17273 19536 }
 }

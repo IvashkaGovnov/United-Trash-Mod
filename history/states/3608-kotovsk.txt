@@ -1,26 +1,26 @@
-state={
-	id=3608
-	name="STATE_3608"
-	provinces={
-		9921 9940 10038 10039 10138 10160 10428 10507 
-	}
+state = { 
+	id = 3608 
+	name = "STATE_3608" 
+	#owner = ODS 
+	#add_core_of = ODS 
+	manpower = 433237 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
 	history = { 
-		victory_points = { 10428 20 }
-		victory_points = { 9940 16 }
+		owner = UKR 
+		
 		victory_points = { 9921 10 }
-		victory_points = { 10507 15 }
+		victory_points = { 9940 16 }
+		victory_points = { 10038 8 }
 		victory_points = { 10039 5 }
 		victory_points = { 10138 9 }
 		victory_points = { 10160 6 }
-		victory_points = { 10038 8 }
+		victory_points = { 10428 20 }
+		victory_points = { 10507 15 }
 		
-		owner = UKR 
 		add_core_of = UKR 
-		#owner = ODS 
-		#add_core_of = ODS 
 	}
-	manpower=433237
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	provinces = { 9921 9940 10038 10039 10138 10160 10428 10507 }
 }

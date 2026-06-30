@@ -2,18 +2,19 @@ state = {
 	id = 3410 
 	name = "STATE_3410" 
 	manpower = 1 
-	}
-	history={	
-	victory_points = { 8226 49 }#Имянь
-	victory_points = { 7976 24 }#Бальск
-	victory_points = { 8250 25 }#Троицк
-	victory_points = { 8130 75 }#Ратное
-	victory_points = { 7975 51 }#Учан
-	victory_points = { 8115 23 }#Сяошань
-		
-	}
+	
+	#Сяошань
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	history = { 
+		
+		victory_points = { 7975 51 }
+		victory_points = { 7976 24 }
+		victory_points = { 8115 23 }
+		victory_points = { 8130 75 }
+		victory_points = { 8226 49 }
+		victory_points = { 8250 25 }
+	}
 	provinces = { 7908 7975 7976 8028 8115 8130 8225 8226 8250 }
 }

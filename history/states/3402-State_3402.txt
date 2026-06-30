@@ -6,13 +6,5 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	history = { 
-		
-		victory_points = { 12488 10 }
-		victory_points = { 12560 17 }
-		victory_points = { 12608 5 }
-		victory_points = { 12892 20 }
-	}
-	#Иннополис
-	provinces = { 12352 12488 12560 12608 12690 12892 }
+	provinces = { 12352 12488 12560 12608 12690 12892 18080 }
 }

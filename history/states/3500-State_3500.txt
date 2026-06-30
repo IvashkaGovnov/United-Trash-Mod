@@ -2,14 +2,14 @@ state = {
 	id = 3500 
 	name = "STATE_3500" 
 	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
 	history = { 
 		owner = SSA 
 		
 		add_core_of = SSA 
 	}
-	
-	state_category = rural 
-	buildings_max_level_factor = 1 
-	local_supplies = 0 
 	provinces = { 11419 11492 11540 11862 }
 }

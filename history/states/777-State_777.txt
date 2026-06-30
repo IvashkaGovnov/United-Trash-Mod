@@ -1,14 +1,10 @@
 state = { 
 	id = 777 
 	name = "STATE_777" 
-	#Чара
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		
-		victory_points = { 15000 5 }
-	}
-	provinces = { 14573 14647 14668 14968 15000 15132 }
+	local_supplies = 0 
+	provinces = { 9096 12212 13250 13315 13630 }
 }

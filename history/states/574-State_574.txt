@@ -1,14 +1,10 @@
 state = { 
 	id = 574 
 	name = "STATE_574" 
-	#Алдан
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		
-		victory_points = { 16022 17 }
-	}
-	provinces = { 14704 14810 14970 15340 15477 15525 15590 15723 15771 15772 15855 15994 16022 16256 16300 16430 }
+	local_supplies = 0 
+	provinces = { 14573 14647 14668 14704 14810 14968 14970 15340 15404 15477 15554 15590 15723 15771 15772 15855 15994 16022 16256 16430 }
 }

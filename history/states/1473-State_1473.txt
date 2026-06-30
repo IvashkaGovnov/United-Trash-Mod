@@ -4,8 +4,8 @@ state = {
 	manpower = 1 
 	
 	state_category = wasteland 
-	impassable = yes 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	impassable = yes 
 	provinces = { 4665 }
 }

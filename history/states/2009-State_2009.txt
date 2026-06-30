@@ -7,5 +7,5 @@ state = {
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
 	impassable = yes 
-	provinces = { 19163 19239 }
+	provinces = { 19163 }
 }

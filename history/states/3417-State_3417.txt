@@ -6,13 +6,5 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	history = { 
-		#Гирин
-		owner = ZHR 
-		
-		victory_points = { 7602 100 }
-		
-		add_core_of = ZHR 
-	}
-	provinces = { 7087 7154 7277 7306 7332 7383 7394 7409 7434 7510 7525 7588 7602 7617 7618 7619 7682 7731 7741 7796 }
+	provinces = { 7394 7409 7588 7602 7617 7618 7682 7731 7741 7796 }
 }

@@ -6,18 +6,5 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	history = { 
-		#Озёрное
-		owner = ZHR 
-		
-		victory_points = { 8654 2 }
-		victory_points = { 8655 4 }
-		victory_points = { 8819 16 }
-		victory_points = { 8845 10 }
-		victory_points = { 8846 3 }
-		victory_points = { 8983 5 }
-		
-		add_core_of = ZHR 
-	}
 	provinces = { 8654 8655 8715 8750 8819 8845 8846 8983 9053 21614 }
 }

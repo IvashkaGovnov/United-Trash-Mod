@@ -6,13 +6,14 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	history = { 
-		victory_points = { 7773 30 }
-		victory_points = { 7996 10 }
-		victory_points = { 7914 5 }
-		victory_points = { 7697 14 }
-		victory_points = { 7696 12 }
-		
 		owner = KBN 
+		
+		victory_points = { 7696 12 }
+		victory_points = { 7697 14 }
+		victory_points = { 7773 30 }
+		victory_points = { 7914 5 }
+		victory_points = { 7996 10 }
+		
 		add_core_of = KBN 
 	}
 	provinces = { 7542 7696 7697 7773 7914 7996 }

@@ -5,14 +5,6 @@ state = {
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		#Ланьск
-		owner = ZHR 
-		
-		victory_points = { 8544 25 }
-		victory_points = { 8763 100 }
-		
-		add_core_of = ZHR 
-	}
+	local_supplies = 0 
 	provinces = { 8285 8331 8451 8452 8461 8544 8635 8729 8763 8867 8868 8933 9076 }
 }

@@ -2,15 +2,9 @@ state = {
 	id = 1563 
 	name = "STATE_1563" 
 	manpower = 1 
-	history={
-	victory_points = { 9364 41 }#Ичунь
-	victory_points = { 8954 40 }#Сейхуа
-	victory_points = { 9481 16 }#Южногорск
-	victory_points = { 8829 17 }#Таньюань
-	victory_points = { 9016 15 }#Ланьзин
-	}
+	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	provinces = { 8712 8817 8818 8829 8899 8900 8954 8982 9016 9111 9200 9226 9243 9293 9320 9363 9364 9399 9481 9578 9696 }
+	provinces = { 8764 8829 8900 9016 9111 9226 9293 9320 9363 9364 9481 9578 9696 }
 }

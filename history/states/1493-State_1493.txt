@@ -1,15 +1,10 @@
 state = { 
 	id = 1493 
 	name = "STATE_1493" 
-	#Ангарск
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
-	history = { 
-		
-		victory_points = { 10027 30 }
-		victory_points = { 10047 20 }
-	}
-	provinces = { 9797 9910 9974 10027 10047 10127 10472 }
+	local_supplies = 0 
+	provinces = { 10381 }
 }

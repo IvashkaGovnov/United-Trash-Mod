@@ -1,0 +1,10 @@
+state = { 
+	id = 3718 
+	name = "STATE_3718" 
+	manpower = 1 
+	
+	state_category = rural 
+	buildings_max_level_factor = 1 
+	local_supplies = 0 
+	provinces = { 10200 10403 10496 }
+}

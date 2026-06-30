@@ -1,15 +1,10 @@
 state = { 
 	id = 1023 
 	name = "STATE_1023" 
-	#Зажопинск
 	manpower = 1 
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	history = { 
-		
-		victory_points = { 13372 20 }
-	}
-	provinces = { 12826 13207 13341 13372 13388 13489 13761 13832 14089 }
+	provinces = { 12826 13207 13341 13372 13388 13761 13832 14089 }
 }

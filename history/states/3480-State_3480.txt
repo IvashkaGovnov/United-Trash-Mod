@@ -3,11 +3,8 @@ state = {
 	name = "STATE_3480" 
 	manpower = 1 
 	
-	state_category = wasteland 
+	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	impassable = yes 
-	history = { 
-	}
-	provinces = { 4672 }
+	provinces = { 2802 3195 3218 3615 4690 4709 }
 }

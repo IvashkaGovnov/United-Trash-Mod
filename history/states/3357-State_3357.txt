@@ -2,12 +2,9 @@ state = {
 	id = 3357 
 	name = "STATE_3357" 
 	manpower = 1 
-	history={
-		victory_points = { 12744 3 }#Северомуйск
-		
-	}
+	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	provinces = { 11753 11855 12232 12256 12284 12328 12421 12744 12920 }
+	provinces = { 12232 12744 12920 13204 16512 }
 }

@@ -6,5 +6,5 @@ state = {
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	provinces = { 4055 4146 4308 4324 4406 4535 }
+	provinces = { 4146 4308 4324 4406 4535 }
 }
