@@ -1,10 +1,11 @@
-state = { 
-	id = 3328 
-	name = "STATE_3328" 
-	manpower = 1 
-	
-	state_category = rural 
-	buildings_max_level_factor = 1 
-	local_supplies = 0 
-	provinces = { 17628 17778 17819 17858 17930 18014 18056 18078 18137 18241 18261 18293 18391 18407 18420 18489 18603 18617 18657 21724 }
+state={
+	id=3328
+	name="STATE_3328"
+	provinces={
+		17628 17778 17819 17858 17930 18014 18056 18078 18137 18241 18261 18293 18407 18420 18489 18603 18617 18657 21724 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }
