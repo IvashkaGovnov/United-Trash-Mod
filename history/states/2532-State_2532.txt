@@ -1,10 +1,11 @@
-state = { 
-	id = 2532 
-	name = "STATE_2532" 
-	manpower = 1 
-	
-	state_category = rural 
-	buildings_max_level_factor = 1 
-	local_supplies = 0 
-	provinces = { 405 437 453 475 }
+state={
+	id=2532
+	name="STATE_2532"
+	provinces={
+		437 475 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }
