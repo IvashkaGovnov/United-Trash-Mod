@@ -2,7 +2,7 @@ state = {
 	id = 3417 
 	name = "STATE_3417" 
 	manpower = 1 
-	istory = { 
+	history = { 
 		#Гирин
 		owner = ZHR 
 		

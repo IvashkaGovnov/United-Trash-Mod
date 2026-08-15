@@ -2,8 +2,8 @@ state = {
 	id = 3414 
 	name = "STATE_3414" 
 	manpower = 1 
-	victory_points = { 7945 50 }#Яньцзи
-	
+	history = {
+		victory_points = { 7945 50 }#Яньцзи
 	}
 
 	state_category = rural 
@@ -11,3 +11,4 @@ state = {
 	local_supplies = 0 
 	provinces = { 1174 1350 7495 7549 7768 7797 7813 7921 7945 7958 7959 8016 8065 8116 8185 8186 8237 8354 }
 }
+
