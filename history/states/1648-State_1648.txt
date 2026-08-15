@@ -2,7 +2,22 @@ state = {
 	id = 1648 
 	name = "STATE_1648" 
 	manpower = 1 
-	
+	history = { 
+		#Мулин
+		owner = ZHR 
+		
+		victory_points = { 7920 15 }
+		victory_points = { 8029 26 }
+		victory_points = { 8236 9 }
+		victory_points = { 8334 75 }
+		victory_points = { 8462 12 }
+		victory_points = { 8463 24 }
+		victory_points = { 8570 25 }
+		#victory_points = { 9077 11 } potom
+		
+		add_core_of = ZHR 
+	}
+
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

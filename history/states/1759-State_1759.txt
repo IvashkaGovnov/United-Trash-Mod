@@ -2,7 +2,15 @@ state = {
 	id = 1759 
 	name = "STATE_1759" 
 	manpower = 1 
-	
+	history = { 
+		#Владивосток
+		owner = ZHR 
+		
+		victory_points = { 8187 50 }
+		
+		add_core_of = ZHR 
+	}
+
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

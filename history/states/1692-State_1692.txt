@@ -2,7 +2,22 @@ state = {
 	id = 1692 
 	name = "STATE_1692" 
 	manpower = 1 
-	
+	history = { 
+		#Тавричанка
+		owner = ZHR 
+		
+		victory_points = { 8204 6 }
+		victory_points = { 8309 7 }
+		victory_points = { 8571 3 }
+		victory_points = { 8572 25 }
+		victory_points = { 8573 10 }
+		victory_points = { 8574 5 }
+		victory_points = { 8672 9 }
+		victory_points = { 8714 4 }
+		
+		add_core_of = ZHR 
+	}
+
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

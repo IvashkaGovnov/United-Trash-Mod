@@ -2,7 +2,22 @@ state = {
 	id = 1461 
 	name = "STATE_1461" 
 	manpower = 1 
-	
+	history = { 
+		#Лязин
+		owner = ZHR 
+		
+		victory_points = { 9420 14 }
+		victory_points = { 9562 25 }
+		victory_points = { 9633 15 }
+		victory_points = { 9866 41 }
+		victory_points = { 9883 23 }
+		victory_points = { 9983 24 }				victory_points = { 10002 10 }
+		victory_points = { 10152 12 }
+		victory_points = { 10571 13 }
+		
+		add_core_of = ZHR 
+	}
+
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

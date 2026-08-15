@@ -2,7 +2,12 @@ state = {
 	id = 1493 
 	name = "STATE_1493" 
 	manpower = 1 
-	
+	history = { 
+		
+		#victory_points = { 10027 30 }
+		#victory_points = { 10047 20 } УЭЭЭЭЭЭ похуй я щас не хочу ебаться с этим говном ебаным бля
+	}
+
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

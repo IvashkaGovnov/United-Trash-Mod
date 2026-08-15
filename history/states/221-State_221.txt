@@ -2,7 +2,10 @@ state = {
 	id = 221 
 	name = "STATE_221" 
 	manpower = 1 
-	
+	history={
+		victory_points = { 16965 1 }#Аим
+
+	}
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

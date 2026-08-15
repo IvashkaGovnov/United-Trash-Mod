@@ -2,7 +2,20 @@ state = {
 	id = 1709 
 	name = "STATE_1709" 
 	manpower = 1 
-	
+	history = { 
+		#Фанжин
+		owner = ZHR 
+		
+		victory_points = { 8383 14 }
+		victory_points = { 8418 13 }
+		victory_points = { 8492 17 }
+		#victory_points = { 8513 40 }
+		victory_points = { 8569 15 }
+		victory_points = { 8713 16 }
+		
+		add_core_of = ZHR 
+	}
+
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 

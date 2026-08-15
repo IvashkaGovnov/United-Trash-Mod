@@ -2,7 +2,20 @@ state = {
 	id = 1660 
 	name = "STATE_1660" 
 	manpower = 1 
-	
+	history = { 
+		#Озёрное
+		owner = ZHR 
+		
+		victory_points = { 8654 2 }
+		victory_points = { 8655 4 }
+		victory_points = { 8819 16 }
+		victory_points = { 8845 10 }
+		victory_points = { 8846 3 }
+		victory_points = { 8983 5 }
+		
+		add_core_of = ZHR 
+	}
+
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
