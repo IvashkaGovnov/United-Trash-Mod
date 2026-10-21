@@ -9,12 +9,12 @@ state = {
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
 	history = { 
-		owner = UKR 
+		owner =   
 		
 		victory_points = { 12839 5 }
 		victory_points = { 12902 5 }
 		
-		add_core_of = UKR 
+		add_core_of =   
 	}
 	provinces = { 12839 12902 }
 }

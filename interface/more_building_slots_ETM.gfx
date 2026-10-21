@@ -1,0 +1,11 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_buildings_strip_normalsize"
+		textureFile = "gfx/interface/buildings/building_icon_strip_normalsize.dds"
+		noOfFrames = 31
+	}
+	spriteType = {
+		name = "GFX_convert_ic_button_large"
+		textureFile = "gfx/interface/convert_ic_button_large.dds"
+	}
+}
