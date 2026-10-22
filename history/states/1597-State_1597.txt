@@ -8,11 +8,11 @@ state = {
 	state_category = metropolis 
 	local_supplies = 0 
 	history = { 
-		owner =   
+		owner = UKR 
 		
 		victory_points = { 9661 15 }
 		
-		add_core_of =   
+		add_core_of = UKR 
 	}
 	provinces = { 9661 }
 }

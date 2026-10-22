@@ -6,7 +6,11 @@ state = {
 	state_category = wasteland 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
-	impa ble = yes 
-	 
+	impassable = yes 
+	history = { 
+		owner = SSA 
+		
+		add_core_of = SSA 
+	}
 	provinces = { 2660 18544 }
 }
