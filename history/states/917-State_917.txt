@@ -2,11 +2,12 @@ state = {
 	id = 917 
 	name = "STATE_917" 
 	manpower = 1 
-	history={
-		#victory_points = { 13316 7 }#Таксимо похуй потом добавлю
-	}
+	
+	#victory_points = { 13316 7 }#Таксимо похуй потом добавлю
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	history = { 
+	}
 	provinces = { 13130 13416 13533 13559 13892 13893 13987 14223 }
 }

@@ -2,13 +2,14 @@ state = {
 	id = 1186 
 	name = "STATE_1186" 
 	manpower = 1 
-	history = {
-		victory_points = { 12371 41 }#Саранск
-		
-	}
-
+	
+	#Саранск
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	history = { 
+		
+		victory_points = { 12371 41 }
+	}
 	provinces = { 12208 12209 12226 12251 12301 12351 12371 12436 12437 12559 12582 12607 12669 12689 12816 12866 }
 }

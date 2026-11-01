@@ -2,13 +2,13 @@ state = {
 	id = 1344 
 	name = "STATE_1344" 
 	manpower = 1 
-history = { 
-		
-		victory_points = { 11386 4 }
-	}
 	
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	history = { 
+		
+		victory_points = { 11386 4 }
+	}
 	provinces = { 9418 9809 9829 9978 10174 10473 10648 10745 10841 10916 11360 11386 }
 }

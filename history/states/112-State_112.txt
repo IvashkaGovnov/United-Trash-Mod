@@ -2,12 +2,14 @@ state = {
 	id = 112 
 	name = "STATE_112" 
 	manpower = 1 
-	history={
-		victory_points = { 18782 2 }#Оймякон
-
-	}
+	
+	#Оймякон
 	state_category = rural 
 	buildings_max_level_factor = 1 
 	local_supplies = 0 
+	history = { 
+		
+		victory_points = { 18782 2 }
+	}
 	provinces = { 18307 18389 18457 18486 18502 18507 18541 18593 18633 18693 18731 18732 18738 18774 18775 18780 18781 18782 18814 18829 18855 18884 18980 19067 19094 19209 19229 19367 19414 }
 }
